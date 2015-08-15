@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://vivecodigo.github.io/atom.xml" rel="self"/>
   <link href="http://vivecodigo.github.io/"/>
-  <updated>2015-08-15T15:06:13-05:00</updated>
+  <updated>2015-08-15T15:34:41-05:00</updated>
   <id>http://vivecodigo.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,82 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Podcast 0 De La Temporada 0]]></title>
+    <link href="http://vivecodigo.github.io/blog/2015/08/15/podcast-0-de-la-temporada-0/"/>
+    <updated>2015-08-15T15:31:03-05:00</updated>
+    <id>http://vivecodigo.github.io/blog/2015/08/15/podcast-0-de-la-temporada-0</id>
+    <content type="html"><![CDATA[<p>En esta primera emisión les damos la más cordial bienvenida a este proyecto&hellip;</p>
+
+<p>Las notas que comentamos durante el podcast son las siguientes:</p>
+
+<div>
+<ul id="internal-source-marker_0.6223568611312658">
+  <li>Ceylon JVM Language
+<ul>
+  <li><a href="http://www.infoq.com/news/2011/04/ceylon">http://www.infoq.com/news/2011/04/ceylon</a></li>
+  <li><a href="http://devstonez.wordpress.com/2011/04/13/introducing-the-ceylon-project-gavin-king-presentation-at-qcon-beijing-2011/">http://devstonez.wordpress.com/2011/04/13/introducing-the-ceylon-project-gavin-king-presentation-at-qcon-beijing-2011/</a></li>
+</ul>
+</li>
+  <li>Cloud Foundry for Spring Developers
+<ul>
+  <li><a href="http://blog.springsource.com/2011/04/12/cloud-foundry-for-spring-developers/">http://blog.springsource.com/2011/04/12/cloud-foundry-for-spring-developers</a></li>
+  <li><a href="http://blog.springsource.com/2011/04/12/launching-cloud-foundry/">http://blog.springsource.com/2011/04/12/launching-cloud-foundry/</a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+
+<!-- more -->
+
+
+<p>Y el tema principal es acerca del uso de un par de plugins de <strong>jquery</strong>:</p>
+
+<ul>
+  <li>Plugins de graficación
+<ul>
+  <li><a href="http://sixrevisions.com/javascript/20-fresh-javascript-data-visualization-libraries/">http://sixrevisions.com/javascript/20-fresh-javascript-data-visualization-libraries/</a></li>
+</ul>
+</li>
+  <li>Los mejores 10 plugins del 2010
+<ul>
+  <li><a href="http://www.newsticker88.com/10-best-jquery-plugins-of-2010/1945/">http://www.newsticker88.com/10-best-jquery-plugins-of-2010/1945/</a></li>
+</ul>
+</li>
+</ul>
+
+
+<p>Se pueden suscribir al <strong><a href="http://vivecodigo.org/feed.xml">feed</a></strong> o descargarlo directamente desde <strong><a href="http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x00_low.mov">aquí</a></strong>&hellip;</p>
+
+<p><strong>Esperemos que sea de su agrado&hellip;</strong></p>
+
+<iframe src="http://player.vimeo.com/video/22732462" width="540" height="304" frameborder="0"></iframe>
+
+
+<p><strong>
+</strong></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Bienvenido]]></title>
+    <link href="http://vivecodigo.github.io/blog/2015/08/15/bienvenido/"/>
+    <updated>2015-08-15T15:18:38-05:00</updated>
+    <id>http://vivecodigo.github.io/blog/2015/08/15/bienvenido</id>
+    <content type="html"><![CDATA[<p>Te damos la más cordial bienvenida a este nuevo proyecto&hellip;</p>
+
+<p>La intención de este podcast es seguir contribuyendo como lo hemos venido haciendo con proyectos anteriores, pero dándole un toque extra que poco a poco fuimos aterrizando.</p>
+
+<p>Pero, ¿qué podrás encontrar en este proyecto?</p>
+
+<p>Simple, todo lo relacionado al desarrollo de software, desde lenguajes hasta técnicas, pasando por frameworks y prácticas, y en nuestro caso muy particular orientado a la plataforma Java, sin embargo, no dejamos de lado otro conjunto de herramientas que un desarrollador podría ocupar, que son indispensables y complementarios en los proyectos en los que trabajamos diariamente, y que tal vez tu también ocupas o podrías ocupar&hellip;</p>
+
+<p>Esperamos que de a poco y con nuestro esfuerzo nos vayamos ganando tu confianza, y nos hagas llegar tus comentarios&hellip;</p>
+
+<p>Gracias y bienvenido!</p>
+]]></content>
+  </entry>
   
 </feed>
