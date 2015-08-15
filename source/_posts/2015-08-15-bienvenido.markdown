@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bienvenido"
-date: 2015-08-15 15:18:38 -0500
+date: 2011-Apr-13 05:21:38 -0500
 author: José Juan Reyes Zuñiga
 comments: true
 categories: 
