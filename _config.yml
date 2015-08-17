@@ -3,9 +3,9 @@
 # ----------------------- #
 
 url: http://vivecodigo.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: ViveCodigo.org
+subtitle: El podcast para desarrolladores de software.
+author: MakingDevs
 simple_search: https://www.google.com/search
 description:
 
@@ -70,7 +70,7 @@ github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
+twitter_user: vivecodigo
 twitter_tweet_button: true
 
 # Google +1
