@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[ViveCodigo.org]]></title>
   <link href="http://vivecodigo.github.io/atom.xml" rel="self"/>
   <link href="http://vivecodigo.github.io/"/>
-  <updated>2015-08-15T17:30:50-05:00</updated>
+  <updated>2015-08-16T23:04:44-05:00</updated>
   <id>http://vivecodigo.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[MakingDevs]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -70,7 +70,7 @@
   <entry>
     <title type="html"><![CDATA[ViveCodigo - Workshop De VIm Con Felipe Juarez @Sohjiro]]></title>
     <link href="http://vivecodigo.github.io/blog/2015/03/03/vivecodigo-workshop-de-vim-con-felipe-juarez-at-sohjiro/"/>
-    <updated>2015-03-03T17:20:49-05:00</updated>
+    <updated>2015-03-03T16:20:49-06:00</updated>
     <id>http://vivecodigo.github.io/blog/2015/03/03/vivecodigo-workshop-de-vim-con-felipe-juarez-at-sohjiro</id>
     <content type="html"><![CDATA[<p>Bienvenidos sean a otra emisión de su podcast favorito vivecodigo.org Workshop de VIm</p>
 
@@ -103,7 +103,7 @@
   <entry>
     <title type="html"><![CDATA[Episodio 11 De La Temporada 1 – Hector Zarate @iOSCowboy.]]></title>
     <link href="http://vivecodigo.github.io/blog/2014/03/26/episodio-11-de-la-temporada-1-hector-zarate-at-ioscowboy/"/>
-    <updated>2014-03-26T11:54:28-05:00</updated>
+    <updated>2014-03-26T10:54:28-06:00</updated>
     <id>http://vivecodigo.github.io/blog/2014/03/26/episodio-11-de-la-temporada-1-hector-zarate-at-ioscowboy</id>
     <content type="html"><![CDATA[<p>Bienvenidos sean a otra emisión de su podcast favorito vivecodigo.org el episodio numero 11 de la temporada numero 1.</p>
 
@@ -155,7 +155,7 @@
   <entry>
     <title type="html"><![CDATA[Episodio 10 De La Temporada 1 – Hector Cuesta @hmcuesta]]></title>
     <link href="http://vivecodigo.github.io/blog/2014/02/25/episodio-10-de-la-temporada-1-hector-cuesta-at-hmcuesta/"/>
-    <updated>2014-02-25T10:34:39-05:00</updated>
+    <updated>2014-02-25T09:34:39-06:00</updated>
     <id>http://vivecodigo.github.io/blog/2014/02/25/episodio-10-de-la-temporada-1-hector-cuesta-at-hmcuesta</id>
     <content type="html"><![CDATA[<p>Bienvenidos sean a otra emisión de su podcast favorito vivecodigo.org el episodio numero 10 de la temporada numero 1.</p>
 
@@ -202,7 +202,7 @@
   <entry>
     <title type="html"><![CDATA[Episodio 9 De La Temporada 1 – Alcides Flores @alcidesfp]]></title>
     <link href="http://vivecodigo.github.io/blog/2014/02/11/episodio-9-de-la-temporada-1-alcides-flores-at-alcidesfp/"/>
-    <updated>2014-02-11T11:37:06-05:00</updated>
+    <updated>2014-02-11T10:37:06-06:00</updated>
     <id>http://vivecodigo.github.io/blog/2014/02/11/episodio-9-de-la-temporada-1-alcides-flores-at-alcidesfp</id>
     <content type="html"><![CDATA[<p>Bienvenidos sean a otra emisión de su podcast favorito vivecodigo.org el episodio numero 9 de la temporada numero 1.</p>
 
@@ -245,7 +245,7 @@
   <entry>
     <title type="html"><![CDATA[Episodio 8 De La Temporada 1 – Alfredo Chavez @alfredochv]]></title>
     <link href="http://vivecodigo.github.io/blog/2014/01/28/episodio-8-de-la-temporada-1-alfredo-chavez-at-alfredochv/"/>
-    <updated>2014-01-28T14:47:55-05:00</updated>
+    <updated>2014-01-28T13:47:55-06:00</updated>
     <id>http://vivecodigo.github.io/blog/2014/01/28/episodio-8-de-la-temporada-1-alfredo-chavez-at-alfredochv</id>
     <content type="html"><![CDATA[<p>Bienvenidos sean a otra emisión de su podcast favorito vivecodigo.org el episodio numero 8 de la temporada numero 1.</p>
 
@@ -283,7 +283,7 @@ Les hacemos la cordial invitación a que se suscriban al <a href="http://vivecod
   <entry>
     <title type="html"><![CDATA[Episodio 7 De La Temporada 1 – Sergio Díaz @sergiodnila]]></title>
     <link href="http://vivecodigo.github.io/blog/2014/01/14/episodio-7-de-la-temporada-1-sergio-diaz-at-sergiodnila/"/>
-    <updated>2014-01-14T14:23:19-05:00</updated>
+    <updated>2014-01-14T13:23:19-06:00</updated>
     <id>http://vivecodigo.github.io/blog/2014/01/14/episodio-7-de-la-temporada-1-sergio-diaz-at-sergiodnila</id>
     <content type="html"><![CDATA[<p>Bienvenidos sean, regresamos con ustedes después de las  pasadas fiestas, iniciando un año nuevo con nuevas publicaciones y sorpresas para ustedes. Esta nueva emisión del podcast el episodio numero 7 de la temporada numero 1.</p>
 
@@ -310,7 +310,7 @@ Les hacemos la cordial invitación a que se suscriban al <a href="http://vivecod
   <entry>
     <title type="html"><![CDATA[Episodio 6 De La Temporada 1 – Laurent Sansonetti - @lrz]]></title>
     <link href="http://vivecodigo.github.io/blog/2013/12/09/episodio-6-de-la-temporada-1-laurent-sansonetti-at-lrz/"/>
-    <updated>2013-12-09T12:15:01-05:00</updated>
+    <updated>2013-12-09T11:15:01-06:00</updated>
     <id>http://vivecodigo.github.io/blog/2013/12/09/episodio-6-de-la-temporada-1-laurent-sansonetti-at-lrz</id>
     <content type="html"><![CDATA[<p>Bienvenidos sean a esta nueva emisión del podcast el episodio numero 6 de la temporada numero 1.</p>
 
@@ -339,7 +339,7 @@ Les hacemos la cordial invitación a que se suscriban al <a href="http://vivecod
   <entry>
     <title type="html"><![CDATA[Episodio 5 De La Temporada 1 – Coding Dojo (Codebreak)]]></title>
     <link href="http://vivecodigo.github.io/blog/2013/10/28/episodio-5-de-la-temporada-1-coding-dojo-codebreak/"/>
-    <updated>2013-10-28T14:05:22-05:00</updated>
+    <updated>2013-10-28T13:05:22-06:00</updated>
     <id>http://vivecodigo.github.io/blog/2013/10/28/episodio-5-de-la-temporada-1-coding-dojo-codebreak</id>
     <content type="html"><![CDATA[<p>Esta vez en la entrega de Vivecodigo les presentamos nuevamente un coding dojo, en el cual se desarrollo un juego llamada code breaker con algunos destacados invitados.</p>
 
@@ -715,7 +715,7 @@ Gracias a los entrevistados por compartir su conocimiento, gracias a los asisten
   <entry>
     <title type="html"><![CDATA[Episodio 16 De La Temporada 0]]></title>
     <link href="http://vivecodigo.github.io/blog/2012/03/31/episodio-16-de-la-temporada-0/"/>
-    <updated>2012-03-31T06:08:39-05:00</updated>
+    <updated>2012-03-31T05:08:39-06:00</updated>
     <id>http://vivecodigo.github.io/blog/2012/03/31/episodio-16-de-la-temporada-0</id>
     <content type="html"><![CDATA[<p>Bienvenidos sean a este nuevo episodio de ViveCodigo, casi estamos por cerrar nuestra primera temporada y queremos darles otra perspectiva del podcast.</p>
 
@@ -738,7 +738,7 @@ Gracias a los entrevistados por compartir su conocimiento, gracias a los asisten
   <entry>
     <title type="html"><![CDATA[Podcast 15 De La Temporada 0]]></title>
     <link href="http://vivecodigo.github.io/blog/2012/03/15/podcast-15-de-la-temporada-0/"/>
-    <updated>2012-03-15T13:48:39-05:00</updated>
+    <updated>2012-03-15T12:48:39-06:00</updated>
     <id>http://vivecodigo.github.io/blog/2012/03/15/podcast-15-de-la-temporada-0</id>
     <content type="html"><![CDATA[<p>Bienvenidos nuevamente a esta emisión de ViveCodigo.org.</p>
 
