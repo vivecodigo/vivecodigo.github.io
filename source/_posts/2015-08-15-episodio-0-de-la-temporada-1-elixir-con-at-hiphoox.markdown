@@ -23,31 +23,31 @@ Segunda Parte:
 
 Ligas que nos proporciono Norberto Ortigoza sobre Elixir:
 
-<a href="http://benjamintanweihao.github.io/blog/2013/06/08/why-my-next-programming-language-is-elixir/" target="_blank">http://benjamintanweihao.<wbr />github.io/blog/2013/06/08/why-<wbr />my-next-programming-language-<wbr />is-elixir/</a>
+<a href="http://benjamintanweihao.github.io/blog/2013/06/08/why-my-next-programming-language-is-elixir/" target="_blank">http://benjamintanweihao.github.io/blog/2013/06/08/why-my-next-programming-language-is-elixir/</a>
 
 Elixir, A modern approach to programming for the Erlang VM
 <a href="http://vimeo.com/53221562" target="_blank">http://vimeo.com/53221562</a>
 
 Introduction to Elixir
-<a href="http://www.youtube.com/watch?v=a-off4Vznjs&amp;feature=youtu.be" target="_blank">http://www.youtube.com/watch?<wbr />v=a-off4Vznjs&amp;feature=youtu.be</a>
+<a href="http://www.youtube.com/watch?v=a-off4Vznjs&amp;feature=youtu.be" target="_blank">http://www.youtube.com/watch?v=a-off4Vznjs&amp;feature=youtu.be</a>
 
-<a href="http://benjamintanweihao.github.io/blog/2013/06/13/elixir-for-the-lazy-impatient-and-busy-lists-and-recursion/" target="_blank">http://benjamintanweihao.<wbr />github.io/blog/2013/06/13/<wbr />elixir-for-the-lazy-impatient-<wbr />and-busy-lists-and-recursion/</a>
-<a href="http://benjamintanweihao.github.io/blog/2013/06/25/elixir-for-the-lazy-impatient-and-busy-part-2-processes-101/" target="_blank">http://benjamintanweihao.<wbr />github.io/blog/2013/06/25/<wbr />elixir-for-the-lazy-impatient-<wbr />and-busy-part-2-processes-101/</a>
-<a href="http://benjamintanweihao.github.io/blog/2013/07/04/elixir-for-the-lazy-impatient-and-busy-part-3-processes-101/" target="_blank">http://benjamintanweihao.<wbr />github.io/blog/2013/07/04/<wbr />elixir-for-the-lazy-impatient-<wbr />and-busy-part-3-processes-101/</a>
-<a href="http://benjamintanweihao.github.io/blog/2013/07/13/elixir-for-the-lazy-impatient-and-busy-part-4-processes-101/" target="_blank">http://benjamintanweihao.<wbr />github.io/blog/2013/07/13/<wbr />elixir-for-the-lazy-impatient-<wbr />and-busy-part-4-processes-101/</a>
+<a href="http://benjamintanweihao.github.io/blog/2013/06/13/elixir-for-the-lazy-impatient-and-busy-lists-and-recursion/" target="_blank">http://benjamintanweihao.github.io/blog/2013/06/13/elixir-for-the-lazy-impatient-and-busy-lists-and-recursion/</a>
+<a href="http://benjamintanweihao.github.io/blog/2013/06/25/elixir-for-the-lazy-impatient-and-busy-part-2-processes-101/" target="_blank">http://benjamintanweihao.github.io/blog/2013/06/25/elixir-for-the-lazy-impatient-and-busy-part-2-processes-101/</a>
+<a href="http://benjamintanweihao.github.io/blog/2013/07/04/elixir-for-the-lazy-impatient-and-busy-part-3-processes-101/" target="_blank">http://benjamintanweihao.github.io/blog/2013/07/04/elixir-for-the-lazy-impatient-and-busy-part-3-processes-101/</a>
+<a href="http://benjamintanweihao.github.io/blog/2013/07/13/elixir-for-the-lazy-impatient-and-busy-part-4-processes-101/" target="_blank">http://benjamintanweihao.github.io/blog/2013/07/13/elixir-for-the-lazy-impatient-and-busy-part-4-processes-101/</a>
 
-<a href="https://peepcode.com/products/elixir" target="_blank">https://peepcode.com/products/<wbr />elixir</a>
-<a href="http://peepcode.com/blog/2013/elixir-is-for-programmers" target="_blank">http://peepcode.com/blog/2013/<wbr />elixir-is-for-programmers</a>
+<a href="https://peepcode.com/products/elixir" target="_blank">https://peepcode.com/products/elixir</a>
+<a href="http://peepcode.com/blog/2013/elixir-is-for-programmers" target="_blank">http://peepcode.com/blog/2013/elixir-is-for-programmers</a>
 
-<a href="http://devintorr.es/blog/2013/01/22/the-excitement-of-elixir/" target="_blank">http://devintorr.es/blog/2013/<wbr />01/22/the-excitement-of-<wbr />elixir/</a>
-<a href="http://devintorr.es/blog/2013/06/11/elixir-its-not-about-syntax/" target="_blank">http://devintorr.es/blog/2013/<wbr />06/11/elixir-its-not-about-<wbr />syntax/</a>
+<a href="http://devintorr.es/blog/2013/01/22/the-excitement-of-elixir/" target="_blank">http://devintorr.es/blog/2013/01/22/the-excitement-of-elixir/</a>
+<a href="http://devintorr.es/blog/2013/06/11/elixir-its-not-about-syntax/" target="_blank">http://devintorr.es/blog/2013/06/11/elixir-its-not-about-syntax/</a>
 
-<a href="http://blog.alexrp.com/2013/02/14/elixir-isnt-hipster/" target="_blank">http://blog.alexrp.com/2013/<wbr />02/14/elixir-isnt-hipster/</a>
+<a href="http://blog.alexrp.com/2013/02/14/elixir-isnt-hipster/" target="_blank">http://blog.alexrp.com/2013/02/14/elixir-isnt-hipster/</a>
 
-<a href="http://www.theerlangelist.com/2013_01_01_archive.html" target="_blank">http://www.theerlangelist.com/<wbr />2013_01_01_archive.html</a>
+<a href="http://www.theerlangelist.com/2013_01_01_archive.html" target="_blank">http://www.theerlangelist.com/2013_01_01_archive.html</a>
 
-<a href="http://erlangonxen.org/case/a-zero-footprint-cloud" target="_blank">http://erlangonxen.org/case/a-<wbr />zero-footprint-cloud</a>
+<a href="http://erlangonxen.org/case/a-zero-footprint-cloud" target="_blank">http://erlangonxen.org/case/a-zero-footprint-cloud</a>
 
-<a href="http://joearms.github.io/2013/05/31/a-week-with-elixir.html" target="_blank">http://joearms.github.io/2013/<wbr />05/31/a-week-with-elixir.html</a>
+<a href="http://joearms.github.io/2013/05/31/a-week-with-elixir.html" target="_blank">http://joearms.github.io/2013/05/31/a-week-with-elixir.html</a>
 
-<a href="http://pragprog.com/book/elixir/programming-elixir" target="_blank">http://pragprog.com/book/<wbr />elixir/programming-elixir</a>
+<a href="http://pragprog.com/book/elixir/programming-elixir" target="_blank">http://pragprog.com/book/elixir/programming-elixir</a>
