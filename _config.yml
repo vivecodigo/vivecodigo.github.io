@@ -7,7 +7,11 @@ title: ViveCodigo.org
 subtitle: El podcast para desarrolladores de software.
 author: MakingDevs
 simple_search: https://www.google.com/search
-description:
+description: El podcast para desarrolladores de software.
+keywords: programming code languages frameworks podcast video learning makingdevs
+#avatar: images/avatar.jpg
+#background: wall_vivecodigo.png
+logo: logo.jpg
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -98,4 +102,4 @@ disqus_show_comment_count: true
 google_analytics_tracking_id:
 
 # Facebook Like
-facebook_like: false
+facebook_like: true
