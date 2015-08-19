@@ -4,7 +4,9 @@ title: "ViveCodigo – Amazon Web Services con Fernando Maza Bizarro @Fer_Maza_B
 date: 2015-Jul-07 09:09:53 -0500
 author: José Juan Reyes Zuñiga
 comments: true
-categories: 
+image:
+  feature: /images/abstract-1.jpg
+categories:
 ---
 
 Nuevamente sean bienvenidos a otra emisión de su podcast favorito vivecodigo.org.
@@ -16,7 +18,7 @@ Amazon Web Services (AWS abreviado) es una colección de servicios de computaci�
 Maza nos habla de los servicios mas recurridos he importantes de esta herramienta, desde una bereve historia de lo que es amazon pasando por diseño de nuestra ifrecstructura con este servicio o hacer un calculo de nuestras necesidades a nivel de servicios en la nube. Sin duda un tema muy interesante.
 <!--more-->
 
-<img class="alignleft size-thumbnail wp-image-537" src="http://vivecodigo.org/wp-content/uploads/uno-150x150.jpg" alt="uno" width="150" height="150" /><img class="alignleft size-thumbnail wp-image-535" src="http://vivecodigo.org/wp-content/uploads/dos-150x150.jpg" alt="dos" width="150" height="150" />
+<img class="alignleft size-thumbnail wp-image-537" src="/images/uno.jpg" alt="uno" width="150" height="150" /><img class="alignleft size-thumbnail wp-image-535" src="/images/dos.jpg" alt="dos" width="150" height="150" />
 
 Les hacemos la cordial invitación a que se suscriban al <a href="http://vivecodigo.org/feed.xml">feed</a> del Videocast de ViveCodigo.org o encontrarnos en iTunes como: <a href="https://itunes.apple.com/ca/podcast/vivecodigo.org-videocast/id685052596">ViveCodigo.org - VideoCast</a>.
 
@@ -28,9 +30,9 @@ O si lo prefieren al <a href="http://media.vivecodigo.org.s3.amazonaws.com/podca
 
 <iframe src="https://player.vimeo.com/video/132551768" width="720" height="405" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-<a href="http://media.vivecodigo.org.s3.amazonaws.com/podcast-audio/files/ViveCodigo_Amazon_Web_Service_a.mp3"><img class="aligncenter" src="http://vivecodigo.org/wp-content/uploads/download-150x150.gif" alt="download" width="50" height="50" /></a>
+<a href="http://media.vivecodigo.org.s3.amazonaws.com/podcast-audio/files/ViveCodigo_Amazon_Web_Service_a.mp3"><img class="aligncenter" src="/images/download.gif" alt="download" width="50" height="50" /></a>
 <p style="text-align: center;">ViveCodigo_Amazon_Web_Service_a.mp3</p>
-<p style="text-align: center;"><a href="http://media.vivecodigo.org.s3.amazonaws.com/podcast-audio/files/ViveCodigo_Amazon_Web_Service_b.mp3"><img class="aligncenter" src="http://vivecodigo.org/wp-content/uploads/download-150x150.gif" alt="download" width="50" height="50" /></a></p>
+<p style="text-align: center;"><a href="http://media.vivecodigo.org.s3.amazonaws.com/podcast-audio/files/ViveCodigo_Amazon_Web_Service_b.mp3"><img class="aligncenter" src="/images/download.gif" alt="download" width="50" height="50" /></a></p>
 <p style="text-align: center;">ViveCodigo_Amazon_Web_Service_b.mp3</p>
 <p style="text-align: center;">Descarga el archivo mp3 del audio del Podcast o escuchalo aquí mismo.</p>
 <audio controls="controls"><source src="http://media.vivecodigo.org.s3.amazonaws.com/podcast-audio/files/ViveCodigo_Amazon_Web_Service_a.mp3" type="audio/mpeg" /></audio> ViveCodigo_Amazon_Web_Service_a.mp3

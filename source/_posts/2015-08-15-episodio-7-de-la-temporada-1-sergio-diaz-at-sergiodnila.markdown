@@ -13,7 +13,7 @@ En esta ocasión nos visita Sergio Díaz Nila - @sergiodnila programador experim
 
 Nos hablo de los Sesgos Cognitovos, explorando la parte humana del desarrollo de software y nos platica porque le motivo el explorar este tema sin duda muy  interesante, pues es algo que como desarrolladores pasamos desapercibidos, pero gracias a esta charla tomamos conciencia de nuestro razonamiento.
 
-<img title="More..." alt="" src="http://vivecodigo.org/wp-includes/js/tinymce/plugins/wordpress/img/trans.gif" />Un entrevista sin duda muy interesante que no se pueden perder.
+Un entrevista sin duda muy interesante que no se pueden perder.
 <!--more-->
 ¡Espero lo disfruten! y apreciamos mucho cualquier comentario que nos puedan dejar, pronto mas capítulos de la temporada 01.
 
