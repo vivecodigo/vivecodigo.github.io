@@ -11,8 +11,8 @@ params:
   description: "Nice theme for homepages and blogs"
   keywords: ""
   # home page
-  homeTitle: "ViveCodigo"
-  homeSubtitle: "EL podcast para desarrolladores"
+  homeTitle: "ViveCodigo.org"
+  homeSubtitle: "EL PODCAST PARA DESARROLLADORES DE SOFTWARE."
 menu:
   main:
     - identifier: blog
