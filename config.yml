@@ -2,6 +2,17 @@ baseurl: localhost
 title: My Blog
 language: en
 theme: hello-4s3ti
+
+permalinks:
+  posts: "posts/:year/:month/:day/:title/"
+params:
+  enableSharingButtons: true
+  # metadata description
+  description: "Nice theme for homepages and blogs"
+  keywords: ""
+  # home page
+  homeTitle: "ViveCodigo"
+  homeSubtitle: "EL podcast para desarrolladores"
 menu:
   main:
     - identifier: blog
