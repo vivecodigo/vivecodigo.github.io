@@ -1,3 +1,36 @@
-baseURL: http://example.org/
+baseurl: /
 languageCode: en-us
-title: My New Hugo Site
+theme: hello-4s3ti
+paginate: 5
+params:
+  contentTypeName: posts
+  defaultTheme: dark
+  showMenuItems: 2
+  showReadingTime: false
+languages:
+  en:
+    title: Hello Friend
+    subtitle: A simple theme for Hugo
+    keywords: ''
+    copyright: ''
+    menuMore: Show more
+    writtenBy: Written by
+    readMore: Read more
+    readOtherPosts: Read other posts
+    newerPosts: Newer posts
+    olderPosts: Older posts
+    minuteReadingTime: min read
+    dateFormatSingle: '2006-01-02'
+    dateFormatList: '2006-01-02'
+    params:
+      logo:
+        logoText: hello friend
+        logoHomeLink: /
+    menu:
+      main:
+        - identifier: about
+          name: About
+          url: /about
+        - identifier: showcase
+          name: Showcase
+          url: /showcase
