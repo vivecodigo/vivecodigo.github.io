@@ -1,36 +1,42 @@
-baseurl: /
+baseurl: localhost
+title: My Blog
 languageCode: en-us
 theme: hello-4s3ti
-paginate: 5
+paginate: 10
 params:
-  contentTypeName: posts
-  defaultTheme: dark
-  showMenuItems: 2
-  showReadingTime: false
+  dateform: 'Jan 2, 2006'
+  dateformShort: Jan 2
+  dateformNum: '2006-01-02'
+  dateformNumTime: '2006-01-02 15:04'
+  homeSubtitle: A simple and beautiful blog
+  disableReadOtherPosts: false
+  enableSharingButtons: true
+  description: My new homepage or blog
+  keywords: 'homepage, blog'
+  images:
+    - ''
+taxonomies:
+  category: blog
+  tag: tags
+  series: series
 languages:
   en:
-    title: Hello Friend
+    title: Hello Friend NG
     subtitle: A simple theme for Hugo
     keywords: ''
-    copyright: ''
-    menuMore: Show more
-    writtenBy: Written by
-    readMore: Read more
+    copyright: >-
+      <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank"
+      rel="noopener">CC BY-NC 4.0</a>
     readOtherPosts: Read other posts
-    newerPosts: Newer posts
-    olderPosts: Older posts
-    minuteReadingTime: min read
-    dateFormatSingle: '2006-01-02'
-    dateFormatList: '2006-01-02'
     params:
       logo:
-        logoText: hello friend
+        logoText: hello friend ng
         logoHomeLink: /
-    menu:
-      main:
-        - identifier: about
-          name: About
-          url: /about
-        - identifier: showcase
-          name: Showcase
-          url: /showcase
+menu:
+  main:
+    - identifier: blog
+      name: Blog
+      url: /posts
+    - identifier: about
+      name: About
+      url: /about
