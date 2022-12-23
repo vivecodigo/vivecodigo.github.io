@@ -1,14 +1,20 @@
 ---
+author:
+  name: "Pete peterson"
+date: "2022-12-22"
+linktitle: "my_page"
+description: "ejemplo example essempio"
 title: "My_page"
-date: 2022-12-22T11:05:55-06:00
-draft: false
-toc: false
-images:
-tags:
-  - untagged
+type:
+- post
+- posts
+weight: 1
+series:
+- Hugo 101
+slug: "Creation d'un nouveau theme"
 ---
-
-# Como que todo le sale perfecto
+<!-- date = "2014-09-28" -->
+## Como que todo le sale perfecto
 
 ## La academia
 
