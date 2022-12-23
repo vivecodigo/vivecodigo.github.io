@@ -3,9 +3,25 @@ title: My Blog
 language: en
 theme: hello-4s3ti
 
+author:
+  name: MakingDevs
+
+blackfriday:
+  hrefTargetBlank: true
+
+taxonomies:
+  tag: tags
+  category: categories
+
 permalinks:
   posts: "posts/:year/:month/:day/:title/"
 params:
+  # Day formats
+  dateform: "Jan 2, 2006"
+  dateformShort: "Jan 2"
+  dateformNum: "2006-01-02"
+  dateformNumTime: "2006-01-02 15:04"
+
   enableSharingButtons: true
   # metadata description
   description: "Nice theme for homepages and blogs"
