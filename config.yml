@@ -7,6 +7,8 @@ paginate: 10
 author:
   name: MakingDevs
 
+copyright: "All rights reserved"
+
 blackfriday:
   hrefTargetBlank: true
 
@@ -39,6 +41,13 @@ params:
   showPosts: true
   # hideReadMore: true
   # showReadingTime: false
+
+  ## footer
+  footer:
+    trademark: true
+    copyright: true
+    author: true
+
 menu:
   main:
     - identifier: blog
