@@ -25,7 +25,7 @@ params:
   dateformNum: "2006-01-02"
   dateformNumTime: "2006-01-02 15:04"
 
-  enableSharingButtons: true
+  enableSharingButtons: false
   # metadata description
   description: "Nice theme for homepages and blogs"
   keywords: ""
@@ -47,6 +47,9 @@ params:
     trademark: true
     copyright: true
     author: true
+    socialIcons: true
+    # bottomText:
+    #   - "Powered by <a href=\"http://gohugo.io\">Hugo</a>"
 
   logo:
     logoMark: ">"
@@ -54,6 +57,15 @@ params:
     logoHomeLink: "/"
     logoCursorColor: "#67a2c9"
     logoCursorAnimate: "6s"
+
+  fontAwesome:
+    kitURL: "https://kit.fontawesome.com/f3a7e69c00.js"
+
+  social:
+    - name: "twitter"
+      url: "https://twitter.com/4s3ti/"
+    - name: "instagram"
+      url: "https://www.instagram.com/c4colaco/"
 menu:
   main:
     - identifier: blog
