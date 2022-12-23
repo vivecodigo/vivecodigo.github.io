@@ -29,6 +29,9 @@ params:
   # home page
   homeTitle: "ViveCodigo.org"
   homeSubtitle: "EL PODCAST PARA DESARROLLADORES DE SOFTWARE."
+  # backgroundImage @ home
+  backgroundImage: "imagesa/bg_wall.png"
+  backgroundEffects: true
 menu:
   main:
     - identifier: blog
