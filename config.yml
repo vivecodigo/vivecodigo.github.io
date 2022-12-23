@@ -1,6 +1,6 @@
 baseurl: localhost
-title: My Blog
-language: en
+title: ViveCodigo.org
+language: es
 theme: hello-4s3ti
 paginate: 10
 
@@ -16,8 +16,6 @@ taxonomies:
   tag: tags
   category: categories
 
-permalinks:
-  posts: "posts/:year/:month/:day/:title/"
 params:
   # Day formats
   dateform: "Jan 2, 2006"
@@ -27,11 +25,11 @@ params:
 
   enableSharingButtons: false
   # metadata description
-  description: "Nice theme for homepages and blogs"
-  keywords: ""
+  description: "El podcast para desarrolladores de software."
+  keywords: "programming code languages frameworks podcast video learning makingdevs"
   # home page
   homeTitle: "ViveCodigo.org"
-  homeSubtitle: "EL PODCAST PARA DESARROLLADORES DE SOFTWARE."
+  homeSubtitle: "El podcast para desarrolladores de software."
   # backgroundImage @ home
   backgroundImage: "imagesa/bg_wall.png"
   backgroundEffects: true
