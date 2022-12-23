@@ -48,6 +48,12 @@ params:
     copyright: true
     author: true
 
+  logo:
+    logoMark: ">"
+    logoText: "$vive-codigo"
+    logoHomeLink: "/"
+    logoCursorColor: "#67a2c9"
+    logoCursorAnimate: "6s"
 menu:
   main:
     - identifier: blog
