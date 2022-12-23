@@ -2,6 +2,7 @@ baseurl: localhost
 title: My Blog
 language: en
 theme: hello-4s3ti
+paginate: 10
 
 author:
   name: MakingDevs
@@ -32,6 +33,12 @@ params:
   # backgroundImage @ home
   backgroundImage: "imagesa/bg_wall.png"
   backgroundEffects: true
+  # theme dark/light
+  enableThemeToggle: true
+  # home posts
+  showPosts: true
+  # hideReadMore: true
+  # showReadingTime: false
 menu:
   main:
     - identifier: blog
