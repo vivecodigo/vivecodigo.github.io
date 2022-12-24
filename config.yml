@@ -7,6 +7,8 @@ paginate: 10
 author:
   name: MakingDevs
 
+disqusShortname: vivecodigo
+
 copyright: "All rights reserved"
 
 blackfriday:
