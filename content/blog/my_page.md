@@ -5,6 +5,7 @@ date: "2022-12-22"
 linktitle: "my_page"
 description: "ejemplo example essempio"
 title: "My_page"
+draft: true
 type:
 - post
 - posts
