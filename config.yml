@@ -3,6 +3,7 @@ title: ViveCodigo.org
 language: es
 theme: hello-4s3ti
 paginate: 10
+# paginatePath: /blog/
 
 author:
   name: MakingDevs
@@ -12,7 +13,7 @@ disqusShortname: vivecodigo
 copyright: "All rights reserved"
 
 permalinks:
-  posts: /:year/:month/:day/:title/
+  blog: blog/:year/:month/:day/:title/
 
 blackfriday:
   hrefTargetBlank: true
@@ -22,6 +23,7 @@ taxonomies:
   category: categories
 
 params:
+  contentTypeName: blog
   # Day formats
   dateform: "Jan 2, 2006"
   dateformShort: "Jan 2"
@@ -73,7 +75,7 @@ menu:
   main:
     - identifier: blog
       name: Blog
-      url: /posts
+      url: /blog
     - identifier: about
       name: Nosotros
       url: /about
