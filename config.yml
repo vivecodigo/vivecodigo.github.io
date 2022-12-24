@@ -41,7 +41,7 @@ params:
   backgroundImage: "imagesa/bg_wall.png"
   backgroundEffects: true
   # theme dark/light
-  enableThemeToggle: true
+  enableThemeToggle: false
   # home posts
   showPosts: true
   # hideReadMore: true
