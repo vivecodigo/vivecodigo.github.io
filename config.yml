@@ -72,5 +72,5 @@ menu:
       name: Blog
       url: /posts
     - identifier: about
-      name: About
+      name: Nosotros
       url: /about
