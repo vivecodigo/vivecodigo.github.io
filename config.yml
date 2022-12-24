@@ -11,6 +11,9 @@ disqusShortname: vivecodigo
 
 copyright: "All rights reserved"
 
+permalinks:
+  posts: /:year/:month/:day/:title/
+
 blackfriday:
   hrefTargetBlank: true
 
