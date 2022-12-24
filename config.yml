@@ -67,9 +67,14 @@ params:
 
   social:
     - name: "twitter"
-      url: "https://twitter.com/4s3ti/"
-    - name: "instagram"
-      url: "https://www.instagram.com/c4colaco/"
+      url: "https://twitter.com/ViveCodigo"
+    - name: "vimeo"
+      url: "https://vimeo.com/makingdevs"
+      icon: "fa-brands fa-vimeo-v"
+    - name: "iTunes"
+      url: "https://itunes.apple.com/mz/podcast/vivecodigo.org-podcast/id722889939"
+      icon: "fa-brands fa-itunes-note"
+
 menu:
   main:
     - identifier: blog
