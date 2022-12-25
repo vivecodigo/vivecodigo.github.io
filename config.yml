@@ -80,6 +80,3 @@ menu:
     - identifier: blog
       name: Blog
       url: /blog
-    - identifier: about
-      name: Nosotros
-      url: /about
