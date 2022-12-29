@@ -38,7 +38,7 @@ params:
   homeTitle: "ViveCodigo.org"
   homeSubtitle: "El podcast para desarrolladores de software."
   # backgroundImage @ home
-  backgroundImage: "imagesa/bg_wall.png"
+  backgroundImage: "images/bg_wall.png"
   backgroundEffects: true
   # theme dark/light
   enableThemeToggle: true
