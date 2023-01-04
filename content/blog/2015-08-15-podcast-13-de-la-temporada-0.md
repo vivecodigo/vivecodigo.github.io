@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Podcast 13 de la temporada 0"
-date: 2012-02-7T10:10:16-05:00
+date: 2012-02-07T10:10:16-05:00
 author:
   name: José Juan Reyes Zuñiga
 comments: true
-categories: 
+categories:
 ---
 
 Saludos nuevamente a la comunidad de desarrolladores!
