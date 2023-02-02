@@ -10,7 +10,7 @@ categories:
 
 Bienvenidos sean a este nuevo episodio de ViveCodigo, casi estamos por cerrar nuestra primera temporada y queremos darles otra perspectiva del podcast.
 
-<iframe src="http://player.vimeo.com/video/39522331" height="281" width="500" allowfullscreen="" frameborder="0"></iframe>
+<iframe src="https://player.vimeo.com/video/39522331" height="281" width="500" allowfullscreen="" frameborder="0"></iframe>
 <!-- more -->
 En esta ocasión nos sumergimos en una organización que nos permitió realizar algunas actividades en conjunto con los miembros de TI. Aquí inculcamos un poco de valores y prácticas ágiles a través de dinámicas que permitían al equipo concebir y experimentar un poco de los principios que les mostramos.
 

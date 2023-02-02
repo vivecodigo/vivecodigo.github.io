@@ -10,7 +10,7 @@ categories:
 
 Saludos nuevamente a la comunidad de desarrolladores!
 
-<iframe src="http://player.vimeo.com/video/36328535?color=ff9933" height="281" width="500" frameborder="0"></iframe>
+<iframe src="https://player.vimeo.com/video/36328535?color=ff9933" height="281" width="500" frameborder="0"></iframe>
 
 En esta ocasión nos complacemos de presentarle a Andrés Gömez(@Clojure_Mexico) quién nos vino a platicar de un lenguaje soportado sobre la JVM: Clojure
 

@@ -18,17 +18,17 @@ Disfruten esta amena entrevista sobre  Ceylon, un lenguaje que corre sobre la 
 
 Primera parte de la entrevista:
 
-<iframe src="http://player.vimeo.com/video/72417851" height="281" width="500" allowfullscreen="" frameborder="0"></iframe>
+<iframe src="https://player.vimeo.com/video/72417851" height="281" width="500" allowfullscreen="" frameborder="0"></iframe>
 <!-- more -->
 <a href="http://vimeo.com/72417851">ViveCodigo 01x01 - Ceylon con Enrique Zamudio</a> from <a href="http://vimeo.com/makingdevs">MakingDevs</a> on <a href="https://vimeo.com">Vimeo</a>.
 
 Segunda parte de la entrevista:
-<iframe src="http://player.vimeo.com/video/72448505" height="281" width="500" allowfullscreen="" frameborder="0"></iframe>
+<iframe src="https://player.vimeo.com/video/72448505" height="281" width="500" allowfullscreen="" frameborder="0"></iframe>
 
 <a href="http://vimeo.com/72448505">ViveCodigo 01x01 - Ceylon Demo</a> from <a href="http://vimeo.com/makingdevs">MakingDevs</a> on <a href="https://vimeo.com">Vimeo</a>.
 
 Atras de cameras en ViveCodigo.org:
-<iframe src="http://player.vimeo.com/video/72819280" height="281" width="500" allowfullscreen="" frameborder="0"></iframe>
+<iframe src="https://player.vimeo.com/video/72819280" height="281" width="500" allowfullscreen="" frameborder="0"></iframe>
 
 <a href="http://vimeo.com/72819280">Ceylon AtrasDeCamaras</a> from <a href="http://vimeo.com/makingdevs">MakingDevs</a> on <a href="https://vimeo.com">Vimeo</a>.
 

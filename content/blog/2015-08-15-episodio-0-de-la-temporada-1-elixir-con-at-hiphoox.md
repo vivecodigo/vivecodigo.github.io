@@ -15,10 +15,10 @@ Les traigo la nueva temporada de ViveCodigo la temporada 01 en esta ocasión el 
 Posteriormente nos platica de Elixir, un lenguaje de programación basado en Erlang y nos introduce los conceptos que rigen al lenguaje dando muestra de su gran capacidad, Nos habla profundamente del dicho lenguaje ademas su funcionalidad y su gran capacidad gracias a que esta basado en Erlang. En la segunda parte de la platica Norberto nos da una serie de ejemplo y mas que ejemplo nos muestra como trabaja elixir y Nos muestra algo muy interessante de Erlang .
 
 ¡Espero lo disfruten! y apreciamos mucho cualquier comentario que nos puedan dejar, pronto mas capítulos de la temporada 01 y esperen las sorpresas que ViveCodigo nos traerá.
-<iframe src="http://player.vimeo.com/video/71478527" height="281" width="500" allowfullscreen="" frameborder="0"></iframe>
+<iframe src="https://player.vimeo.com/video/71478527" height="281" width="500" allowfullscreen="" frameborder="0"></iframe>
 <!-- more -->
 Segunda Parte:
-<iframe src="http://player.vimeo.com/video/71536087" height="281" width="500" allowfullscreen="" frameborder="0"></iframe>
+<iframe src="https://player.vimeo.com/video/71536087" height="281" width="500" allowfullscreen="" frameborder="0"></iframe>
 
 <a href="http://vimeo.com/71536087">ViveCodigo 00x01 - Elixir</a> from <a href="http://vimeo.com/makingdevs">MakingDevs</a> on <a href="https://vimeo.com">Vimeo</a>.
 

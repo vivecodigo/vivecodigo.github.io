@@ -12,11 +12,11 @@ Bienvenidos nuevamente!
 
 Hemos grabado con mucho gusto el podcast con Enrique Zamudio(@<a href="http://twiiter.com/chochosmx">chochosmx</a>) en donde nos habla de uno de los proyectos creados y administrados por él: jAlarms( <a href="http://jalarms.sourceforge.net/">http://jalarms.sourceforge.net/</a> ), además, Enrique nos transmite su experiencia desarrollando software libre y open source; también comparte con nosotros la aventura de poner su proyecto en los repositorios de Maven. Sin lugar a duda y como todos los podcast, una charla muy amena...
 
-<iframe src="http://player.vimeo.com/video/27031278?color=ff9933" height="281" width="500" frameborder="0"></iframe>
+<iframe src="https://player.vimeo.com/video/27031278?color=ff9933" height="281" width="500" frameborder="0"></iframe>
 <!-- more -->
 Además en el screencast nos muestra como usar jAlarms con múltiples canales, bastante interesante debido a que no sólo nos muestra las aplicaciones prácticas en las cuales se pueden usar alarmas, también nos muestra un poco del manejo de Gradle( <a href="http://gradle.org/">http://gradle.org/</a> )
 
-<iframe src="http://player.vimeo.com/video/27160401?color=ff9933" height="281" width="500" frameborder="0"></iframe>
+<iframe src="https://player.vimeo.com/video/27160401?color=ff9933" height="281" width="500" frameborder="0"></iframe>
 
 Si sólo desean escuchar el audio pueden usar este widget:
 

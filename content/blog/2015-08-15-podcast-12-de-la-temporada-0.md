@@ -15,10 +15,10 @@ Bienvenidos a esta nueva emisión del podcast de ViveCodigo.org, en esta ocasió
 </ol>
 Queremos agradecer a los asistentes al Dojo por su participación y por sus resultados, y también por compartir sus soluciones con nosotros; aquí listamos a los desarrolladores del Dojo y la liga donde pueden encontrar el código que desarrollaron:
 
-<iframe src="http://player.vimeo.com/video/35331361?color=ff9933" width="500" height="281" frameborder="0"></iframe>
+<iframe src="https://player.vimeo.com/video/35331361?color=ff9933" width="500" height="281" frameborder="0"></iframe>
 <br/><br/>
 <!-- more -->
-<iframe src="http://player.vimeo.com/video/35698652?color=ff9933" width="500" height="281" frameborder="0"></iframe>
+<iframe src="https://player.vimeo.com/video/35698652?color=ff9933" width="500" height="281" frameborder="0"></iframe>
 
 <ul>
   <li>Theo Grip - <a href="http://twitter.com/tgrip">@tgrip</a> - <a href="https://github.com/tgrip/CodingKata">https://github.com/tgrip/CodingKata</a></li>

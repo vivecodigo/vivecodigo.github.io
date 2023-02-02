@@ -10,9 +10,9 @@ categories:
 <p>En esta ocasión nos servimos de un tema para las aplicaciones en el navegador: "Estándares Web", en donde Luis Hernández(mejor identificado como @juwe) nos habla de su experiencia como diseñador y desarrollador.</p>
 <p>Hablamos de la importancia de conocer las bases fundamentales del desarrollo web: html, css y javascript.</p>
 <p>Nuevamente les haremos entrega de este podcast en dos versiones:</p>
-<p><iframe src="http://player.vimeo.com/video/24452424?color=f06800" height="281" width="500" frameborder="0"></iframe></p>
+<p><iframe src="https://player.vimeo.com/video/24452424?color=f06800" height="281" width="500" frameborder="0"></iframe></p>
 <!-- more -->
-<p><iframe src="http://player.vimeo.com/video/24639833?color=f06800" height="281" width="500" frameborder="0"></iframe></p>
+<p><iframe src="https://player.vimeo.com/video/24639833?color=f06800" height="281" width="500" frameborder="0"></iframe></p>
 <p>Adicionalmente, ponemos a su disposición los archivos de video de las dos partes:</p>
 <ul>
 <li><a href="http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x03_a.mov">Entrevista con Luis Hernández</a></li>

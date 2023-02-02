@@ -11,11 +11,11 @@ categories:
 Hola a todos!
 En esta ocasión, de forma clandestina y muy nocturna, traemos para ustedes nuestro episodio de ViveCodigo de la mano de Enrique Díaz(@nrikeDiaz) un experimentado desarrollador para la plataforma Android, que nos estará hablando de sus vivencias acerca de esta tecnología, así como, muchos tips y consejos que nos pueden ayudar al momento de querer adoptarla.
 
-<iframe src="http://player.vimeo.com/video/27805985?color=ff9933" height="281" width="500" frameborder="0"></iframe>
+<iframe src="https://player.vimeo.com/video/27805985?color=ff9933" height="281" width="500" frameborder="0"></iframe>
 <!-- more -->
 En el screencast nos muestra LUA, un lenguaje alternativo para desarrollar en Android, dándonos la visión de que podemos tener muchas herramientas en las cuales podemos hacer apps muy buenas y creativas.
 
-<iframe src="http://player.vimeo.com/video/27806569?color=ff9933" height="281" width="500" frameborder="0"></iframe>
+<iframe src="https://player.vimeo.com/video/27806569?color=ff9933" height="281" width="500" frameborder="0"></iframe>
 
 Si sólo desean escuchar el audio pueden usar este widget:
 
