@@ -19,9 +19,9 @@ Amazon Web Services (AWS abreviado) es una colección de servicios de computaci�
 Maza nos habla de los servicios mas recurridos he importantes de esta herramienta, desde una bereve historia de lo que es amazon pasando por diseño de nuestra ifrecstructura con este servicio o hacer un calculo de nuestras necesidades a nivel de servicios en la nube. Sin duda un tema muy interesante.
 <!--more-->
 
-<img class="alignleft size-thumbnail wp-image-537" src="/images/uno.jpg" alt="uno" width="150" height="150" /><img class="alignleft size-thumbnail wp-image-535" src="/vive-codigo-HugoMigration/images/dos.jpg" alt="dos" width="150" height="150" />
+<img class="alignleft size-thumbnail wp-image-537" src="/vive-codigo-HugoMigration/images/uno.jpg" alt="uno" width="150" height="150" /><img class="alignleft size-thumbnail wp-image-535" src="/vive-codigo-HugoMigration/images/dos.jpg" alt="dos" width="150" height="150" />
 
-Les hacemos la cordial invitación a que se suscriban al <a href="http://vivecodigo.org/feed.xml">feed</a> del Videocast de ViveCodigo.org o encontrarnos en iTunes como: <a href="https://itunes.apple.com/ca/podcast/vivecodigo.org-videocast/id685052596">ViveCodigo.org - VideoCast</a>.
+Les hacemos la cordial invitación a que se suscriban al <a href="http://vivecodigo.org/feed.xml">feed</a>" "del Videocast de ViveCodigo.org o encontrarnos en iTunes como: <a href="https://itunes.apple.com/ca/podcast/vivecodigo.org-videocast/id685052596">ViveCodigo.org - VideoCast</a>.
 
 O si lo prefieren al <a href="http://media.vivecodigo.org.s3.amazonaws.com/podcast-audio/feed.xml">feed</a> del podcast de audio o en iTunes como:<a href="https://itunes.apple.com/mz/podcast/vivecodigo.org-podcast/id722889939">ViveCodigo.org - Podcast</a>.
 
@@ -31,9 +31,9 @@ O si lo prefieren al <a href="http://media.vivecodigo.org.s3.amazonaws.com/podca
 
 <iframe src="https://player.vimeo.com/video/132551768" width="720" height="405" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-<a href="http://media.vivecodigo.org.s3.amazonaws.com/podcast-audio/files/ViveCodigo_Amazon_Web_Service_a.mp3"><img class="aligncenter" src="/images/download.gif" alt="download" width="50" height="50" /></a>
+<a href="http://media.vivecodigo.org.s3.amazonaws.com/podcast-audio/files/ViveCodigo_Amazon_Web_Service_a.mp3"><img class="aligncenter" src="/vive-codigo-HugoMigration/images/download.gif" alt="download" width="50" height="50" /></a>
 <p style="text-align: center;">ViveCodigo_Amazon_Web_Service_a.mp3</p>
-<p style="text-align: center;"><a href="http://media.vivecodigo.org.s3.amazonaws.com/podcast-audio/files/ViveCodigo_Amazon_Web_Service_b.mp3"><img class="aligncenter" src="/images/download.gif" alt="download" width="50" height="50" /></a></p>
+<p style="text-align: center;"><a href="http://media.vivecodigo.org.s3.amazonaws.com/podcast-audio/files/ViveCodigo_Amazon_Web_Service_b.mp3"><img class="aligncenter" src="/vive-codigo-HugoMigration/images/download.gif" alt="download" width="50" height="50" /></a></p>
 <p style="text-align: center;">ViveCodigo_Amazon_Web_Service_b.mp3</p>
 <p style="text-align: center;">Descarga el archivo mp3 del audio del Podcast o escuchalo aquí mismo.</p>
 <audio controls="controls"><source src="http://media.vivecodigo.org.s3.amazonaws.com/podcast-audio/files/ViveCodigo_Amazon_Web_Service_a.mp3" type="audio/mpeg" /></audio> ViveCodigo_Amazon_Web_Service_a.mp3

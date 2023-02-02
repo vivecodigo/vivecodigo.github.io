@@ -21,7 +21,7 @@ Nos habla sobre cuales son las claves del desarrollo de una aplicación móvil p
 </ul>
 Un tema muy interesante sobre el desarrollo para este tipo de plataformas.
 
-<img class="alignleft size-thumbnail wp-image-537" alt="uno" src="/images/uno.jpg" width="150" height="150" /><img class="alignleft size-thumbnail wp-image-535" alt="dos" src="/images/dos.jpg" width="150" height="150" />
+<img class="alignleft size-thumbnail wp-image-537" alt="uno" src="/vive-codigo-HugoMigration/images/uno.jpg" width="150" height="150" /><img class="alignleft size-thumbnail wp-image-535" alt="dos" src="/vive-codigo-HugoMigration/images/dos.jpg" width="150" height="150" />
 
 Les hacemos la cordial invitación a que se suscriban al <a href="http://vivecodigo.org/feed.xml">feed</a> del Videocast de ViveCodigo.org o encontrarnos en iTunes como: <a href="https://itunes.apple.com/ca/podcast/vivecodigo.org-videocast/id685052596">ViveCodigo.org - VideoCast</a>.
 <!--more-->
@@ -36,7 +36,7 @@ Un entrevista sin duda muy interesante que no se pueden perder.
 
 <a href="http://vimeo.com/90047678">ViveCodigo 01x11 - Desarrollo y distribución de aplicaciones moviles con Hector Zarate (@iOSCowboy)</a> from <a href="http://vimeo.com/makingdevs">MakingDevs</a> on <a href="https://vimeo.com">Vimeo</a>.
 
-<a href="http://media.vivecodigo.org.s3.amazonaws.com/podcast-audio/temporada1/ViveCodigo01x11_a.mp3"><img class="aligncenter" alt="download" src="/images/download.gif" width="50" height="50" /></a>
+<a href="http://media.vivecodigo.org.s3.amazonaws.com/podcast-audio/temporada1/ViveCodigo01x11_a.mp3"><img class="aligncenter" alt="download" src="/vive-codigo-HugoMigration/images/download.gif" width="50" height="50" /></a>
 <p style="text-align: center;">Descarga el archivo mp3 del audio del Podcast o escuchalo aquí mismo.</p>
 <audio width="300" height="32" controls="controls"><source src="http://media.vivecodigo.org.s3.amazonaws.com/podcast-audio/temporada1/ViveCodigo01x11_a.mp3" type="audio/mpeg" />
 </audio>

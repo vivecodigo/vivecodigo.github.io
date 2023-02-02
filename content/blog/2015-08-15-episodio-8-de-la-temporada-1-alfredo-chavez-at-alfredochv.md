@@ -14,7 +14,7 @@ En esta ocasión nos visita Alfredo Chavez - @alfredochv desarrollador de softw
 
 La profesión de desarrollo de software  toma un nuevo carácter conforme el tiempo, nos hace reflexionar sobre algunos ámbitos que tenemos como desarrolladores de software y el camino que conllevar convertirse en uno. La importancia que tiene la profesionalización de los nuevos desarrolladores de software, los retos y desafíos que enfrentan en la actualidad.
 
-<img class="alignleft size-thumbnail wp-image-537" alt="uno" src="/images/uno.jpg" width="150" height="150" /><img class="alignleft size-thumbnail wp-image-535" alt="dos" src="/images/dos.jpg" width="150" height="150" />
+<img class="alignleft size-thumbnail wp-image-537" alt="uno" src="/vive-codigo-HugoMigration/images/uno.jpg" width="150" height="150" /><img class="alignleft size-thumbnail wp-image-535" alt="dos" src="/vive-codigo-HugoMigration/images/dos.jpg" width="150" height="150" />
 Les hacemos la cordial invitación a que se suscriban al <a href="http://vivecodigo.org/feed.xml">feed</a> del Videocast de ViveCodigo.org o encontrarnos en iTunes como: <a href="https://itunes.apple.com/ca/podcast/vivecodigo.org-videocast/id685052596">ViveCodigo.org - VideoCast</a>.
 <!--more-->
 

@@ -28,7 +28,7 @@ assert convertToLCD(8) == numberLCD;</pre>
 Se recomienda comenzar con el número 1, e ir avanzando progresivamente con los demás números para refinar tanto el código como la prueba.
 
 Además, existen por así decirlo, dos tipos de fuentes, las cuales mostramos a continuación:
-<p style="text-align: center;"><a href="http://vivecodigo.org/2012/03/15/podcast-15-de-la-temporada-0/ang-2qycaaii4-h-jpg-large/" rel="attachment wp-att-268"><img class="size-medium wp-image-268 aligncenter" title="Ang-2qYCAAIi4-h.jpg-large" alt="" src="/images/Ang-2qYCAAIi4-h.jpg-large-300x91.jpg" width="300" height="91" /></a></p>
+<p style="text-align: center;"><a href="http://vivecodigo.org/2012/03/15/podcast-15-de-la-temporada-0/ang-2qycaaii4-h-jpg-large/" rel="attachment wp-att-268"><img class="size-medium wp-image-268 aligncenter" title="Ang-2qYCAAIi4-h.jpg-large" alt="" src="/vive-codigo-HugoMigration/images/Ang-2qYCAAIi4-h.jpg-large-300x91.jpg" width="300" height="91" /></a></p>
 Como se puede apreciar, la fuente grande consiste de 5 líneas y la pequeña de 3, en la experiencia de quienes han desarrollado la Kata, la de 5 líneas es la más sencilla de implementar, por lo tanto se recomienda comenzar con dicha implementación.
 
 Queremos agradecer a quienes asistieron al Dojo:
