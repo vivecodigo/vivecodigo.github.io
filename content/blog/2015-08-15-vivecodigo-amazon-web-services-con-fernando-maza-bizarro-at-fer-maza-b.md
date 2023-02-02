@@ -19,7 +19,7 @@ Amazon Web Services (AWS abreviado) es una colección de servicios de computaci�
 Maza nos habla de los servicios mas recurridos he importantes de esta herramienta, desde una bereve historia de lo que es amazon pasando por diseño de nuestra ifrecstructura con este servicio o hacer un calculo de nuestras necesidades a nivel de servicios en la nube. Sin duda un tema muy interesante.
 <!--more-->
 
-<img class="alignleft size-thumbnail wp-image-537" src="/images/uno.jpg" alt="uno" width="150" height="150" /><img class="alignleft size-thumbnail wp-image-535" src="/images/dos.jpg" alt="dos" width="150" height="150" />
+<img class="alignleft size-thumbnail wp-image-537" src="/images/uno.jpg" alt="uno" width="150" height="150" /><img class="alignleft size-thumbnail wp-image-535" src="/vive-codigo-HugoMigration/images/dos.jpg" alt="dos" width="150" height="150" />
 
 Les hacemos la cordial invitación a que se suscriban al <a href="http://vivecodigo.org/feed.xml">feed</a> del Videocast de ViveCodigo.org o encontrarnos en iTunes como: <a href="https://itunes.apple.com/ca/podcast/vivecodigo.org-videocast/id685052596">ViveCodigo.org - VideoCast</a>.
 
