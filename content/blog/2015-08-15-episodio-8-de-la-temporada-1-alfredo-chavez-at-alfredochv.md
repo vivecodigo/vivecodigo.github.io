@@ -16,6 +16,7 @@ La profesión de desarrollo de software  toma un nuevo carácter conforme el ti
 
 <img class="alignleft size-thumbnail wp-image-537" alt="uno" src="/vive-codigo-HugoMigration/images/uno.jpg" width="150" height="150" /><img class="alignleft size-thumbnail wp-image-535" alt="dos" src="/vive-codigo-HugoMigration/images/dos.jpg" width="150" height="150" />
 Les hacemos la cordial invitación a que se suscriban al <a href="http://vivecodigo.org/feed.xml">feed</a> del Videocast de ViveCodigo.org o encontrarnos en iTunes como: <a href="https://itunes.apple.com/ca/podcast/vivecodigo.org-videocast/id685052596">ViveCodigo.org - VideoCast</a>.
+
 <!--more-->
 
 O si lo prefieren al <a href="http://media.vivecodigo.org.s3.amazonaws.com/podcast-audio/feed.xml">feed</a> del podcast de audio o en iTunes como:<a href="https://itunes.apple.com/mz/podcast/vivecodigo.org-podcast/id722889939">ViveCodigo.org - Podcast</a>.
