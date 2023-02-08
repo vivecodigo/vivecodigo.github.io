@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/home/erick/Code/repos/makingDevs/ViveCodigo/vivecodigo.github.io",
+	"sourceRoot": "/home/runner/work/vivecodigo.github.io/vivecodigo.github.io",
 	"sources": [
 		"themes/hello-4s3ti/assets/scss/main.scss",
 		"themes/hello-4s3ti/assets/scss/_normalize.scss",
