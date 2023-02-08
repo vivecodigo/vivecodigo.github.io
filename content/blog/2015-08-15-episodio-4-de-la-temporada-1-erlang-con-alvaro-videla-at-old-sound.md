@@ -26,4 +26,4 @@ Una conversación muy entretenida, informativa y enriquecedora, no se lo pierdan
 
 <a href="http://vimeo.com/75962951">ViveCodigo 01x04 - Erlang con Alvaro Videla(@old_sound)- Demo</a> -  from <a href="http://vimeo.com/makingdevs">MakingDevs</a> on <a href="https://vimeo.com">Vimeo</a>.
 
-Se pueden suscribir al <a href="http://vivecodigo.org/feed.xml">feed</a> de ViveCodigo.org o encuentranos en iTunes como: <a href="https://itunes.apple.com/ca/podcast/vivecodigo.org-videocast/id685052596">ViveCodigo.org - VideoCast</a>
+Se pueden suscribir al <a href="http://vivecodigo.org/blog/index.xml">feed</a> de ViveCodigo.org o encuentranos en iTunes como: <a href="https://itunes.apple.com/ca/podcast/vivecodigo.org-videocast/id685052596">ViveCodigo.org - VideoCast</a>

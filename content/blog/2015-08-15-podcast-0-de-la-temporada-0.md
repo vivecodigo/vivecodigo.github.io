@@ -41,7 +41,7 @@ Y el tema principal es acerca del uso de un par de plugins de <strong>jquery</st
 </ul>
 </li>
 </ul>
-Se pueden suscribir al <strong><a href="http://vivecodigo.org/feed.xml">feed</a></strong> o descargarlo directamente desde <strong><a href="http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x00_low.mov">aquí</a></strong>...
+Se pueden suscribir al <strong><a href="http://vivecodigo.org/blog/index.xml">feed</a></strong> o descargarlo directamente desde <strong><a href="http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x00_low.mov">aquí</a></strong>...
 
 <strong>Esperemos que sea de su agrado...</strong>
 

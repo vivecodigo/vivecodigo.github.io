@@ -20,4 +20,4 @@ Espero disfruten este contenido. Sigan enviándonos sus comentarios tambien nos 
 <iframe src="//player.vimeo.com/video/77982880" height="281" width="500" allowfullscreen="" frameborder="0"></iframe>
 <!-- more -->
 <a href="http://vimeo.com/77982880">ViveCodigo 01x05 - Coding Dojo (Codebreak)</a> from <a href="http://vimeo.com/makingdevs">MakingDevs</a> on <a href="https://vimeo.com">Vimeo</a>.
-Se pueden suscribir al <a href="http://vivecodigo.org/feed.xml">feed</a> de ViveCodigo.org o encuentranos en iTunes como: <a href="https://itunes.apple.com/ca/podcast/vivecodigo.org-videocast/id685052596">ViveCodigo.org - VideoCast</a>
+Se pueden suscribir al <a href="http://vivecodigo.org/blog/index.xml">feed</a> de ViveCodigo.org o encuentranos en iTunes como: <a href="https://itunes.apple.com/ca/podcast/vivecodigo.org-videocast/id685052596">ViveCodigo.org - VideoCast</a>

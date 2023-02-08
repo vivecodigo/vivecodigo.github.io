@@ -17,4 +17,4 @@ categories:
 <p>Detras de  Camaras de ViveCodigo.org</p>
 <p><iframe src="//player.vimeo.com/video/75350419" height="281" width="500" allowfullscreen="" frameborder="0"></iframe></p>
 <p><a href="http://vimeo.com/75350419">ViveCodigo 01x03 - Detras de Camaras - Desarrollo de juegos en JoyBox con @JuanKaram y @mexinsane</a> from <a href="http://vimeo.com/makingdevs">MakingDevs</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-<p>Se pueden suscribir al <a href="http://vivecodigo.org/feed.xml">feed</a> de ViveCodigo.org o encuentranos en iTunes como: <a href="https://itunes.apple.com/ca/podcast/vivecodigo.org-videocast/id685052596">ViveCodigo.org - VideoCast</a></p>
+<p>Se pueden suscribir al <a href="http://vivecodigo.org/blog/index.xml">feed</a> de ViveCodigo.org o encuentranos en iTunes como: <a href="https://itunes.apple.com/ca/podcast/vivecodigo.org-videocast/id685052596">ViveCodigo.org - VideoCast</a></p>

@@ -34,7 +34,7 @@ Atras de cameras en ViveCodigo.org:
 
 &nbsp;
 
-Se pueden suscribir al <a href="http://vivecodigo.org/feed.xml">feed</a> de ViveCodigo.org o encuentranos en iTunes como: <a href="https://itunes.apple.com/ca/podcast/vivecodigo.org-videocast/id685052596">ViveCodigo.org - VideoCast</a>
+Se pueden suscribir al <a href="http://vivecodigo.org/blog/index.xml">feed</a> de ViveCodigo.org o encuentranos en iTunes como: <a href="https://itunes.apple.com/ca/podcast/vivecodigo.org-videocast/id685052596">ViveCodigo.org - VideoCast</a>
 
 &nbsp;
 

@@ -20,6 +20,6 @@ Laurent Sansonetti, es fundador de HipByte y desarrollador principal de RubyMot
 
 ¡Espero lo disfruten! y apreciamos mucho cualquier comentario que nos puedan dejar, pronto mas capítulos de la temporada 01.
 
-Se pueden suscribir al <a href="http://vivecodigo.org/feed.xml">feed</a> de ViveCodigo.org o encontrarnos en iTunes como: <a href="https://itunes.apple.com/ca/podcast/vivecodigo.org-videocast/id685052596">ViveCodigo.org - VideoCast</a>
+Se pueden suscribir al <a href="http://vivecodigo.org/blog/index.xml">feed</a> de ViveCodigo.org o encontrarnos en iTunes como: <a href="https://itunes.apple.com/ca/podcast/vivecodigo.org-videocast/id685052596">ViveCodigo.org - VideoCast</a>
 
 <a href="http://vimeo.com/81020270">ViveCodigo 01x06 - RubyMotion con Laurent Sansonetti (@lrz)</a> from <a href="http://vimeo.com/makingdevs">MakingDevs</a> on <a href="https://vimeo.com">Vimeo</a>.

@@ -56,7 +56,7 @@ Adicionalmente, el podcast lo puedes descargar:
   <li><a href="http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x02_a.mov">Primera Parte</a></li>
   <li><a href="http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x02_b.mov">Segunda Parte</a></li>
 </ul>
-O bien suscribirte al <a href="http://vivecodigo.org/feed.xml">feed</a>...
+O bien suscribirte al <a href="http://vivecodigo.org/blog/index.xml">feed</a>...
 
 Muchas gracias a todos por vernos!!!!
 

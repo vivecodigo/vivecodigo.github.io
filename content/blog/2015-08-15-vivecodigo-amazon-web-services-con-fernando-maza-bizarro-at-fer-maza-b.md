@@ -21,7 +21,7 @@ Maza nos habla de los servicios mas recurridos he importantes de esta herramient
 
 <img class="alignleft size-thumbnail wp-image-537" src="https://vivecodigo.org/images/uno.jpg" alt="uno" width="150" height="150" /><img class="alignleft size-thumbnail wp-image-535" src="https://vivecodigo.org/images/dos.jpg" alt="dos" width="150" height="150" />
 
-Les hacemos la cordial invitación a que se suscriban al <a href="http://vivecodigo.org/feed.xml">feed</a>" "del Videocast de ViveCodigo.org o encontrarnos en iTunes como: <a href="https://itunes.apple.com/ca/podcast/vivecodigo.org-videocast/id685052596">ViveCodigo.org - VideoCast</a>.
+Les hacemos la cordial invitación a que se suscriban al <a href="http://vivecodigo.org/blog/index.xml">feed</a>" "del Videocast de ViveCodigo.org o encontrarnos en iTunes como: <a href="https://itunes.apple.com/ca/podcast/vivecodigo.org-videocast/id685052596">ViveCodigo.org - VideoCast</a>.
 
 O si lo prefieren al <a href="http://media.vivecodigo.org.s3.amazonaws.com/podcast-audio/feed.xml">feed</a> del podcast de audio o en iTunes como:<a href="https://itunes.apple.com/mz/podcast/vivecodigo.org-podcast/id722889939">ViveCodigo.org - Podcast</a>.
 
