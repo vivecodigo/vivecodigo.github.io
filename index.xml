@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ViveCodigo.org</title>
+    <link>https://3rickDJ.github.io/vive-codigo-HugoMigration/</link>
+    <description>Recent content on ViveCodigo.org</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>All rights reserved</copyright>
+    <lastBuildDate>Tue, 07 Jul 2015 09:09:53 -0500</lastBuildDate><atom:link href="https://3rickDJ.github.io/vive-codigo-HugoMigration/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ViveCodigo – Amazon Web Services con Fernando Maza Bizarro @Fer_Maza_B</title>
+      <link>https://3rickDJ.github.io/vive-codigo-HugoMigration/blog/2015/07/07/vivecodigo-amazon-web-services-con-fernando-maza-bizarro-@fer_maza_b/</link>
+      <pubDate>Tue, 07 Jul 2015 09:09:53 -0500</pubDate>
+      
+      <guid>https://3rickDJ.github.io/vive-codigo-HugoMigration/blog/2015/07/07/vivecodigo-amazon-web-services-con-fernando-maza-bizarro-@fer_maza_b/</guid>
+      <description>&lt;p&gt;Nuevamente sean bienvenidos a otra emisión de su podcast favorito vivecodigo.org.&lt;/p&gt;
+&lt;p&gt;Esta vez contamos con la presencia de nuestro amigo Manuel Fernando Maza Bizarro - @Fer_Maza_B ingeniero en sistemas. quien nos platica de un tema muy interesante que es Amazon Web Services.&lt;/p&gt;
+&lt;p&gt;Amazon Web Services (AWS abreviado) es una colección de servicios de computación en la nube (también llamados servicios web) que en conjunto forman una plataforma de computación en la nube, ofrecidas a través de Internet por Amazon.com&lt;/p&gt;
+&lt;p&gt;Maza nos habla de los servicios mas recurridos he importantes de esta herramienta, desde una bereve historia de lo que es amazon pasando por diseño de nuestra ifrecstructura con este servicio o hacer un calculo de nuestras necesidades a nivel de servicios en la nube. Sin duda un tema muy interesante.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ViveCodigo - Workshop de VIm con Felipe Juarez @Sohjiro</title>
+      <link>https://3rickDJ.github.io/vive-codigo-HugoMigration/blog/2015/03/03/vivecodigo-workshop-de-vim-con-felipe-juarez-@sohjiro/</link>
+      <pubDate>Tue, 03 Mar 2015 17:20:49 -0500</pubDate>
+      
+      <guid>https://3rickDJ.github.io/vive-codigo-HugoMigration/blog/2015/03/03/vivecodigo-workshop-de-vim-con-felipe-juarez-@sohjiro/</guid>
+      <description>&lt;p&gt;Bienvenidos sean a otra emisión de su podcast favorito vivecodigo.org Workshop de VIm&lt;/p&gt;
+&lt;p&gt;En esta ocasión Felipe Juarez &lt;a href=&#34;https://twitter.com/Sohjiro&#34;&gt;@Sohjiro&lt;/a&gt; nos hablara de VIm, un editor hecho por programadores para programadores,  para facilitar la programación, también nos dirá de los movimientos básicos y fundamentales para la manipulación, edición e inserción de texto así como moverse sobre los diferentes directorios, buffers y ventanas y la forma en que los entornos de desarrollo integrados, pueden editar el código fuente además llamar a un compilador externo e interpretar sus resultados.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Episodio 11 de la temporada 1 – Hector Zarate @iOSCowboy.</title>
+      <link>https://3rickDJ.github.io/vive-codigo-HugoMigration/blog/2014/03/26/episodio-11-de-la-temporada-1-hector-zarate-@ioscowboy./</link>
+      <pubDate>Wed, 26 Mar 2014 11:54:28 -0500</pubDate>
+      
+      <guid>https://3rickDJ.github.io/vive-codigo-HugoMigration/blog/2014/03/26/episodio-11-de-la-temporada-1-hector-zarate-@ioscowboy./</guid>
+      <description>&lt;p&gt;Bienvenidos sean a otra emisión de su podcast favorito vivecodigo.org el episodio numero 11 de la temporada numero 1.&lt;/p&gt;
+&lt;p&gt;En esta ocasión una entrevista remota desde Varsovia con nuestro amigo Hector Zarate - @iOSCowboy, quien nos platica su interesante trayectoria profesional como desarrollador de software, el cual se desempeña en el desarrollo de aplicaciones móviles y que se encuentra escribiendo un libro titulado &amp;ldquo;Guia de referencia para el desarrollo y distribución de aplicaciones en plataformas móviles&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Nos habla sobre cuales son las claves del desarrollo de una aplicación móvil pero sobre todo cuales son las premisas para que una aplicación móvil sea exitosa:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Satisfacer una necesidad&lt;/li&gt;
+  &lt;li&gt;Planear el desarrollo de software&lt;/li&gt;
+  &lt;li&gt;Experiencia al usuario (usabilidad)&lt;/li&gt;
+  &lt;li&gt;Marketing&lt;/li&gt;
+&lt;/ul&gt;
+Un tema muy interesante sobre el desarrollo para este tipo de plataformas.
+&lt;p&gt;&lt;img class=&#34;alignleft size-thumbnail wp-image-537&#34; alt=&#34;uno&#34; src=&#34;https://3rickDJ.github.io/vive-codigo-HugoMigration/vive-codigo-HugoMigration/images/uno.jpg&#34; width=&#34;150&#34; height=&#34;150&#34; /&gt;&lt;img class=&#34;alignleft size-thumbnail wp-image-535&#34; alt=&#34;dos&#34; src=&#34;https://3rickDJ.github.io/vive-codigo-HugoMigration/vive-codigo-HugoMigration/images/dos.jpg&#34; width=&#34;150&#34; height=&#34;150&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Les hacemos la cordial invitación a que se suscriban al &lt;a href=&#34;http://vivecodigo.org/feed.xml&#34;&gt;feed&lt;/a&gt; del Videocast de ViveCodigo.org o encontrarnos en iTunes como: &lt;a href=&#34;https://itunes.apple.com/ca/podcast/vivecodigo.org-videocast/id685052596&#34;&gt;ViveCodigo.org - VideoCast&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Episodio 10 de la temporada 1 – Hector Cuesta @hmcuesta</title>
+      <link>https://3rickDJ.github.io/vive-codigo-HugoMigration/blog/2014/02/25/episodio-10-de-la-temporada-1-hector-cuesta-@hmcuesta/</link>
+      <pubDate>Tue, 25 Feb 2014 10:34:39 -0500</pubDate>
+      
+      <guid>https://3rickDJ.github.io/vive-codigo-HugoMigration/blog/2014/02/25/episodio-10-de-la-temporada-1-hector-cuesta-@hmcuesta/</guid>
+      <description>&lt;p&gt;Bienvenidos sean a otra emisión de su podcast favorito vivecodigo.org el episodio numero 10 de la temporada numero 1.&lt;/p&gt;
+&lt;p&gt;En esta ocasión tenemos con nosotros Hector Cuesta - @hmcuesta, que nos platico sobre su libro titulado &lt;a href=&#34;http://www.amazon.com/Practical-Data-Analysis-Hector-Cuesta/dp/1783280999&#34;&gt;&amp;ldquo;Practical Data Analysis&amp;rdquo;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://3rickDJ.github.io/vive-codigo-HugoMigration/images/libro-practical.png&#34;&gt;&lt;img class=&#34;size-thumbnail wp-image-565 alignleft&#34; alt=&#34;libro practical&#34; src=&#34;https://3rickDJ.github.io/vive-codigo-HugoMigration/vive-codigo-HugoMigration/images/libro-practical.png&#34; width=&#34;125&#34; height=&#34;150&#34; /&gt;&lt;/a&gt;Un tema muy interesante sobre el análisis de datos, dando un enfoque computacional, y sobre todo con una nueva vision del análisis de datos un poco mas particular para el desarrollo de proyectos.&lt;/p&gt;
+&lt;p&gt;Nos da ejemplos muy interesantes el cual como podemos generar elementos para estudiar y analizar los datos,  explora la forma de analizar los datos de diferentes maneras innovadora con una vision actual.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Episodio 9 de la temporada 1 – Alcides Flores @alcidesfp</title>
+      <link>https://3rickDJ.github.io/vive-codigo-HugoMigration/blog/2014/02/11/episodio-9-de-la-temporada-1-alcides-flores-@alcidesfp/</link>
+      <pubDate>Tue, 11 Feb 2014 11:37:06 -0500</pubDate>
+      
+      <guid>https://3rickDJ.github.io/vive-codigo-HugoMigration/blog/2014/02/11/episodio-9-de-la-temporada-1-alcides-flores-@alcidesfp/</guid>
+      <description>&lt;p&gt;Bienvenidos sean a otra emisión de su podcast favorito vivecodigo.org el episodio numero 9 de la temporada numero 1.&lt;/p&gt;
+&lt;p&gt;En esta ocasión tenemos con nosotros Alcides Flores - @alcidesfp, amigo y compañero que ya habíamos tenido el gusta de estar con el en algún &lt;a href=&#34;http://recursivo.org/?p=102&#34;&gt;#CodeRetreat&lt;/a&gt; en &lt;a href=&#34;http://recursivo.org/&#34;&gt;recursivo.org&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Alcides Flores programador con ya varios años de experiencia en el desarrollo de software, esta ocasión  nos hablo sobre un herramienta en exceso interesante GNU Emacs.&lt;/p&gt;
+&lt;p&gt;Emacs es un manipulador de texto pero mas que un simple manipulador de texto, posee un gran cantidad de funciones que para un desarrollador de software puede y sera de gran utilidad&lt;/p&gt;
+&lt;p&gt;Gnu Emacs es obviamente parte del proyecto &lt;a title=&#34;GNU&#34; href=&#34;http://www.gnu.org/&#34;&gt;GNU&lt;/a&gt; y la versión más popular de Emacs con una gran actividad en su desarrollo. El manual de GNU Emacs lo describe como &amp;ldquo;un editor extensible, personalizable, documentado y de tiempo real, su enorme conjunto de características está orientado a ayudar el usuario a manipular gran cantidad de texto ademas de ser todo un ambiente de desarrollo como nos explica Alcides Flores en este capitulo.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Episodio 8 de la temporada 1 – Alfredo Chavez @alfredochv</title>
+      <link>https://3rickDJ.github.io/vive-codigo-HugoMigration/blog/2014/01/28/episodio-8-de-la-temporada-1-alfredo-chavez-@alfredochv/</link>
+      <pubDate>Tue, 28 Jan 2014 14:47:55 -0500</pubDate>
+      
+      <guid>https://3rickDJ.github.io/vive-codigo-HugoMigration/blog/2014/01/28/episodio-8-de-la-temporada-1-alfredo-chavez-@alfredochv/</guid>
+      <description>&lt;p&gt;Bienvenidos sean a otra emisión de su podcast favorito vivecodigo.org el episodio numero 8 de la temporada numero 1.&lt;/p&gt;
+&lt;p&gt;En esta ocasión nos visita Alfredo Chavez - @alfredochv desarrollador de software con amplia experiencia. Nos hablo sobre un tema muy interesante la &amp;ldquo;profesionalización del desarrollor de software&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;La profesión de desarrollo de software  toma un nuevo carácter conforme el tiempo, nos hace reflexionar sobre algunos ámbitos que tenemos como desarrolladores de software y el camino que conllevar convertirse en uno. La importancia que tiene la profesionalización de los nuevos desarrolladores de software, los retos y desafíos que enfrentan en la actualidad.&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;alignleft size-thumbnail wp-image-537&#34; alt=&#34;uno&#34; src=&#34;https://3rickDJ.github.io/vive-codigo-HugoMigration/vive-codigo-HugoMigration/images/uno.jpg&#34; width=&#34;150&#34; height=&#34;150&#34; /&gt;&lt;img class=&#34;alignleft size-thumbnail wp-image-535&#34; alt=&#34;dos&#34; src=&#34;https://3rickDJ.github.io/vive-codigo-HugoMigration/vive-codigo-HugoMigration/images/dos.jpg&#34; width=&#34;150&#34; height=&#34;150&#34; /&gt;
+Les hacemos la cordial invitación a que se suscriban al &lt;a href=&#34;http://vivecodigo.org/feed.xml&#34;&gt;feed&lt;/a&gt; del Videocast de ViveCodigo.org o encontrarnos en iTunes como: &lt;a href=&#34;https://itunes.apple.com/ca/podcast/vivecodigo.org-videocast/id685052596&#34;&gt;ViveCodigo.org - VideoCast&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Episodio 7 de la temporada 1 – Sergio Díaz @sergiodnila</title>
+      <link>https://3rickDJ.github.io/vive-codigo-HugoMigration/blog/2014/01/14/episodio-7-de-la-temporada-1-sergio-d%C3%ADaz-@sergiodnila/</link>
+      <pubDate>Tue, 14 Jan 2014 14:23:19 -0500</pubDate>
+      
+      <guid>https://3rickDJ.github.io/vive-codigo-HugoMigration/blog/2014/01/14/episodio-7-de-la-temporada-1-sergio-d%C3%ADaz-@sergiodnila/</guid>
+      <description>&lt;p&gt;Bienvenidos sean, regresamos con ustedes después de las  pasadas fiestas, iniciando un año nuevo con nuevas publicaciones y sorpresas para ustedes. Esta nueva emisión del podcast el episodio numero 7 de la temporada numero 1.&lt;/p&gt;
+&lt;p&gt;En esta ocasión nos visita Sergio Díaz Nila - @sergiodnila programador experimentado en lenguajes funcionales y se encuentra desarrollando en la actualidad en Erlang.&lt;/p&gt;
+&lt;p&gt;Nos hablo de los Sesgos Cognitovos, explorando la parte humana del desarrollo de software y nos platica porque le motivo el explorar este tema sin duda muy  interesante, pues es algo que como desarrolladores pasamos desapercibidos, pero gracias a esta charla tomamos conciencia de nuestro razonamiento.&lt;/p&gt;
+&lt;p&gt;Un entrevista sin duda muy interesante que no se pueden perder.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Episodio 6 de la temporada 1 – Laurent Sansonetti - @lrz</title>
+      <link>https://3rickDJ.github.io/vive-codigo-HugoMigration/blog/2013/12/09/episodio-6-de-la-temporada-1-laurent-sansonetti-@lrz/</link>
+      <pubDate>Mon, 09 Dec 2013 12:15:01 -0500</pubDate>
+      
+      <guid>https://3rickDJ.github.io/vive-codigo-HugoMigration/blog/2013/12/09/episodio-6-de-la-temporada-1-laurent-sansonetti-@lrz/</guid>
+      <description>&lt;p&gt;Bienvenidos sean a esta nueva emisión del podcast el episodio numero 6 de la temporada numero 1.&lt;/p&gt;
+&lt;p&gt;En esta ocasión tenemos el honor de entrevistar Laurent Sansonetti - @lrz quien nos hablo de RubyMotion - @RubyMotion.&lt;/p&gt;
+&lt;p&gt;Laurent Sansonetti, es fundador de HipByte y desarrollador principal de RubyMotion. Trabajó en Apple durante 7 años como ingeniero senior de software, tanto en iLife y OS X. A trabajado con Ruby mucho tiempo, creó y mantiene el proyecto MacRuby. Tiempo atrás, trabajó en IDA Pro y fue un activo colaborador RubyCocoa y GNOME.&lt;/p&gt;
+&lt;iframe src=&#34;//player.vimeo.com/video/81020270&#34; height=&#34;400&#34; width=&#34;712&#34; allowfullscreen=&#34;&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;</description>
+    </item>
+    
+    <item>
+      <title>Episodio 5 de la temporada 1 – Coding Dojo (Codebreak)</title>
+      <link>https://3rickDJ.github.io/vive-codigo-HugoMigration/blog/2013/10/28/episodio-5-de-la-temporada-1-coding-dojo-codebreak/</link>
+      <pubDate>Mon, 28 Oct 2013 14:05:22 -0500</pubDate>
+      
+      <guid>https://3rickDJ.github.io/vive-codigo-HugoMigration/blog/2013/10/28/episodio-5-de-la-temporada-1-coding-dojo-codebreak/</guid>
+      <description>Esta vez en la entrega de Vivecodigo les presentamos nuevamente un coding dojo, en el cual se desarrollo un juego llamada code breaker con algunos destacados invitados.
+La dinámica fue pasar una a uno para ir desarrollando el juego, el cual fue en base Test-driven development (TDD) por lo cual cada uno de los invitados pudo aportar elementos para el desarrollo de esta solución.
+Al concluir se platico sobre la dinámica y las dificultades que existieron, con lo cual pudieron realizar una retrospectiva de lo que mas les agrado y no de este coding dojo, en base a l esfuerzo y las ideas que apostaron cada uno de ellos.</description>
+    </item>
+    
+    <item>
+      <title>Episodio 4 de la temporada 1 – Erlang con Alvaro Videla - @old_sound</title>
+      <link>https://3rickDJ.github.io/vive-codigo-HugoMigration/blog/2013/10/02/episodio-4-de-la-temporada-1-erlang-con-alvaro-videla-@old_sound/</link>
+      <pubDate>Wed, 02 Oct 2013 11:53:00 -0500</pubDate>
+      
+      <guid>https://3rickDJ.github.io/vive-codigo-HugoMigration/blog/2013/10/02/episodio-4-de-la-temporada-1-erlang-con-alvaro-videla-@old_sound/</guid>
+      <description>Bienvenidos sean a esta nueva emisión del podcast el episodio numero 4 de la temporada numero 1.
+Alvaro Videla (@old_sound) es un desarrollado uruguayo muy experimentado que esta actualmente esta trabajando en RabbitMQ y en RabbitMQ Simulator, además es el autor del libro de &amp;ldquo;RabbitMQ in action&amp;rdquo;; aprovechando su visita a México tuvimos la oportunidad de entrevistarlo para que nos hablará acerca de su trayectoria y también del lenguaje de programación Erlang.</description>
+    </item>
+    
+    <item>
+      <title>Episodio 3 de la temporada 1 – Desarrollo de juegos en JoyBox con @JuanKaram y @mexinsane</title>
+      <link>https://3rickDJ.github.io/vive-codigo-HugoMigration/blog/2013/09/25/episodio-3-de-la-temporada-1-desarrollo-de-juegos-en-joybox-con-@juankaram-y-@mexinsane/</link>
+      <pubDate>Wed, 25 Sep 2013 10:07:37 -0500</pubDate>
+      
+      <guid>https://3rickDJ.github.io/vive-codigo-HugoMigration/blog/2013/09/25/episodio-3-de-la-temporada-1-desarrollo-de-juegos-en-joybox-con-@juankaram-y-@mexinsane/</guid>
+      <description>Bienvenidos sean a esta nueva emisión del podcast el episodio numero 3 de la temporada numero 1.
+El desarrollo de videojuegos en México y en varias partes del mundo gracias a @juankaram y @mexinsane, ya que están desarrollando un engine para RubyMotion llamado JoyBox. En esta sesión nuestros invitados nos platican la experiencia de estar desarrollando un proyecto Open Source que permite desarrollar videojuegos de una forma más sencilla, rápida y sobre todo divertida.</description>
+    </item>
+    
+    <item>
+      <title>Episodio 2 de la temporada 1 – Testing @chrix2</title>
+      <link>https://3rickDJ.github.io/vive-codigo-HugoMigration/blog/2013/09/11/episodio-2-de-la-temporada-1-testing-@chrix2/</link>
+      <pubDate>Wed, 11 Sep 2013 00:58:59 -0500</pubDate>
+      
+      <guid>https://3rickDJ.github.io/vive-codigo-HugoMigration/blog/2013/09/11/episodio-2-de-la-temporada-1-testing-@chrix2/</guid>
+      <description>Bienvenidos sean a esta nueva emisión del podcast el episodio numero 2 de la temporada numero 1.
+En esta ocasión un amigo ya conocido Christian Ramírez - @chrix2 Nos viene a platicar de su experiencia personal y la relación que encuentra entre desarrollar software y la apreciación artística. Esta platica circula por ámbitos meramente comunes para las bellas artes y las analogías que podemos hacer con la creación de las pruebas, la apreciación de las mismas, e incluso la observación sobre los sistemas legados.</description>
+    </item>
+    
+    <item>
+      <title>Episodio 1 de la temporada 1 – Ceylon con @chochosmx</title>
+      <link>https://3rickDJ.github.io/vive-codigo-HugoMigration/blog/2013/08/15/episodio-1-de-la-temporada-1-ceylon-con-@chochosmx/</link>
+      <pubDate>Thu, 15 Aug 2013 18:31:43 -0500</pubDate>
+      
+      <guid>https://3rickDJ.github.io/vive-codigo-HugoMigration/blog/2013/08/15/episodio-1-de-la-temporada-1-ceylon-con-@chochosmx/</guid>
+      <description>¡Hola que tal!
+Nuevo episodio de la nueva temporada de ViveCodigo la temporada 01 en esta ocasión el capitulo 01, en la cual tuvimos el gusto de entrevistar a nuestro compañero Enrique Zamudio - @chochosmx. Un gran desarrollador con muchos años de experiencia y uno de los contribuidores del lenguaje Ceylon, nos comparte como incluso a estas alturas de su carrera el sigue aprendiendo y enfrentando retos que no había enfrentado antes.</description>
+    </item>
+    
+    <item>
+      <title>Episodio 0 de la temporada 1 - Elixir con @hiphoox</title>
+      <link>https://3rickDJ.github.io/vive-codigo-HugoMigration/blog/2013/08/01/episodio-0-de-la-temporada-1-elixir-con-@hiphoox/</link>
+      <pubDate>Thu, 01 Aug 2013 17:00:18 -0500</pubDate>
+      
+      <guid>https://3rickDJ.github.io/vive-codigo-HugoMigration/blog/2013/08/01/episodio-0-de-la-temporada-1-elixir-con-@hiphoox/</guid>
+      <description>Hola a todos!
+Les traigo la nueva temporada de ViveCodigo la temporada 01 en esta ocasión el capitulo 00 en el cual entrevistamos a nuestro amigo Norberto Ortigoza - @hiphoox. Que a parte de ser un gran conocedor de ruby, smalltalk y Objective-C, tiene una carrera profesional prominente. Nos platico su trayectoria como desarrollador de software, como alguna empresas en las cuales a colaborado Sun Macrosystem, DGSCA, así como trabajos en los cuales se ha desenvuelto como administrador de Oracle, procesos, pruebas.</description>
+    </item>
+    
+    <item>
+      <title>&#39;Subversion and Git&#39; con Matthew McCullough</title>
+      <link>https://3rickDJ.github.io/vive-codigo-HugoMigration/blog/2013/07/26/subversion-and-git-con-matthew-mccullough/</link>
+      <pubDate>Fri, 26 Jul 2013 11:56:12 -0500</pubDate>
+      
+      <guid>https://3rickDJ.github.io/vive-codigo-HugoMigration/blog/2013/07/26/subversion-and-git-con-matthew-mccullough/</guid>
+      <description>¡Hola a todos!
+En esta ocasión es un video de una platica sobre Git y el uso del repositorio SVN, en mayo 2012 en la ciudad de México realizada por Matthew McCullough(@matthewmccull). Nos habla profundamente del funcionamiento de Git y como podemos implementar el repositorio de SVN, una interesante platica ya que nos habla de comandos muy interesantes además de algunos trucos muy útiles de Git.
+Espero lo disfruten:</description>
+    </item>
+    
+    <item>
+      <title>Workshop de Git &#43; Github en SynergyJ, charla abierta y Drinkup con @matthewmccull</title>
+      <link>https://3rickDJ.github.io/vive-codigo-HugoMigration/blog/2012/05/01/workshop-de-git--github-en-synergyj-charla-abierta-y-drinkup-con-@matthewmccull/</link>
+      <pubDate>Tue, 01 May 2012 15:25:29 -0500</pubDate>
+      
+      <guid>https://3rickDJ.github.io/vive-codigo-HugoMigration/blog/2012/05/01/workshop-de-git--github-en-synergyj-charla-abierta-y-drinkup-con-@matthewmccull/</guid>
+      <description>Los sistemas de control de versiones son herramienta fundamental en cualquier proyecto de software, es por esto que a toda la comunidad de desarrolladores de cualquier plataforma, les estamos invitando asistan al evento organizado por SynergyJ el d&amp;iacute;a 15 de Mayo del presente, en donde Matthew McCullough de GitHub vendr&amp;aacute; a impartir un Workshop. Este evento es de pago y es de cupo l&amp;iacute;mitado.
+Toda la informaci&amp;oacute;n para registrarte la puedes encontrar en&amp;nbsp;http://synergyj.</description>
+    </item>
+    
+    <item>
+      <title>Episodio Final de la temporada 0</title>
+      <link>https://3rickDJ.github.io/vive-codigo-HugoMigration/blog/2012/04/30/episodio-final-de-la-temporada-0/</link>
+      <pubDate>Mon, 30 Apr 2012 15:20:52 -0500</pubDate>
+      
+      <guid>https://3rickDJ.github.io/vive-codigo-HugoMigration/blog/2012/04/30/episodio-final-de-la-temporada-0/</guid>
+      <description>EOS = End of Season
+Muchas gracias a todos los que descargaron los podcast, muchas gracias por sus comentarios y su asistencia. Gracias a los entrevistados por compartir su conocimiento, gracias a los asistentes a los Dojos por compartir su experiencia y participación, gracias a los patrocinadores y sobre todo gracias al público que nos demanda y nos hace mejores con sus comentarios.
+En esta última emisión de esta temporada nos reunimos todos para platicar un poco de nuestra línea de tiempo en el desarrollo de software y algunas otras aficiones.</description>
+    </item>
+    
+    <item>
+      <title>Episodio 17 de la temporada 0</title>
+      <link>https://3rickDJ.github.io/vive-codigo-HugoMigration/blog/2012/04/09/episodio-17-de-la-temporada-0/</link>
+      <pubDate>Mon, 09 Apr 2012 11:22:23 -0500</pubDate>
+      
+      <guid>https://3rickDJ.github.io/vive-codigo-HugoMigration/blog/2012/04/09/episodio-17-de-la-temporada-0/</guid>
+      <description>Una gran emisión, que aunque es de audio tiene mucho que decir al respecto del framework Grails. De la voz de su creador Graeme Rocher en entrevista con nosotros, quién nos concedió el gran honor de platicar un poco con él.
+Respondiendo varias preguntas que le planteamos y saliéndonos un poco de un guión que daba para mucho más, sin embargo, para no extendernos y siendo sustancioso en la charla nos limitamos a que Graeme nos contestará la siguiente serie de preguntas: Who is Graeme Rocher?</description>
+    </item>
+    
+    <item>
+      <title>Episodio 16 de la temporada 0</title>
+      <link>https://3rickDJ.github.io/vive-codigo-HugoMigration/blog/2012/03/31/episodio-16-de-la-temporada-0/</link>
+      <pubDate>Sat, 31 Mar 2012 06:08:39 -0500</pubDate>
+      
+      <guid>https://3rickDJ.github.io/vive-codigo-HugoMigration/blog/2012/03/31/episodio-16-de-la-temporada-0/</guid>
+      <description>Bienvenidos sean a este nuevo episodio de ViveCodigo, casi estamos por cerrar nuestra primera temporada y queremos darles otra perspectiva del podcast.
+En esta ocasión nos sumergimos en una organización que nos permitió realizar algunas actividades en conjunto con los miembros de TI. Aquí inculcamos un poco de valores y prácticas ágiles a través de dinámicas que permitían al equipo concebir y experimentar un poco de los principios que les mostramos.</description>
+    </item>
+    
+    <item>
+      <title>Podcast 15 de la temporada 0</title>
+      <link>https://3rickDJ.github.io/vive-codigo-HugoMigration/blog/2012/03/15/podcast-15-de-la-temporada-0/</link>
+      <pubDate>Thu, 15 Mar 2012 13:48:39 -0500</pubDate>
+      
+      <guid>https://3rickDJ.github.io/vive-codigo-HugoMigration/blog/2012/03/15/podcast-15-de-la-temporada-0/</guid>
+      <description>Bienvenidos nuevamente a esta emisión de ViveCodigo.org.
+Previo a nuestra actividad entramos en una charla muy amena, al respecto de la adopción del Testing como técnica de programación y la necesidad de adoptarlo.
+Y en esta ocasión estamos presentando nuestro tercer #CodingDojo, en donde, de la mano de respetables desarrolladores tratamos de resolver una Kata de nombre: LCD Numbers.
+Esta Kata consiste en crear una función que me permita convertir un número entre el 0 y el 9 a su representación en LCD, sin embargo, el acercamiento que se le debe hace a este ejercicio es mediante una prueba, de tal forma que se empiece a resolver de la forma más simple y se progrese en su desarrollo mientras se sigue ejecutando dicha prueba.</description>
+    </item>
+    
+    <item>
+      <title>Resumen del SpringIO 2012</title>
+      <link>https://3rickDJ.github.io/vive-codigo-HugoMigration/blog/2012/03/08/resumen-del-springio-2012/</link>
+      <pubDate>Thu, 08 Mar 2012 16:03:38 -0500</pubDate>
+      
+      <guid>https://3rickDJ.github.io/vive-codigo-HugoMigration/blog/2012/03/08/resumen-del-springio-2012/</guid>
+      <description>Tuvimos la oportunidad de estar en el #SpringIO 2012 junto con otros desarrolladores muy destacados en el ecosistema Spring, Groovy y Grails.
+Aquí el video y toda la información desde el blog de SynergyJ.com
+Que lo disfruten como nosotros&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Podcast 14 de la temporada 0</title>
+      <link>https://3rickDJ.github.io/vive-codigo-HugoMigration/blog/2012/02/22/podcast-14-de-la-temporada-0/</link>
+      <pubDate>Wed, 22 Feb 2012 14:35:21 -0500</pubDate>
+      
+      <guid>https://3rickDJ.github.io/vive-codigo-HugoMigration/blog/2012/02/22/podcast-14-de-la-temporada-0/</guid>
+      <description>Bienvenidos nuevamente, en esta ocasión es muy agradable para nosotros presentarles una entrevista en donde el tema principal es Artesanía de Software, de la mano de Agustín Ramos Fonseca(@MachinesAreUs).
+A lo largo de la entrevista, Agustín nos devela el verdadero sentido y concepto de la Artesanía, describe por que es importante conocerla y también profundiza en temas que la abarcan; nos comparte su experiencia al difundirla y como es que nosotros podemos percibirla.</description>
+    </item>
+    
+    <item>
+      <title>Podcast 13 de la temporada 0</title>
+      <link>https://3rickDJ.github.io/vive-codigo-HugoMigration/blog/2012/02/07/podcast-13-de-la-temporada-0/</link>
+      <pubDate>Tue, 07 Feb 2012 10:10:16 -0500</pubDate>
+      
+      <guid>https://3rickDJ.github.io/vive-codigo-HugoMigration/blog/2012/02/07/podcast-13-de-la-temporada-0/</guid>
+      <description>Saludos nuevamente a la comunidad de desarrolladores!
+En esta ocasión nos complacemos de presentarle a Andrés Gömez(@Clojure_Mexico) quién nos vino a platicar de un lenguaje soportado sobre la JVM: Clojure
+El nos comparte su experiencia desarrollando en este lenguaje, así también, platica un poco del paradigma funcional y por que es importante adoptarlo.
+A través de la demos nos muestra el conjunto de herramientas que podríamos usar para empezar a desarrollar con Clojure.</description>
+    </item>
+    
+    <item>
+      <title>Podcast 12 de la temporada 0</title>
+      <link>https://3rickDJ.github.io/vive-codigo-HugoMigration/blog/2012/01/19/podcast-12-de-la-temporada-0/</link>
+      <pubDate>Thu, 19 Jan 2012 15:25:38 -0500</pubDate>
+      
+      <guid>https://3rickDJ.github.io/vive-codigo-HugoMigration/blog/2012/01/19/podcast-12-de-la-temporada-0/</guid>
+      <description>Bienvenidos a esta nueva emisión del podcast de ViveCodigo.org, en esta ocasión tenemos el agrado de presentarles lo acontecido durante el 2do. Coding Dojo en donde resolvimos un par de ejercicios:
+#7 Project Euler Kata: Roman Numerals Queremos agradecer a los asistentes al Dojo por su participación y por sus resultados, y también por compartir sus soluciones con nosotros; aquí listamos a los desarrolladores del Dojo y la liga donde pueden encontrar el código que desarrollaron: Theo Grip - @tgrip - https://github.</description>
+    </item>
+    
+    <item>
+      <title>Podcast 11 de la Temporada 0</title>
+      <link>https://3rickDJ.github.io/vive-codigo-HugoMigration/blog/2012/01/06/podcast-11-de-la-temporada-0/</link>
+      <pubDate>Fri, 06 Jan 2012 18:57:41 -0500</pubDate>
+      
+      <guid>https://3rickDJ.github.io/vive-codigo-HugoMigration/blog/2012/01/06/podcast-11-de-la-temporada-0/</guid>
+      <description>Bienvenidos nuevamente al podcast de ViveCodigo!
+En esta ocasión tuvimos la oportunidad de entrevistar a Jorge Ortíz, quien es un ingeniero que actualmente trabaja en FourSquare y ha tenido una trayectoria destacable en el mundo del desarrollo de software.
+Jorge nos platicó acerca de como ha sido su trayectoria y como fue que llego a FourSquare, también, nos platica del conjunto de tecnologías que están usando y los problemas que ha resuelto con ellas.</description>
+    </item>
+    
+    <item>
+      <title>Podcast 10 de la temporada 0</title>
+      <link>https://3rickDJ.github.io/vive-codigo-HugoMigration/blog/2011/12/21/podcast-10-de-la-temporada-0/</link>
+      <pubDate>Wed, 21 Dec 2011 01:50:45 -0500</pubDate>
+      
+      <guid>https://3rickDJ.github.io/vive-codigo-HugoMigration/blog/2011/12/21/podcast-10-de-la-temporada-0/</guid>
+      <description>Solo el audio del podcast:
+Hola nuevamente a toda la comunidad de ViveCodigo.org y desarrolladores recién llegados!
+En esta ocasión cambiamos la actividad de nuestro podcast, en este episodio dejamos de lado las entrevistas para dar paso a un Coding Dojo, en donde, invitamos a algunos desarrolladores a participar en la resolución de algunas Coding Katas, los conceptos del Dojo y su desarrollo lo podrás encontrar en este episodio.
+Agradecemos la presencia de: @java_daba_doo - Gerardo Aquino @MachinesAreUs - Agustín Ramos @tgrip - Theo Grip @linuxtro - Juan Francisco Les dejamos algunas de las ligas utilizadas para del Coding Dojo: http://codingdojo.</description>
+    </item>
+    
+    <item>
+      <title>Podcast 9 de la temporada 0</title>
+      <link>https://3rickDJ.github.io/vive-codigo-HugoMigration/blog/2011/11/29/podcast-9-de-la-temporada-0/</link>
+      <pubDate>Tue, 29 Nov 2011 12:52:45 -0500</pubDate>
+      
+      <guid>https://3rickDJ.github.io/vive-codigo-HugoMigration/blog/2011/11/29/podcast-9-de-la-temporada-0/</guid>
+      <description>Sólo el audio:
+Después de un largo tiempo y en vísperas de la reunión de la comunidad de SpringHispanor y GrailsMX, tenemos el gusto de presentarles esta emisión del podcast en donde entrevistamos a Andrés Almiray, Java Champion mexicano y líder del proyecto Griffon.
+En esta ocasión Andrés nos platica de su experiencia desarrollando el framework y del mundo de las aplicaciones Desktop.
+En verdad fue un momento muy agradable para nosotros platicar con Andrés y esperemos que ustedes también lo disfruten.</description>
+    </item>
+    
+    <item>
+      <title>Podcast 8 de la temporada 0</title>
+      <link>https://3rickDJ.github.io/vive-codigo-HugoMigration/blog/2011/08/17/podcast-8-de-la-temporada-0/</link>
+      <pubDate>Wed, 17 Aug 2011 12:37:51 -0500</pubDate>
+      
+      <guid>https://3rickDJ.github.io/vive-codigo-HugoMigration/blog/2011/08/17/podcast-8-de-la-temporada-0/</guid>
+      <description>Hola a todos! En esta ocasión, de forma clandestina y muy nocturna, traemos para ustedes nuestro episodio de ViveCodigo de la mano de Enrique Díaz(@nrikeDiaz) un experimentado desarrollador para la plataforma Android, que nos estará hablando de sus vivencias acerca de esta tecnología, así como, muchos tips y consejos que nos pueden ayudar al momento de querer adoptarla.
+En el screencast nos muestra LUA, un lenguaje alternativo para desarrollar en Android, dándonos la visión de que podemos tener muchas herramientas en las cuales podemos hacer apps muy buenas y creativas.</description>
+    </item>
+    
+    <item>
+      <title>Podcast 7 de la temporada 0</title>
+      <link>https://3rickDJ.github.io/vive-codigo-HugoMigration/blog/2011/08/01/podcast-7-de-la-temporada-0/</link>
+      <pubDate>Mon, 01 Aug 2011 13:05:12 -0500</pubDate>
+      
+      <guid>https://3rickDJ.github.io/vive-codigo-HugoMigration/blog/2011/08/01/podcast-7-de-la-temporada-0/</guid>
+      <description>Bienvenidos nuevamente!
+Hemos grabado con mucho gusto el podcast con Enrique Zamudio(@chochosmx) en donde nos habla de uno de los proyectos creados y administrados por él: jAlarms( http://jalarms.sourceforge.net/ ), además, Enrique nos transmite su experiencia desarrollando software libre y open source; también comparte con nosotros la aventura de poner su proyecto en los repositorios de Maven. Sin lugar a duda y como todos los podcast, una charla muy amena&amp;hellip;
+Además en el screencast nos muestra como usar jAlarms con múltiples canales, bastante interesante debido a que no sólo nos muestra las aplicaciones prácticas en las cuales se pueden usar alarmas, también nos muestra un poco del manejo de Gradle( http://gradle.</description>
+    </item>
+    
+    <item>
+      <title>Podcast 6 de la temporada 0</title>
+      <link>https://3rickDJ.github.io/vive-codigo-HugoMigration/blog/2011/07/15/podcast-6-de-la-temporada-0/</link>
+      <pubDate>Fri, 15 Jul 2011 20:07:27 -0500</pubDate>
+      
+      <guid>https://3rickDJ.github.io/vive-codigo-HugoMigration/blog/2011/07/15/podcast-6-de-la-temporada-0/</guid>
+      <description>Hola a toda la comunidad! En esta ocasión nos complace presentarles a Daniel Zavala(@Siedrix) que nos estará hablando de Node.JS un framework Javascript para desarrollo del lado servidor. A través de la entrevista, el aclara muchos puntos acerca del modelo de programación, y profundiza en la gran utilidad que tiene el usar este tipo de herramientas, además, nos comparte su experiencia en el conjunto de tecnologías que podemos encontrar para usar Javascript y nos platica acerca de su experiencia en México como desarrollador especialista en el tema.</description>
+    </item>
+    
+    <item>
+      <title>Podcast 5 de la temporada 0</title>
+      <link>https://3rickDJ.github.io/vive-codigo-HugoMigration/blog/2011/07/03/podcast-5-de-la-temporada-0/</link>
+      <pubDate>Sun, 03 Jul 2011 14:07:02 -0500</pubDate>
+      
+      <guid>https://3rickDJ.github.io/vive-codigo-HugoMigration/blog/2011/07/03/podcast-5-de-la-temporada-0/</guid>
+      <description>Hola nuevamente!!! Nos da mucho gusto compartir con todos ustedes el tema de iOS, a través de la voz de Juan Karam(@JuanKaram), quién es el más experimentado desarrollador en esta plataforma; a lo largo de esta charla, Juan nos platica su experiencia de una forma muy amena, nos ofrece una opinión muy valiosa para quienes quieren adoptar el lenguaje sobre el cual se desarrolla, hace algunas recomendaciones para todos los desarrolladores independiente de sus herramientas de trabajo, y profundiza en su tema favorito.</description>
+    </item>
+    
+    <item>
+      <title>Podcast 4 de la temporada 0</title>
+      <link>https://3rickDJ.github.io/vive-codigo-HugoMigration/blog/2011/06/15/podcast-4-de-la-temporada-0/</link>
+      <pubDate>Wed, 15 Jun 2011 15:31:23 -0500</pubDate>
+      
+      <guid>https://3rickDJ.github.io/vive-codigo-HugoMigration/blog/2011/06/15/podcast-4-de-la-temporada-0/</guid>
+      <description>Hola a todos!!!
+Nos complace entregarles la quinta emisión del podcast en donde el tema principal es Testing.
+Como invitado tenemos a Christian Ramírez(@chrix2) QA Architect en Certum, durante el podcast hablamos del ecosistema de Testing, desde conceptos básicos como las características de las pruebas hasta elementos que Christian usa en su trabajo diario como Cloud Testing. En el screencast Christian nos muestra como ejecutar pruebas con Selenium y Python, en su ambiente de desarrollo local y en la nube.</description>
+    </item>
+    
+    <item>
+      <title>Podcast 3 de la temporada 0</title>
+      <link>https://3rickDJ.github.io/vive-codigo-HugoMigration/blog/2011/05/31/podcast-3-de-la-temporada-0/</link>
+      <pubDate>Tue, 31 May 2011 12:47:20 -0500</pubDate>
+      
+      <guid>https://3rickDJ.github.io/vive-codigo-HugoMigration/blog/2011/05/31/podcast-3-de-la-temporada-0/</guid>
+      <description>En esta ocasión nos servimos de un tema para las aplicaciones en el navegador: &#34;Estándares Web&#34;, en donde Luis Hernández(mejor identificado como @juwe) nos habla de su experiencia como diseñador y desarrollador.
+Hablamos de la importancia de conocer las bases fundamentales del desarrollo web: html, css y javascript.
+Nuevamente les haremos entrega de este podcast en dos versiones:
+Adicionalmente, ponemos a su disposición los archivos de video de las dos partes:</description>
+    </item>
+    
+    <item>
+      <title>Podcast 2 de la temporada 0</title>
+      <link>https://3rickDJ.github.io/vive-codigo-HugoMigration/blog/2011/05/18/podcast-2-de-la-temporada-0/</link>
+      <pubDate>Wed, 18 May 2011 00:25:03 -0500</pubDate>
+      
+      <guid>https://3rickDJ.github.io/vive-codigo-HugoMigration/blog/2011/05/18/podcast-2-de-la-temporada-0/</guid>
+      <description>Hola a todos en la comunidad!!!
+Me es grato anunciarles que ya tenemos publicado esta nueva edición del podcast, en donde, tenemos como invitado de honor a Julio Carlos Sánchez(@thegeekinside), que nos estará hablando del lenguaje de programación Scala. Además, comentaremos algunas notas que recientemente causaron revuelo en el mundo Scala.
+En esta ocasión, por la duración del podcast hemos puesto el episodio en dos partes&amp;hellip;
+Les dejamos las ligas que se comentaron en la charla y en el videocast:</description>
+    </item>
+    
+    <item>
+      <title>Podcast 1 de la temporada 0</title>
+      <link>https://3rickDJ.github.io/vive-codigo-HugoMigration/blog/2011/05/05/podcast-1-de-la-temporada-0/</link>
+      <pubDate>Thu, 05 May 2011 01:50:55 -0500</pubDate>
+      
+      <guid>https://3rickDJ.github.io/vive-codigo-HugoMigration/blog/2011/05/05/podcast-1-de-la-temporada-0/</guid>
+      <description>Primero, gracias a todos ustedes por sus comentarios tanto en este portal, como en el twitter y algunos otros sitios de comunidades distintas&amp;hellip;
+El archivo del podcast lo pueden descargar dede aquí o bien se pueden suscribir al feed&amp;hellip;
+Las notas que comentamos en esta ocasión son:
+Agile is about Collaboration and Cultivation Culture http://www.agilitrix.com/2011/03/agile-culture-is-all-about-people/ El Geek Errante: transmisión #43 http://elgeekerrante.com/ege-podcast-ep-43/ Using Gradle in Practice http://blog.andresteingress.com/2011/01/14/using-gradle-in-practice/ Groovy 1.8.0 http://docs.codehaus.org/display/GROOVY/Groovy+1.8+release+notes#Groovy1.8releasenotes-Closureenhancements http://groovy.dzone.com/announcements/groovy-180-released Getting Started with Redis, Spring Data &amp;amp; Cloud Foundry http://blog.</description>
+    </item>
+    
+    <item>
+      <title>Podcast 0 de la temporada 0</title>
+      <link>https://3rickDJ.github.io/vive-codigo-HugoMigration/blog/2011/04/21/podcast-0-de-la-temporada-0/</link>
+      <pubDate>Thu, 21 Apr 2011 19:45:03 -0500</pubDate>
+      
+      <guid>https://3rickDJ.github.io/vive-codigo-HugoMigration/blog/2011/04/21/podcast-0-de-la-temporada-0/</guid>
+      <description>En esta primera emisión les damos la más cordial bienvenida a este proyecto&amp;hellip;
+Las notas que comentamos durante el podcast son las siguientes:
+Ceylon JVM Language http://www.infoq.com/news/2011/04/ceylon http://devstonez.wordpress.com/2011/04/13/introducing-the-ceylon-project-gavin-king-presentation-at-qcon-beijing-2011/ Cloud Foundry for Spring Developers http://blog.springsource.com/2011/04/12/cloud-foundry-for-spring-developers http://blog.springsource.com/2011/04/12/launching-cloud-foundry/ Y el tema principal es acerca del uso de un par de plugins de jquery: Plugins de graficación http://sixrevisions.com/javascript/20-fresh-javascript-data-visualization-libraries/ Los mejores 10 plugins del 2010 http://www.newsticker88.com/10-best-jquery-plugins-of-2010/1945/ Se pueden suscribir al feed o descargarlo directamente desde aquí.</description>
+    </item>
+    
+    <item>
+      <title>Bienvenido</title>
+      <link>https://3rickDJ.github.io/vive-codigo-HugoMigration/blog/2011/04/13/bienvenido/</link>
+      <pubDate>Wed, 13 Apr 2011 05:21:38 -0500</pubDate>
+      
+      <guid>https://3rickDJ.github.io/vive-codigo-HugoMigration/blog/2011/04/13/bienvenido/</guid>
+      <description>Te damos la más cordial bienvenida a este nuevo proyecto&amp;hellip;
+La intención de este podcast es seguir contribuyendo como lo hemos venido haciendo con proyectos anteriores, pero dándole un toque extra que poco a poco fuimos aterrizando.
+Pero, ¿qué podrás encontrar en este proyecto?
+Simple, todo lo relacionado al desarrollo de software, desde lenguajes hasta técnicas, pasando por frameworks y prácticas, y en nuestro caso muy particular orientado a la plataforma Java, sin embargo, no dejamos de lado otro conjunto de herramientas que un desarrollador podría ocupar, que son indispensables y complementarios en los proyectos en los que trabajamos diariamente, y que tal vez tu también ocupas o podrías ocupar&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>
