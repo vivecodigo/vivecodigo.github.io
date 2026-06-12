@@ -1,90 +1,153 @@
-baseURL: https://3rickDJ.github.io/vive-codigo-HugoMigration
+baseURL: https://vivecodigo.org/
+languageCode: es-mx
+defaultContentLanguage: es
 title: ViveCodigo.org
-language: es
-theme: hello-4s3ti
+theme: hugo-theme-stack
+copyright: MakingDevs
 
 pagination:
   pagerSize: 10
-  # path: /blog/
-
-author:
-  name: MakingDevs
 
 services:
   disqus:
     shortname: vivecodigo
 
-copyright: "All rights reserved"
-
 permalinks:
   blog: blog/:year/:month/:day/:title/
+  page: /:slug/
 
 taxonomies:
   tag: tags
   category: categories
 
 params:
-  author:
-    name: MakingDevs
-  contentTypeName: blog
-  # Day formats
-  dateform: "Jan 2, 2006"
-  dateformShort: "Jan 2"
-  dateformNum: "2006-01-02"
-  dateformNumTime: "2006-01-02 15:04"
-
-  enableSharingButtons: false
-  # metadata description
+  mainSections:
+    - blog
+  featuredImageField: image
+  rssFullContent: true
+  favicon: favicon.png
   description: "El podcast para desarrolladores de software."
-  keywords: "programming code languages frameworks podcast video learning makingdevs"
-  # home page
-  homeTitle: "ViveCodigo.org"
-  homeSubtitle: "El podcast para desarrolladores de software."
-  # backgroundImage @ home
-  backgroundImage: "images/bg_wall.png"
-  backgroundEffects: true
-  # theme dark/light
-  enableThemeToggle: true
-  # home posts
-  showPosts: true
-  # hideReadMore: true
-  # showReadingTime: false
 
-  ## footer
   footer:
-    trademark: true
-    copyright: true
-    author: true
-    socialIcons: true
-    # bottomText:
-    #   - "Powered by <a href=\"http://gohugo.io\">Hugo</a>"
+    since: 2011
+    customText: "El podcast para desarrolladores de software."
 
-  logo:
-    logoMark: ">"
-    logoText: "$vive-codigo"
-    logoCursorColor: "#67a2c9"
-    logoCursorAnimate: "6s"
+  dateFormat:
+    published: "Jan 02, 2006"
+    lastUpdated: "Jan 02, 2006 15:04 MST"
 
-  fontAwesome:
-    kitURL: "https://kit.fontawesome.com/f3a7e69c00.js"
+  sidebar:
+    compact: false
+    emoji: ">"
+    subtitle: "El podcast para desarrolladores de software."
+    avatar:
+      enabled: true
+      local: true
+      src: images/avatar.jpg
 
-  social:
-    - name: "twitter"
-      url: "https://twitter.com/ViveCodigo"
-    - name: "vimeo"
-      url: "https://vimeo.com/makingdevs"
-      icon: "fa-brands fa-vimeo-v"
-    - name: "iTunes"
-      url: "https://itunes.apple.com/mz/podcast/vivecodigo.org-podcast/id722889939"
-      icon: "fa-brands fa-itunes-note"
+  article:
+    headingAnchor: false
+    math: false
+    toc: true
+    readingTime: true
+    license:
+      enabled: false
+
+  comments:
+    enabled: true
+    provider: disqus
+
+  widgets:
+    homepage:
+      - type: search
+      - type: archives
+        params:
+          limit: 5
+      - type: categories
+        params:
+          limit: 10
+      - type: tag-cloud
+        params:
+          limit: 20
+    page:
+      - type: toc
+
+  opengraph:
+    twitter:
+      site: ViveCodigo
+      card: summary_large_image
+
+  defaultImage:
+    opengraph:
+      enabled: true
+      local: false
+      src: images/bg_wall.png
+
+  colorScheme:
+    toggle: true
+    default: auto
+
+  imageProcessing:
+    cover:
+      enabled: true
+    content:
+      enabled: true
 
 menu:
   main:
+    - identifier: home
+      name: Inicio
+      url: /
+      weight: -100
+      params:
+        icon: home
     - identifier: blog
       name: Blog
-      url: /blog
+      url: /blog/
+      weight: -90
+      params:
+        icon: archives
+
+  social:
+    - identifier: twitter
+      name: Twitter
+      url: https://twitter.com/ViveCodigo
+      params:
+        icon: brand-twitter
+    - identifier: vimeo
+      name: Vimeo
+      url: https://vimeo.com/makingdevs
+      params:
+        icon: link
+    - identifier: itunes
+      name: iTunes
+      url: https://itunes.apple.com/mz/podcast/vivecodigo.org-podcast/id722889939
+      params:
+        icon: link
+
+related:
+  includeNewer: true
+  threshold: 60
+  toLower: false
+  indices:
+    - name: tags
+      weight: 100
+    - name: categories
+      weight: 200
 
 markup:
   goldmark:
     renderer:
       unsafe: true
+  tableOfContents:
+    startLevel: 2
+    endLevel: 4
+    ordered: true
+  highlight:
+    noClasses: false
+    codeFences: true
+    guessSyntax: true
+    lineNoStart: 1
+    lineNos: true
+    lineNumbersInTable: true
+    tabWidth: 4

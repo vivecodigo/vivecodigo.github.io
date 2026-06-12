@@ -3,3 +3,4 @@ resources/
 converter.rb
 public/
 **/.DS_Store
+assets/jsconfig.json

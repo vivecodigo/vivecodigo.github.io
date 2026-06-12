@@ -2,21 +2,21 @@
 
 ## Project Structure & Module Organization
 
-This repository is a Hugo static site for ViveCodigo.org. Site-wide settings live in `config.yml`, including theme, menus, taxonomy, metadata, and permalink rules. Blog posts are in `content/blog/` as Markdown files with YAML front matter. Use `archetypes/default.md` when creating new content with Hugo. Layout overrides are in `layouts/`, with shared HTML fragments in `layouts/partials/`. SCSS and source images are under `assets/`; files in `static/` are copied directly to the generated site. The configured theme is `hello-4s3ti` under `themes/`.
+This repository is a Hugo static site for ViveCodigo.org. Site-wide settings live in `config.yml`, including theme, menus, taxonomy, metadata, and permalink rules. Blog posts are in `content/blog/` as Markdown files with YAML front matter. Use `archetypes/default.md` when creating new content with Hugo. Theme overrides are in `layouts/`; keep them minimal so Stack can provide the look and feel. Files in `static/` are copied directly to the generated site. The active theme is `hugo-theme-stack` under `themes/`.
 
 ## Build, Test, and Development Commands
 
 - `hugo server -D`: runs a local development server and includes draft content.
 - `hugo server`: previews only publishable content.
 - `hugo`: builds the static site into `public/` for validation or deployment.
-- `npx --yes sass@1.69.7 --load-path=assets/scss --load-path=themes/hello-4s3ti/assets/scss assets/scss/site.scss static/main.css --style=compressed --no-source-map`: regenerates the checked-in CSS for non-extended Hugo builds.
+- `npx --yes sass@1.69.7 --load-path=themes/hugo-theme-stack/assets/scss themes/hugo-theme-stack/assets/scss/style.scss static/stack.css --style=compressed --no-source-map`: regenerates the checked-in Stack CSS for non-extended Hugo builds.
 - `hugo new blog/YYYY-MM-DD-short-title.md`: creates a new blog post from the default archetype.
 
 The repo does not include Make or Go module tooling. Install Hugo locally and run commands from the repository root.
 
 ## Coding Style & Naming Conventions
 
-Use two-space indentation for YAML front matter and `config.yml`. Keep Markdown prose readable with short paragraphs and descriptive headings. Name blog files with the existing date-prefixed, lowercase, hyphenated pattern, for example `content/blog/2015-08-15-podcast-10-de-la-temporada-0.md`. Keep layout templates small and prefer partials in `layouts/partials/` for repeated head, favicon, or metadata markup. Edit SCSS in `assets/scss/`, then regenerate `static/main.css`.
+Use two-space indentation for YAML front matter and `config.yml`. Keep Markdown prose readable with short paragraphs and descriptive headings. Name blog files with the existing date-prefixed, lowercase, hyphenated pattern, for example `content/blog/2015-08-15-podcast-10-de-la-temporada-0.md`. Prefer Stack configuration in `config.yml` over layout overrides. If Stack SCSS changes, regenerate `static/stack.css`.
 
 ## Testing Guidelines
 
