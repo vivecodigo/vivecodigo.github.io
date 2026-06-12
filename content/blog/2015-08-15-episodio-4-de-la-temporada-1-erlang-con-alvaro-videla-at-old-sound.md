@@ -5,7 +5,13 @@ date: 2013-10-02T11:53:00-05:00
 author:
   name: José Juan Reyes Zuñiga
 comments: true
-categories: 
+image: images/covers/2015-08-15-episodio-4-de-la-temporada-1-erlang-con-alvaro-videla-at-old-sound.svg
+tags:
+  - podcast
+  - temporada-1
+  - erlang
+  - functional-programming
+categories:
 ---
 
 Bienvenidos sean a esta nueva emisión del podcast el episodio numero 4 de la temporada numero 1.

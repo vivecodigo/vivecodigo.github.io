@@ -5,7 +5,13 @@ date: 2012-01-06T18:57:41-05:00
 author:
   name: José Juan Reyes Zuñiga
 comments: true
-categories: 
+image: images/covers/2015-08-15-podcast-11-de-la-temporada-0.svg
+tags:
+  - podcast
+  - temporada-0
+  - entrevista
+  - software-development
+categories:
 ---
 
 Bienvenidos nuevamente al podcast de ViveCodigo!

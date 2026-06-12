@@ -5,7 +5,14 @@ date: 2012-04-09T11:22:23-05:00
 author:
   name: José Juan Reyes Zuñiga
 comments: true
-categories: 
+image: images/covers/2015-08-15-episodio-17-de-la-temporada-0.svg
+tags:
+  - podcast
+  - temporada-0
+  - grails
+  - groovy
+  - jvm
+categories:
 ---
 
 Una gran emisión, que aunque es de audio tiene mucho que decir al respecto del framework Grails. De la voz de su creador <a href="https://twitter.com/#!/graemerocher">Graeme Rocher </a>en entrevista con nosotros, quién nos concedió el gran honor de platicar un poco con él.

@@ -5,7 +5,13 @@ date: 2014-01-28T14:47:55-05:00
 author:
   name: José Juan Reyes Zuñiga
 comments: true
-categories: 
+image: images/covers/2015-08-15-episodio-8-de-la-temporada-1-alfredo-chavez-at-alfredochv.svg
+tags:
+  - podcast
+  - temporada-1
+  - software-development
+  - carrera
+categories:
 ---
 
 Bienvenidos sean a otra emisión de su podcast favorito vivecodigo.org el episodio numero 8 de la temporada numero 1.
@@ -14,7 +20,7 @@ En esta ocasión nos visita Alfredo Chavez - @alfredochv desarrollador de softw
 
 La profesión de desarrollo de software  toma un nuevo carácter conforme el tiempo, nos hace reflexionar sobre algunos ámbitos que tenemos como desarrolladores de software y el camino que conllevar convertirse en uno. La importancia que tiene la profesionalización de los nuevos desarrolladores de software, los retos y desafíos que enfrentan en la actualidad.
 
-<img class="alignleft size-thumbnail wp-image-537" alt="uno" src="/vive-codigo-HugoMigration/images/uno.jpg" width="150" height="150" /><img class="alignleft size-thumbnail wp-image-535" alt="dos" src="/vive-codigo-HugoMigration/images/dos.jpg" width="150" height="150" />
+<img class="alignleft size-thumbnail wp-image-537" alt="uno" src="/images/uno.jpg" width="150" height="150" /><img class="alignleft size-thumbnail wp-image-535" alt="dos" src="/images/dos.jpg" width="150" height="150" />
 Les hacemos la cordial invitación a que se suscriban al <a href="http://vivecodigo.org/feed.xml">feed</a> del Videocast de ViveCodigo.org o encontrarnos en iTunes como: <a href="https://itunes.apple.com/ca/podcast/vivecodigo.org-videocast/id685052596">ViveCodigo.org - VideoCast</a>.
 
 <!--more-->

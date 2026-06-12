@@ -5,7 +5,13 @@ date: 2013-10-28T14:05:22-05:00
 author:
   name: José Juan Reyes Zuñiga
 comments: true
-categories: 
+image: images/covers/2015-08-15-episodio-5-de-la-temporada-1-coding-dojo-codebreak.svg
+tags:
+  - podcast
+  - temporada-1
+  - coding-dojo
+  - katas
+categories:
 ---
 
 Esta vez en la entrega de Vivecodigo les presentamos nuevamente un coding dojo, en el cual se desarrollo un juego llamada code breaker con algunos destacados invitados.

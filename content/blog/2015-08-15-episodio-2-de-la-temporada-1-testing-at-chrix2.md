@@ -5,7 +5,13 @@ date: 2013-09-11T00:58:59-05:00
 author:
   name: José Juan Reyes Zuñiga
 comments: true
-categories: 
+image: images/covers/2015-08-15-episodio-2-de-la-temporada-1-testing-at-chrix2.svg
+tags:
+  - podcast
+  - temporada-1
+  - testing
+  - qa
+categories:
 ---
 
 Bienvenidos sean a esta nueva emisión del podcast el episodio numero 2 de la temporada numero 1.

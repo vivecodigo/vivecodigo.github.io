@@ -5,7 +5,14 @@ date: 2011-04-21T19:45:03-05:00
 author:
   name: José Juan Reyes Zuñiga
 comments: true
-categories: 
+image: images/covers/2015-08-15-podcast-0-de-la-temporada-0.svg
+tags:
+  - podcast
+  - temporada-0
+  - ceylon
+  - spring
+  - cloud-foundry
+categories:
 ---
 
 En esta primera emisión les damos la más cordial bienvenida a este proyecto...

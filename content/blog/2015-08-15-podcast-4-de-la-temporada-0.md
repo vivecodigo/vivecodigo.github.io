@@ -5,7 +5,13 @@ date: 2011-06-15T15:31:23-05:00
 author:
   name: José Juan Reyes Zuñiga
 comments: true
-categories: 
+image: images/covers/2015-08-15-podcast-4-de-la-temporada-0.svg
+tags:
+  - podcast
+  - temporada-0
+  - testing
+  - qa
+categories:
 ---
 
 <p>Hola a todos!!!</p>

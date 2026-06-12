@@ -5,7 +5,13 @@ date: 2014-02-11T11:37:06-05:00
 author:
   name: José Juan Reyes Zuñiga
 comments: true
-categories: 
+image: images/covers/2015-08-15-episodio-9-de-la-temporada-1-alcides-flores-at-alcidesfp.svg
+tags:
+  - podcast
+  - temporada-1
+  - emacs
+  - tools
+categories:
 ---
 
 Bienvenidos sean a otra emisión de su podcast favorito vivecodigo.org el episodio numero 9 de la temporada numero 1.
@@ -19,7 +25,7 @@ Emacs es un manipulador de texto pero mas que un simple manipulador de texto, po
 Gnu Emacs es obviamente parte del proyecto <a title="GNU" href="http://www.gnu.org/">GNU</a> y la versión más popular de Emacs con una gran actividad en su desarrollo. El manual de GNU Emacs lo describe como "un editor extensible, personalizable, documentado y de tiempo real, su enorme conjunto de características está orientado a ayudar el usuario a manipular gran cantidad de texto ademas de ser todo un ambiente de desarrollo como nos explica Alcides Flores en este capitulo.
 <!--more-->
 
-<img class="alignleft size-thumbnail wp-image-537" alt="uno" src="/vive-codigo-HugoMigration/images/uno.jpg" width="150" height="150" /><img class="alignleft size-thumbnail wp-image-535" alt="dos" src="/vive-codigo-HugoMigration/images/dos.jpg" width="150" height="150" />
+<img class="alignleft size-thumbnail wp-image-537" alt="uno" src="/images/uno.jpg" width="150" height="150" /><img class="alignleft size-thumbnail wp-image-535" alt="dos" src="/images/dos.jpg" width="150" height="150" />
 
 Les hacemos la cordial invitación a que se suscriban al <a href="http://vivecodigo.org/feed.xml">feed</a> del Videocast de ViveCodigo.org o encontrarnos en iTunes como: <a href="https://itunes.apple.com/ca/podcast/vivecodigo.org-videocast/id685052596">ViveCodigo.org - VideoCast</a>.
 

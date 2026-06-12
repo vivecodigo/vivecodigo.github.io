@@ -5,7 +5,12 @@ date: 2012-03-08T16:03:38-05:00
 author:
   name: José Juan Reyes Zuñiga
 comments: true
-categories: 
+image: images/covers/2015-08-15-resumen-del-springio-2012.svg
+tags:
+  - evento
+  - spring
+  - java
+categories:
 ---
 
 Tuvimos la oportunidad de estar en el #SpringIO 2012 junto con otros desarrolladores muy destacados en el ecosistema Spring, Groovy y Grails.

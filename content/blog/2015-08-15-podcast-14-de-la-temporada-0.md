@@ -5,7 +5,13 @@ date: 2012-02-22T14:35:21-05:00
 author:
   name: José Juan Reyes Zuñiga
 comments: true
-categories: 
+image: images/covers/2015-08-15-podcast-14-de-la-temporada-0.svg
+tags:
+  - podcast
+  - temporada-0
+  - software-craftsmanship
+  - clean-code
+categories:
 ---
 
 Bienvenidos nuevamente, en esta ocasión es muy agradable para nosotros presentarles una entrevista en donde el tema principal es Artesanía de Software, de la mano de Agustín Ramos Fonseca(<a href="http://twitter.com/MachinesAreUs">@MachinesAreUs</a>).

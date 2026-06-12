@@ -5,7 +5,14 @@ date: 2014-01-14T14:23:19-05:00
 author:
   name: José Juan Reyes Zuñiga
 comments: true
-categories: 
+image: images/covers/2015-08-15-episodio-7-de-la-temporada-1-sergio-diaz-at-sergiodnila.svg
+tags:
+  - podcast
+  - temporada-1
+  - erlang
+  - functional-programming
+  - software-development
+categories:
 ---
 
 Bienvenidos sean, regresamos con ustedes después de las  pasadas fiestas, iniciando un año nuevo con nuevas publicaciones y sorpresas para ustedes. Esta nueva emisión del podcast el episodio numero 7 de la temporada numero 1.

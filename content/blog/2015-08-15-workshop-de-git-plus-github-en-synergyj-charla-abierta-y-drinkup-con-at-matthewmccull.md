@@ -5,7 +5,13 @@ date: 2012-05-01T15:25:29-05:00
 author:
   name: José Juan Reyes Zuñiga
 comments: true
-categories: 
+image: images/covers/2015-08-15-workshop-de-git-plus-github-en-synergyj-charla-abierta-y-drinkup-con-at-matthewmccull.svg
+tags:
+  - workshop
+  - git
+  - github
+  - version-control
+categories:
 ---
 
 <p>

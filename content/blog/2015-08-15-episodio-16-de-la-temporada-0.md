@@ -5,7 +5,13 @@ date: 2012-03-31T06:08:39-05:00
 author:
   name: José Juan Reyes Zuñiga
 comments: true
-categories: 
+image: images/covers/2015-08-15-episodio-16-de-la-temporada-0.svg
+tags:
+  - podcast
+  - temporada-0
+  - agile
+  - comunidad
+categories:
 ---
 
 Bienvenidos sean a este nuevo episodio de ViveCodigo, casi estamos por cerrar nuestra primera temporada y queremos darles otra perspectiva del podcast.

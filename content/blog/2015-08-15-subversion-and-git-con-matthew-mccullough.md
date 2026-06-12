@@ -5,7 +5,13 @@ date: 2013-07-26T11:56:12-05:00
 author:
   name: Jorge Acosta Lemus
 comments: true
-categories: 
+image: images/covers/2015-08-15-subversion-and-git-con-matthew-mccullough.svg
+tags:
+  - evento
+  - git
+  - subversion
+  - version-control
+categories:
 ---
 
 ¡Hola a todos!

@@ -5,7 +5,14 @@ date: 2013-12-09T12:15:01-05:00
 author:
   name: José Juan Reyes Zuñiga
 comments: true
-categories: 
+image: images/covers/2015-08-15-episodio-6-de-la-temporada-1-laurent-sansonetti-at-lrz.svg
+tags:
+  - podcast
+  - temporada-1
+  - rubymotion
+  - ruby
+  - mobile
+categories:
 ---
 
 Bienvenidos sean a esta nueva emisión del podcast el episodio numero 6 de la temporada numero 1.

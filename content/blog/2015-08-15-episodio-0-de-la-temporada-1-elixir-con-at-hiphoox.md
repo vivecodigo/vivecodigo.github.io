@@ -5,7 +5,13 @@ date: 2013-08-01T17:00:18-05:00
 author:
   name: José Juan Reyes Zuñiga
 comments: true
-categories: 
+image: images/covers/2015-08-15-episodio-0-de-la-temporada-1-elixir-con-at-hiphoox.svg
+tags:
+  - podcast
+  - temporada-1
+  - elixir
+  - functional-programming
+categories:
 ---
 
 Hola a todos!

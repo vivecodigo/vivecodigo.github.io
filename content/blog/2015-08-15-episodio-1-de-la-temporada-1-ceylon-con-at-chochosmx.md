@@ -5,7 +5,13 @@ date: 2013-08-15T18:31:43-05:00
 author:
   name: José Juan Reyes Zuñiga
 comments: true
-categories: 
+image: images/covers/2015-08-15-episodio-1-de-la-temporada-1-ceylon-con-at-chochosmx.svg
+tags:
+  - podcast
+  - temporada-1
+  - ceylon
+  - jvm
+categories:
 ---
 
 ¡Hola que tal!

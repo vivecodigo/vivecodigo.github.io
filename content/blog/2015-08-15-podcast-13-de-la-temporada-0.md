@@ -5,6 +5,13 @@ date: 2012-02-07T10:10:16-05:00
 author:
   name: José Juan Reyes Zuñiga
 comments: true
+image: images/covers/2015-08-15-podcast-13-de-la-temporada-0.svg
+tags:
+  - podcast
+  - temporada-0
+  - clojure
+  - jvm
+  - functional-programming
 categories:
 ---
 

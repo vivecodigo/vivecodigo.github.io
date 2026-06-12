@@ -5,7 +5,12 @@ date: 2011-04-13T05:21:38-05:00
 author:
   name: José Juan Reyes Zuñiga
 comments: true
-categories: 
+image: images/covers/2015-08-15-bienvenido.svg
+tags:
+  - podcast
+  - comunidad
+  - vivecodigo
+categories:
 ---
 Te damos la más cordial bienvenida a este nuevo proyecto...
 

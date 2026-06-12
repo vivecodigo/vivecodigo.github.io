@@ -5,7 +5,15 @@ date: 2011-05-31T12:47:20-05:00
 author:
   name: José Juan Reyes Zuñiga
 comments: true
-categories: 
+image: images/covers/2015-08-15-podcast-3-de-la-temporada-0.svg
+tags:
+  - podcast
+  - temporada-0
+  - web
+  - html
+  - css
+  - javascript
+categories:
 ---
 <p>En esta ocasión nos servimos de un tema para las aplicaciones en el navegador: "Estándares Web", en donde Luis Hernández(mejor identificado como @juwe) nos habla de su experiencia como diseñador y desarrollador.</p>
 <p>Hablamos de la importancia de conocer las bases fundamentales del desarrollo web: html, css y javascript.</p>

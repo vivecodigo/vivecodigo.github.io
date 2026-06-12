@@ -5,7 +5,13 @@ date: 2011-12-21T01:50:45-05:00
 author:
   name: José Juan Reyes Zuñiga
 comments: true
-categories: 
+image: images/covers/2015-08-15-podcast-10-de-la-temporada-0.svg
+tags:
+  - podcast
+  - temporada-0
+  - coding-dojo
+  - katas
+categories:
 ---
 
 Solo el audio del podcast:

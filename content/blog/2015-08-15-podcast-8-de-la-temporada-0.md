@@ -5,7 +5,13 @@ date: 2011-08-17T12:37:51-05:00
 author:
   name: José Juan Reyes Zuñiga
 comments: true
-categories: 
+image: images/covers/2015-08-15-podcast-8-de-la-temporada-0.svg
+tags:
+  - podcast
+  - temporada-0
+  - android
+  - mobile
+categories:
 ---
 
 Hola a todos!
