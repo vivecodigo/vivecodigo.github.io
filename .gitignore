@@ -2,3 +2,4 @@ resources/
 .hugo_build.lock
 converter.rb
 public/
+**/.DS_Store
