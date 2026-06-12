@@ -42,8 +42,8 @@ params:
     subtitle: "El podcast para desarrolladores de software."
     avatar:
       enabled: true
-      local: true
-      src: images/avatar.jpg
+      local: false
+      src: images/logo_new.png
 
   article:
     headingAnchor: false
