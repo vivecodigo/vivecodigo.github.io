@@ -1,46 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Erlang on ViveCodigo.org</title>
-        <link>https://vivecodigo.org/tags/erlang/</link>
-        <description>Recent content in Erlang on ViveCodigo.org</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>es-mx</language>
-        <copyright>MakingDevs</copyright>
-        <lastBuildDate>Tue, 14 Jan 2014 14:23:19 -0500</lastBuildDate><atom:link href="https://vivecodigo.org/tags/erlang/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Episodio 7 de la temporada 1 – Sergio Díaz @sergiodnila</title>
-        <link>https://vivecodigo.org/blog/2014/01/14/episodio-7-de-la-temporada-1-sergio-d%C3%ADaz-@sergiodnila/</link>
-        <pubDate>Tue, 14 Jan 2014 14:23:19 -0500</pubDate>
-        
-        <guid>https://vivecodigo.org/blog/2014/01/14/episodio-7-de-la-temporada-1-sergio-d%C3%ADaz-@sergiodnila/</guid>
-        <description>&lt;img src="https://vivecodigo.org/images/covers/2015-08-15-episodio-7-de-la-temporada-1-sergio-diaz-at-sergiodnila.svg" alt="Featured image of post Episodio 7 de la temporada 1 – Sergio Díaz @sergiodnila" /&gt;&lt;p&gt;Bienvenidos sean, regresamos con ustedes después de las  pasadas fiestas, iniciando un año nuevo con nuevas publicaciones y sorpresas para ustedes. Esta nueva emisión del podcast el episodio numero 7 de la temporada numero 1.&lt;/p&gt;
-&lt;p&gt;En esta ocasión nos visita Sergio Díaz Nila - @sergiodnila programador experimentado en lenguajes funcionales y se encuentra desarrollando en la actualidad en Erlang.&lt;/p&gt;
-&lt;p&gt;Nos hablo de los Sesgos Cognitovos, explorando la parte humana del desarrollo de software y nos platica porque le motivo el explorar este tema sin duda muy  interesante, pues es algo que como desarrolladores pasamos desapercibidos, pero gracias a esta charla tomamos conciencia de nuestro razonamiento.&lt;/p&gt;
-&lt;p&gt;Un entrevista sin duda muy interesante que no se pueden perder.&lt;/p&gt;
-&lt;p&gt;¡Espero lo disfruten! y apreciamos mucho cualquier comentario que nos puedan dejar, pronto mas capítulos de la temporada 01.&lt;/p&gt;
-&lt;iframe src=&#34;//player.vimeo.com/video/84082319&#34; height=&#34;400&#34; width=&#34;712&#34; allowfullscreen=&#34;&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href=&#34;http://vimeo.com/84082319&#34;&gt;ViveCodigo 01x07 - Sesgos Cognitivos con Sergio Díaz (@sergiodnila)&lt;/a&gt; from &lt;a href=&#34;http://vimeo.com/makingdevs&#34;&gt;MakingDevs&lt;/a&gt; on &lt;a href=&#34;https://vimeo.com&#34;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Se pueden suscribir al &lt;a href=&#34;http://vivecodigo.org/feed.xml&#34;&gt;feed&lt;/a&gt; de ViveCodigo.org o encontrarnos en iTunes como: &lt;a href=&#34;https://itunes.apple.com/ca/podcast/vivecodigo.org-videocast/id685052596&#34;&gt;ViveCodigo.org - VideoCast&lt;/a&gt;&lt;/p&gt;</description>
-        </item>
-        <item>
-        <title>Episodio 4 de la temporada 1 – Erlang con Alvaro Videla - @old_sound</title>
-        <link>https://vivecodigo.org/blog/2013/10/02/episodio-4-de-la-temporada-1-erlang-con-alvaro-videla-@old_sound/</link>
-        <pubDate>Wed, 02 Oct 2013 11:53:00 -0500</pubDate>
-        
-        <guid>https://vivecodigo.org/blog/2013/10/02/episodio-4-de-la-temporada-1-erlang-con-alvaro-videla-@old_sound/</guid>
-        <description>&lt;img src="https://vivecodigo.org/images/covers/2015-08-15-episodio-4-de-la-temporada-1-erlang-con-alvaro-videla-at-old-sound.svg" alt="Featured image of post Episodio 4 de la temporada 1 – Erlang con Alvaro Videla - @old_sound" /&gt;&lt;p&gt;Bienvenidos sean a esta nueva emisión del podcast el episodio numero 4 de la temporada numero 1.&lt;/p&gt;
-&lt;p&gt;Alvaro Videla (@old_sound) es un desarrollado uruguayo muy experimentado que esta actualmente esta trabajando en RabbitMQ y en RabbitMQ Simulator, además es el autor del libro de &amp;ldquo;RabbitMQ in action&amp;rdquo;; aprovechando su visita a México tuvimos la oportunidad de entrevistarlo para que nos hablará acerca de su trayectoria y también del lenguaje de programación Erlang.&lt;/p&gt;
-&lt;p&gt;Es interesante conocer la historia de Alvaro, así como también, ver la facilidad con la que expresa el paradigma con el que se maneja Erlang, el cual en propias palabras de Alvaro, es único aunque Erlang entre en la categoría de lenguajes funcionales.&lt;/p&gt;
-&lt;p&gt;Una conversación muy entretenida, informativa y enriquecedora, no se lo pierdan.&lt;/p&gt;
-&lt;p&gt;¡Espero lo disfruten! y apreciamos mucho cualquier comentario que nos puedan dejar, pronto mas capítulos de la temporada 01.&lt;/p&gt;
-&lt;iframe src=&#34;//player.vimeo.com/video/75962951&#34; height=&#34;281&#34; width=&#34;500&#34; allowfullscreen=&#34;&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
-&lt;!-- more --&gt;
-&lt;a href=&#34;http://vimeo.com/75962951&#34;&gt;ViveCodigo 01x04 - Erlang con Alvaro Videla(@old_sound)&lt;/a&gt; from &lt;a href=&#34;http://vimeo.com/makingdevs&#34;&gt;MakingDevs&lt;/a&gt; on &lt;a href=&#34;https://vimeo.com&#34;&gt;Vimeo&lt;/a&gt;.
-&lt;iframe src=&#34;//player.vimeo.com/video/75972109&#34; height=&#34;281&#34; width=&#34;500&#34; allowfullscreen=&#34;&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href=&#34;http://vimeo.com/75962951&#34;&gt;ViveCodigo 01x04 - Erlang con Alvaro Videla(@old_sound)- Demo&lt;/a&gt; -  from &lt;a href=&#34;http://vimeo.com/makingdevs&#34;&gt;MakingDevs&lt;/a&gt; on &lt;a href=&#34;https://vimeo.com&#34;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Se pueden suscribir al &lt;a href=&#34;http://vivecodigo.org/feed.xml&#34;&gt;feed&lt;/a&gt; de ViveCodigo.org o encuentranos en iTunes como: &lt;a href=&#34;https://itunes.apple.com/ca/podcast/vivecodigo.org-videocast/id685052596&#34;&gt;ViveCodigo.org - VideoCast&lt;/a&gt;&lt;/p&gt;
-</description>
-        </item>
-        
-    </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Erlang on ViveCodigo.org</title><link>https://vivecodigo.org/tags/erlang/</link><description>Recent content in Erlang on ViveCodigo.org</description><generator>Hugo -- gohugo.io</generator><language>es-mx</language><copyright>MakingDevs</copyright><lastBuildDate>Tue, 14 Jan 2014 14:23:19 -0500</lastBuildDate><atom:link href="https://vivecodigo.org/tags/erlang/index.xml" rel="self" type="application/rss+xml"/><item><title>Episodio 7 de la temporada 1 – Sergio Díaz @sergiodnila</title><link>https://vivecodigo.org/blog/2014/01/14/episodio-7-de-la-temporada-1-sergio-d%C3%ADaz-@sergiodnila/</link><pubDate>Tue, 14 Jan 2014 14:23:19 -0500</pubDate><guid>https://vivecodigo.org/blog/2014/01/14/episodio-7-de-la-temporada-1-sergio-d%C3%ADaz-@sergiodnila/</guid><description>&lt;img src="https://vivecodigo.org/images/covers/2015-08-15-episodio-7-de-la-temporada-1-sergio-diaz-at-sergiodnila.svg" alt="Featured image of post Episodio 7 de la temporada 1 – Sergio Díaz @sergiodnila" />&lt;p>Bienvenidos sean, regresamos con ustedes después de las  pasadas fiestas, iniciando un año nuevo con nuevas publicaciones y sorpresas para ustedes. Esta nueva emisión del podcast el episodio numero 7 de la temporada numero 1.&lt;/p>
+&lt;p>En esta ocasión nos visita Sergio Díaz Nila - @sergiodnila programador experimentado en lenguajes funcionales y se encuentra desarrollando en la actualidad en Erlang.&lt;/p>
+&lt;p>Nos hablo de los Sesgos Cognitovos, explorando la parte humana del desarrollo de software y nos platica porque le motivo el explorar este tema sin duda muy  interesante, pues es algo que como desarrolladores pasamos desapercibidos, pero gracias a esta charla tomamos conciencia de nuestro razonamiento.&lt;/p>
+&lt;p>Un entrevista sin duda muy interesante que no se pueden perder.&lt;/p>
+&lt;p>¡Espero lo disfruten! y apreciamos mucho cualquier comentario que nos puedan dejar, pronto mas capítulos de la temporada 01.&lt;/p>
+&lt;iframe src="//player.vimeo.com/video/84082319" height="400" width="712" allowfullscreen="" frameborder="0">&lt;/iframe>
+&lt;p>&lt;a href="http://vimeo.com/84082319">ViveCodigo 01x07 - Sesgos Cognitivos con Sergio Díaz (@sergiodnila)&lt;/a> from &lt;a href="http://vimeo.com/makingdevs">MakingDevs&lt;/a> on &lt;a href="https://vimeo.com">Vimeo&lt;/a>.&lt;/p>
+&lt;p>Se pueden suscribir al &lt;a href="http://vivecodigo.org/feed.xml">feed&lt;/a> de ViveCodigo.org o encontrarnos en iTunes como: &lt;a href="https://itunes.apple.com/ca/podcast/vivecodigo.org-videocast/id685052596">ViveCodigo.org - VideoCast&lt;/a>&lt;/p></description></item><item><title>Episodio 4 de la temporada 1 – Erlang con Alvaro Videla - @old_sound</title><link>https://vivecodigo.org/blog/2013/10/02/episodio-4-de-la-temporada-1-erlang-con-alvaro-videla-@old_sound/</link><pubDate>Wed, 02 Oct 2013 11:53:00 -0500</pubDate><guid>https://vivecodigo.org/blog/2013/10/02/episodio-4-de-la-temporada-1-erlang-con-alvaro-videla-@old_sound/</guid><description>&lt;img src="https://vivecodigo.org/images/covers/2015-08-15-episodio-4-de-la-temporada-1-erlang-con-alvaro-videla-at-old-sound.svg" alt="Featured image of post Episodio 4 de la temporada 1 – Erlang con Alvaro Videla - @old_sound" />&lt;p>Bienvenidos sean a esta nueva emisión del podcast el episodio numero 4 de la temporada numero 1.&lt;/p>
+&lt;p>Alvaro Videla (@old_sound) es un desarrollado uruguayo muy experimentado que esta actualmente esta trabajando en RabbitMQ y en RabbitMQ Simulator, además es el autor del libro de &amp;ldquo;RabbitMQ in action&amp;rdquo;; aprovechando su visita a México tuvimos la oportunidad de entrevistarlo para que nos hablará acerca de su trayectoria y también del lenguaje de programación Erlang.&lt;/p>
+&lt;p>Es interesante conocer la historia de Alvaro, así como también, ver la facilidad con la que expresa el paradigma con el que se maneja Erlang, el cual en propias palabras de Alvaro, es único aunque Erlang entre en la categoría de lenguajes funcionales.&lt;/p>
+&lt;p>Una conversación muy entretenida, informativa y enriquecedora, no se lo pierdan.&lt;/p>
+&lt;p>¡Espero lo disfruten! y apreciamos mucho cualquier comentario que nos puedan dejar, pronto mas capítulos de la temporada 01.&lt;/p>
+&lt;iframe src="//player.vimeo.com/video/75962951" height="281" width="500" allowfullscreen="" frameborder="0">&lt;/iframe>
+&lt;!-- more -->
+&lt;a href="http://vimeo.com/75962951">ViveCodigo 01x04 - Erlang con Alvaro Videla(@old_sound)&lt;/a> from &lt;a href="http://vimeo.com/makingdevs">MakingDevs&lt;/a> on &lt;a href="https://vimeo.com">Vimeo&lt;/a>.
+&lt;iframe src="//player.vimeo.com/video/75972109" height="281" width="500" allowfullscreen="" frameborder="0">&lt;/iframe>
+&lt;p>&lt;a href="http://vimeo.com/75962951">ViveCodigo 01x04 - Erlang con Alvaro Videla(@old_sound)- Demo&lt;/a> -  from &lt;a href="http://vimeo.com/makingdevs">MakingDevs&lt;/a> on &lt;a href="https://vimeo.com">Vimeo&lt;/a>.&lt;/p>
+&lt;p>Se pueden suscribir al &lt;a href="http://vivecodigo.org/feed.xml">feed&lt;/a> de ViveCodigo.org o encuentranos en iTunes como: &lt;a href="https://itunes.apple.com/ca/podcast/vivecodigo.org-videocast/id685052596">ViveCodigo.org - VideoCast&lt;/a>&lt;/p></description></item></channel></rss>

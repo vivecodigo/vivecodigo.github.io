@@ -1,64 +1,36 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Ios on ViveCodigo.org</title>
-        <link>https://vivecodigo.org/tags/ios/</link>
-        <description>Recent content in Ios on ViveCodigo.org</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>es-mx</language>
-        <copyright>MakingDevs</copyright>
-        <lastBuildDate>Wed, 26 Mar 2014 11:54:28 -0500</lastBuildDate><atom:link href="https://vivecodigo.org/tags/ios/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Episodio 11 de la temporada 1 – Hector Zarate @iOSCowboy.</title>
-        <link>https://vivecodigo.org/blog/2014/03/26/episodio-11-de-la-temporada-1-hector-zarate-@ioscowboy./</link>
-        <pubDate>Wed, 26 Mar 2014 11:54:28 -0500</pubDate>
-        
-        <guid>https://vivecodigo.org/blog/2014/03/26/episodio-11-de-la-temporada-1-hector-zarate-@ioscowboy./</guid>
-        <description>&lt;img src="https://vivecodigo.org/images/covers/2015-08-15-episodio-11-de-la-temporada-1-hector-zarate-at-ioscowboy.svg" alt="Featured image of post Episodio 11 de la temporada 1 – Hector Zarate @iOSCowboy." /&gt;&lt;p&gt;Bienvenidos sean a otra emisión de su podcast favorito vivecodigo.org el episodio numero 11 de la temporada numero 1.&lt;/p&gt;
-&lt;p&gt;En esta ocasión una entrevista remota desde Varsovia con nuestro amigo Hector Zarate - @iOSCowboy, quien nos platica su interesante trayectoria profesional como desarrollador de software, el cual se desempeña en el desarrollo de aplicaciones móviles y que se encuentra escribiendo un libro titulado &amp;ldquo;Guia de referencia para el desarrollo y distribución de aplicaciones en plataformas móviles&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;Nos habla sobre cuales son las claves del desarrollo de una aplicación móvil pero sobre todo cuales son las premisas para que una aplicación móvil sea exitosa:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Satisfacer una necesidad&lt;/li&gt;
-  &lt;li&gt;Planear el desarrollo de software&lt;/li&gt;
-  &lt;li&gt;Experiencia al usuario (usabilidad)&lt;/li&gt;
-  &lt;li&gt;Marketing&lt;/li&gt;
-&lt;/ul&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ios on ViveCodigo.org</title><link>https://vivecodigo.org/tags/ios/</link><description>Recent content in Ios on ViveCodigo.org</description><generator>Hugo -- gohugo.io</generator><language>es-mx</language><copyright>MakingDevs</copyright><lastBuildDate>Wed, 26 Mar 2014 11:54:28 -0500</lastBuildDate><atom:link href="https://vivecodigo.org/tags/ios/index.xml" rel="self" type="application/rss+xml"/><item><title>Episodio 11 de la temporada 1 – Hector Zarate @iOSCowboy.</title><link>https://vivecodigo.org/blog/2014/03/26/episodio-11-de-la-temporada-1-hector-zarate-@ioscowboy./</link><pubDate>Wed, 26 Mar 2014 11:54:28 -0500</pubDate><guid>https://vivecodigo.org/blog/2014/03/26/episodio-11-de-la-temporada-1-hector-zarate-@ioscowboy./</guid><description>&lt;img src="https://vivecodigo.org/images/covers/2015-08-15-episodio-11-de-la-temporada-1-hector-zarate-at-ioscowboy.svg" alt="Featured image of post Episodio 11 de la temporada 1 – Hector Zarate @iOSCowboy." />&lt;p>Bienvenidos sean a otra emisión de su podcast favorito vivecodigo.org el episodio numero 11 de la temporada numero 1.&lt;/p>
+&lt;p>En esta ocasión una entrevista remota desde Varsovia con nuestro amigo Hector Zarate - @iOSCowboy, quien nos platica su interesante trayectoria profesional como desarrollador de software, el cual se desempeña en el desarrollo de aplicaciones móviles y que se encuentra escribiendo un libro titulado &amp;ldquo;Guia de referencia para el desarrollo y distribución de aplicaciones en plataformas móviles&amp;rdquo;&lt;/p>
+&lt;p>Nos habla sobre cuales son las claves del desarrollo de una aplicación móvil pero sobre todo cuales son las premisas para que una aplicación móvil sea exitosa:&lt;/p>
+&lt;ul>
+&lt;li>Satisfacer una necesidad&lt;/li>
+&lt;li>Planear el desarrollo de software&lt;/li>
+&lt;li>Experiencia al usuario (usabilidad)&lt;/li>
+&lt;li>Marketing&lt;/li>
+&lt;/ul>
 Un tema muy interesante sobre el desarrollo para este tipo de plataformas.
-&lt;p&gt;&lt;img class=&#34;alignleft size-thumbnail wp-image-537&#34; alt=&#34;uno&#34; src=&#34;https://vivecodigo.org/images/uno.jpg&#34; width=&#34;150&#34; height=&#34;150&#34; /&gt;&lt;img class=&#34;alignleft size-thumbnail wp-image-535&#34; alt=&#34;dos&#34; src=&#34;https://vivecodigo.org/images/dos.jpg&#34; width=&#34;150&#34; height=&#34;150&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;Les hacemos la cordial invitación a que se suscriban al &lt;a href=&#34;http://vivecodigo.org/feed.xml&#34;&gt;feed&lt;/a&gt; del Videocast de ViveCodigo.org o encontrarnos en iTunes como: &lt;a href=&#34;https://itunes.apple.com/ca/podcast/vivecodigo.org-videocast/id685052596&#34;&gt;ViveCodigo.org - VideoCast&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;O si lo prefieren al &lt;a href=&#34;http://media.vivecodigo.org.s3.amazonaws.com/podcast-audio/feed.xml&#34;&gt;feed&lt;/a&gt; del podcast de audio o en iTunes como:&lt;a href=&#34;https://itunes.apple.com/mz/podcast/vivecodigo.org-podcast/id722889939&#34;&gt;ViveCodigo.org - Podcast&lt;/a&gt;.&lt;/p&gt;
-&lt;!--more--&gt;¡Espero lo disfruten! y apreciamos mucho cualquier comentario que nos puedan dejar, pronto mas capítulos de la temporada 01.
-&lt;p&gt;Un entrevista sin duda muy interesante que no se pueden perder.&lt;/p&gt;
-&lt;iframe src=&#34;//player.vimeo.com/video/90047678&#34; height=&#34;405&#34; width=&#34;720&#34; allowfullscreen=&#34;&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href=&#34;http://vimeo.com/90047678&#34;&gt;ViveCodigo 01x11 - Desarrollo y distribución de aplicaciones moviles con Hector Zarate (@iOSCowboy)&lt;/a&gt; from &lt;a href=&#34;http://vimeo.com/makingdevs&#34;&gt;MakingDevs&lt;/a&gt; on &lt;a href=&#34;https://vimeo.com&#34;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://media.vivecodigo.org.s3.amazonaws.com/podcast-audio/temporada1/ViveCodigo01x11_a.mp3&#34;&gt;&lt;img class=&#34;aligncenter&#34; alt=&#34;download&#34; src=&#34;https://vivecodigo.org/images/download.gif&#34; width=&#34;50&#34; height=&#34;50&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p style=&#34;text-align: center;&#34;&gt;Descarga el archivo mp3 del audio del Podcast o escuchalo aquí mismo.&lt;/p&gt;
-&lt;audio width=&#34;300&#34; height=&#34;32&#34; controls=&#34;controls&#34;&gt;&lt;source src=&#34;http://media.vivecodigo.org.s3.amazonaws.com/podcast-audio/temporada1/ViveCodigo01x11_a.mp3&#34; type=&#34;audio/mpeg&#34; /&gt;
-&lt;/audio&gt;</description>
-        </item>
-        <item>
-        <title>Podcast 5 de la temporada 0</title>
-        <link>https://vivecodigo.org/blog/2011/07/03/podcast-5-de-la-temporada-0/</link>
-        <pubDate>Sun, 03 Jul 2011 14:07:02 -0500</pubDate>
-        
-        <guid>https://vivecodigo.org/blog/2011/07/03/podcast-5-de-la-temporada-0/</guid>
-        <description>&lt;img src="https://vivecodigo.org/images/covers/2015-08-15-podcast-5-de-la-temporada-0.svg" alt="Featured image of post Podcast 5 de la temporada 0" /&gt;&lt;p&gt;Hola nuevamente!!!
-Nos da mucho gusto compartir con todos ustedes el tema de iOS, a través de la voz de Juan Karam(@JuanKaram), quién es el más experimentado desarrollador en esta plataforma; a lo largo de esta charla, Juan nos platica su experiencia de una forma muy amena, nos ofrece una opinión muy valiosa para quienes quieren adoptar el lenguaje sobre el cual se desarrolla, hace algunas recomendaciones para todos los desarrolladores independiente de sus herramientas de trabajo, y profundiza en su tema favorito.&lt;/p&gt;
-&lt;iframe src=&#34;https://player.vimeo.com/video/25886742?title=0&amp;amp;byline=0&amp;amp;portrait=0&amp;amp;color=ff9933&#34; height=&#34;281&#34; width=&#34;500&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
-&lt;!-- more --&gt;
+&lt;p>&lt;img class="alignleft size-thumbnail wp-image-537" alt="uno" src="https://vivecodigo.org/images/uno.jpg" width="150" height="150" />&lt;img class="alignleft size-thumbnail wp-image-535" alt="dos" src="https://vivecodigo.org/images/dos.jpg" width="150" height="150" />&lt;/p>
+&lt;p>Les hacemos la cordial invitación a que se suscriban al &lt;a href="http://vivecodigo.org/feed.xml">feed&lt;/a> del Videocast de ViveCodigo.org o encontrarnos en iTunes como: &lt;a href="https://itunes.apple.com/ca/podcast/vivecodigo.org-videocast/id685052596">ViveCodigo.org - VideoCast&lt;/a>.&lt;/p>
+&lt;p>O si lo prefieren al &lt;a href="http://media.vivecodigo.org.s3.amazonaws.com/podcast-audio/feed.xml">feed&lt;/a> del podcast de audio o en iTunes como:&lt;a href="https://itunes.apple.com/mz/podcast/vivecodigo.org-podcast/id722889939">ViveCodigo.org - Podcast&lt;/a>.&lt;/p>
+&lt;!--more-->¡Espero lo disfruten! y apreciamos mucho cualquier comentario que nos puedan dejar, pronto mas capítulos de la temporada 01.
+&lt;p>Un entrevista sin duda muy interesante que no se pueden perder.&lt;/p>
+&lt;iframe src="//player.vimeo.com/video/90047678" height="405" width="720" allowfullscreen="" frameborder="0">&lt;/iframe>
+&lt;p>&lt;a href="http://vimeo.com/90047678">ViveCodigo 01x11 - Desarrollo y distribución de aplicaciones moviles con Hector Zarate (@iOSCowboy)&lt;/a> from &lt;a href="http://vimeo.com/makingdevs">MakingDevs&lt;/a> on &lt;a href="https://vimeo.com">Vimeo&lt;/a>.&lt;/p>
+&lt;p>&lt;a href="http://media.vivecodigo.org.s3.amazonaws.com/podcast-audio/temporada1/ViveCodigo01x11_a.mp3">&lt;img class="aligncenter" alt="download" src="https://vivecodigo.org/images/download.gif" width="50" height="50" />&lt;/a>&lt;/p>
+&lt;p style="text-align: center;">Descarga el archivo mp3 del audio del Podcast o escuchalo aquí mismo.&lt;/p>
+&lt;audio width="300" height="32" controls="controls">&lt;source src="http://media.vivecodigo.org.s3.amazonaws.com/podcast-audio/temporada1/ViveCodigo01x11_a.mp3" type="audio/mpeg" />
+&lt;/audio></description></item><item><title>Podcast 5 de la temporada 0</title><link>https://vivecodigo.org/blog/2011/07/03/podcast-5-de-la-temporada-0/</link><pubDate>Sun, 03 Jul 2011 14:07:02 -0500</pubDate><guid>https://vivecodigo.org/blog/2011/07/03/podcast-5-de-la-temporada-0/</guid><description>&lt;img src="https://vivecodigo.org/images/covers/2015-08-15-podcast-5-de-la-temporada-0.svg" alt="Featured image of post Podcast 5 de la temporada 0" />&lt;p>Hola nuevamente!!!
+Nos da mucho gusto compartir con todos ustedes el tema de iOS, a través de la voz de Juan Karam(@JuanKaram), quién es el más experimentado desarrollador en esta plataforma; a lo largo de esta charla, Juan nos platica su experiencia de una forma muy amena, nos ofrece una opinión muy valiosa para quienes quieren adoptar el lenguaje sobre el cual se desarrolla, hace algunas recomendaciones para todos los desarrolladores independiente de sus herramientas de trabajo, y profundiza en su tema favorito.&lt;/p>
+&lt;iframe src="https://player.vimeo.com/video/25886742?title=0&amp;amp;byline=0&amp;amp;portrait=0&amp;amp;color=ff9933" height="281" width="500" frameborder="0">&lt;/iframe>
+&lt;!-- more -->
 En el screencast nos muestra un poco del lenguaje para desarrollar sobre la plataforma iOS y nos hace una demo de realidad aumenta + geolocalización sobre un iPhone.
-&lt;iframe src=&#34;https://player.vimeo.com/video/25922093?title=0&amp;amp;byline=0&amp;amp;portrait=0&amp;amp;color=ff9933&#34; height=&#34;281&#34; width=&#34;500&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+&lt;iframe src="https://player.vimeo.com/video/25922093?title=0&amp;amp;byline=0&amp;amp;portrait=0&amp;amp;color=ff9933" height="281" width="500" frameborder="0">&lt;/iframe>
 Si sólo quieres escuchar el audio de la entrevista, lo puedes hacer desde aquí:
-&lt;object width=&#34;400&#34; height=&#34;27&#34; classid=&#34;clsid:d27cdb6e-ae6d-11cf-96b8-444553540000&#34; codebase=&#34;http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0&#34;&gt;&lt;param name=&#34;src&#34; value=&#34;http://www.google.com/reader/ui/3523697345-audio-player.swf&#34; /&gt;&lt;param name=&#34;quality&#34; value=&#34;best&#34; /&gt;&lt;param name=&#34;flashvars&#34; value=&#34;audioUrl=http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x05_a.mp3&#34; /&gt;&lt;embed width=&#34;400&#34; height=&#34;27&#34; type=&#34;application/x-shockwave-flash&#34; src=&#34;http://www.google.com/reader/ui/3523697345-audio-player.swf&#34; quality=&#34;best&#34; flashvars=&#34;audioUrl=http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x05_a.mp3&#34; /&gt;&lt;/object&gt;
-&lt;p&gt;Adicionalmente, les dejamos los archivos para su descarga.&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&#34;http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x05_a.mov&#34;&gt;Entrevista con Juan Karam&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&#34;http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x05_b.mov&#34;&gt;Demo de realidad aumentada en iPhone&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&#34;http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x05_a.mp3&#34;&gt;Audio de la entrevista&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;object width="400" height="27" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0">&lt;param name="src" value="http://www.google.com/reader/ui/3523697345-audio-player.swf" />&lt;param name="quality" value="best" />&lt;param name="flashvars" value="audioUrl=http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x05_a.mp3" />&lt;embed width="400" height="27" type="application/x-shockwave-flash" src="http://www.google.com/reader/ui/3523697345-audio-player.swf" quality="best" flashvars="audioUrl=http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x05_a.mp3" />&lt;/object>
+&lt;p>Adicionalmente, les dejamos los archivos para su descarga.&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x05_a.mov">Entrevista con Juan Karam&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x05_b.mov">Demo de realidad aumentada en iPhone&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x05_a.mp3">Audio de la entrevista&lt;/a>&lt;/li>
+&lt;/ul>
 Que lo disfruten tanto como nosotros.
-&lt;p&gt;Saludos.&lt;/p&gt;
-</description>
-        </item>
-        
-    </channel>
-</rss>
+&lt;p>Saludos.&lt;/p></description></item></channel></rss>

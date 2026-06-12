@@ -1,56 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Comunidad on ViveCodigo.org</title>
-        <link>https://vivecodigo.org/tags/comunidad/</link>
-        <description>Recent content in Comunidad on ViveCodigo.org</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>es-mx</language>
-        <copyright>MakingDevs</copyright>
-        <lastBuildDate>Mon, 30 Apr 2012 15:20:52 -0500</lastBuildDate><atom:link href="https://vivecodigo.org/tags/comunidad/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Episodio Final de la temporada 0</title>
-        <link>https://vivecodigo.org/blog/2012/04/30/episodio-final-de-la-temporada-0/</link>
-        <pubDate>Mon, 30 Apr 2012 15:20:52 -0500</pubDate>
-        
-        <guid>https://vivecodigo.org/blog/2012/04/30/episodio-final-de-la-temporada-0/</guid>
-        <description>&lt;img src="https://vivecodigo.org/images/covers/2015-08-15-episodio-final-de-la-temporada-0.svg" alt="Featured image of post Episodio Final de la temporada 0" /&gt;&lt;p&gt;EOS = End of Season&lt;/p&gt;
-&lt;p&gt;Muchas gracias a todos los que descargaron los podcast, muchas gracias por sus comentarios y su asistencia.
-Gracias a los entrevistados por compartir su conocimiento, gracias a los asistentes a los Dojos por compartir su experiencia y participación, gracias a los patrocinadores y sobre todo gracias al público que nos demanda y nos hace mejores con sus comentarios.&lt;/p&gt;
-&lt;p&gt;En esta última emisión de esta temporada nos reunimos todos para platicar un poco de nuestra línea de tiempo en el desarrollo de software y algunas otras aficiones. Terminamos en un bar con algunas cervezas y alitas, rifando un par de libros y dos pases para &lt;strong&gt;&lt;a href=&#34;http://www.sg.com.mx/sgce/2012/&#34;&gt;Software Gurú Conferencia y Expo&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Sin lugar a dudas nos divertimos, sufrimos, compartimos, creamos, innovamos, en fin&amp;hellip;&lt;/p&gt;
-&lt;p&gt;Que lo disfruten:&lt;/p&gt;
-&lt;iframe src=&#34;https://player.vimeo.com/video/41325296&#34; height=&#34;281&#34; width=&#34;500&#34; allowfullscreen=&#34;&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
-</description>
-        </item>
-        <item>
-        <title>Episodio 16 de la temporada 0</title>
-        <link>https://vivecodigo.org/blog/2012/03/31/episodio-16-de-la-temporada-0/</link>
-        <pubDate>Sat, 31 Mar 2012 06:08:39 -0500</pubDate>
-        
-        <guid>https://vivecodigo.org/blog/2012/03/31/episodio-16-de-la-temporada-0/</guid>
-        <description>&lt;img src="https://vivecodigo.org/images/covers/2015-08-15-episodio-16-de-la-temporada-0.svg" alt="Featured image of post Episodio 16 de la temporada 0" /&gt;&lt;p&gt;Bienvenidos sean a este nuevo episodio de ViveCodigo, casi estamos por cerrar nuestra primera temporada y queremos darles otra perspectiva del podcast.&lt;/p&gt;
-&lt;iframe src=&#34;https://player.vimeo.com/video/39522331&#34; height=&#34;281&#34; width=&#34;500&#34; allowfullscreen=&#34;&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
-&lt;!-- more --&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Comunidad on ViveCodigo.org</title><link>https://vivecodigo.org/tags/comunidad/</link><description>Recent content in Comunidad on ViveCodigo.org</description><generator>Hugo -- gohugo.io</generator><language>es-mx</language><copyright>MakingDevs</copyright><lastBuildDate>Mon, 30 Apr 2012 15:20:52 -0500</lastBuildDate><atom:link href="https://vivecodigo.org/tags/comunidad/index.xml" rel="self" type="application/rss+xml"/><item><title>Episodio Final de la temporada 0</title><link>https://vivecodigo.org/blog/2012/04/30/episodio-final-de-la-temporada-0/</link><pubDate>Mon, 30 Apr 2012 15:20:52 -0500</pubDate><guid>https://vivecodigo.org/blog/2012/04/30/episodio-final-de-la-temporada-0/</guid><description>&lt;img src="https://vivecodigo.org/images/covers/2015-08-15-episodio-final-de-la-temporada-0.svg" alt="Featured image of post Episodio Final de la temporada 0" />&lt;p>EOS = End of Season&lt;/p>
+&lt;p>Muchas gracias a todos los que descargaron los podcast, muchas gracias por sus comentarios y su asistencia.
+Gracias a los entrevistados por compartir su conocimiento, gracias a los asistentes a los Dojos por compartir su experiencia y participación, gracias a los patrocinadores y sobre todo gracias al público que nos demanda y nos hace mejores con sus comentarios.&lt;/p>
+&lt;p>En esta última emisión de esta temporada nos reunimos todos para platicar un poco de nuestra línea de tiempo en el desarrollo de software y algunas otras aficiones. Terminamos en un bar con algunas cervezas y alitas, rifando un par de libros y dos pases para &lt;strong>&lt;a href="http://www.sg.com.mx/sgce/2012/">Software Gurú Conferencia y Expo&lt;/a>&lt;/strong>&lt;/p>
+&lt;p>Sin lugar a dudas nos divertimos, sufrimos, compartimos, creamos, innovamos, en fin&amp;hellip;&lt;/p>
+&lt;p>Que lo disfruten:&lt;/p>
+&lt;iframe src="https://player.vimeo.com/video/41325296" height="281" width="500" allowfullscreen="" frameborder="0">&lt;/iframe></description></item><item><title>Episodio 16 de la temporada 0</title><link>https://vivecodigo.org/blog/2012/03/31/episodio-16-de-la-temporada-0/</link><pubDate>Sat, 31 Mar 2012 06:08:39 -0500</pubDate><guid>https://vivecodigo.org/blog/2012/03/31/episodio-16-de-la-temporada-0/</guid><description>&lt;img src="https://vivecodigo.org/images/covers/2015-08-15-episodio-16-de-la-temporada-0.svg" alt="Featured image of post Episodio 16 de la temporada 0" />&lt;p>Bienvenidos sean a este nuevo episodio de ViveCodigo, casi estamos por cerrar nuestra primera temporada y queremos darles otra perspectiva del podcast.&lt;/p>
+&lt;iframe src="https://player.vimeo.com/video/39522331" height="281" width="500" allowfullscreen="" frameborder="0">&lt;/iframe>
+&lt;!-- more -->
 En esta ocasión nos sumergimos en una organización que nos permitió realizar algunas actividades en conjunto con los miembros de TI. Aquí inculcamos un poco de valores y prácticas ágiles a través de dinámicas que permitían al equipo concebir y experimentar un poco de los principios que les mostramos.
-&lt;p&gt;Sin lugar a dudas, fue una gran experiencia para quienes asistieron, para nosotros y seguramente lo será para quienes lo puedan ver, recomiendo que lo vean completo y lo escuchen todo, pues hay frases tanto de desarrolladores como de líderes de proyecto y arquitectos, y es muy interesante ver las acciones que toman al ejecutar sus tareas.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x16.mov&#34;&gt;Descarga el archivo&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Esperamos sus dudas y comentarios.&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>Bienvenido</title>
-        <link>https://vivecodigo.org/blog/2011/04/13/bienvenido/</link>
-        <pubDate>Wed, 13 Apr 2011 05:21:38 -0500</pubDate>
-        
-        <guid>https://vivecodigo.org/blog/2011/04/13/bienvenido/</guid>
-        <description>&lt;img src="https://vivecodigo.org/images/covers/2015-08-15-bienvenido.svg" alt="Featured image of post Bienvenido" /&gt;&lt;p&gt;Te damos la más cordial bienvenida a este nuevo proyecto&amp;hellip;&lt;/p&gt;
-&lt;p&gt;La intención de este podcast es seguir contribuyendo como lo hemos venido haciendo con proyectos anteriores, pero dándole un toque extra que poco a poco fuimos aterrizando.&lt;/p&gt;
-&lt;p&gt;Pero, ¿qué podrás encontrar en este proyecto?&lt;/p&gt;
-&lt;p&gt;Simple, todo lo relacionado al desarrollo de software, desde lenguajes hasta técnicas, pasando por frameworks y prácticas, y en nuestro caso muy particular orientado a la plataforma Java, sin embargo, no dejamos de lado otro conjunto de herramientas que un desarrollador podría ocupar, que son indispensables y complementarios en los proyectos en los que trabajamos diariamente, y que tal vez tu también ocupas o podrías ocupar&amp;hellip;&lt;/p&gt;
-&lt;p&gt;Esperamos que de a poco y con nuestro esfuerzo nos vayamos ganando tu confianza, y nos hagas llegar tus comentarios&amp;hellip;&lt;/p&gt;
-&lt;p&gt;Gracias y bienvenido!&lt;/p&gt;
-</description>
-        </item>
-        
-    </channel>
-</rss>
+&lt;p>Sin lugar a dudas, fue una gran experiencia para quienes asistieron, para nosotros y seguramente lo será para quienes lo puedan ver, recomiendo que lo vean completo y lo escuchen todo, pues hay frases tanto de desarrolladores como de líderes de proyecto y arquitectos, y es muy interesante ver las acciones que toman al ejecutar sus tareas.&lt;/p>
+&lt;p>&lt;a href="http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x16.mov">Descarga el archivo&lt;/a>&lt;/p>
+&lt;p>Esperamos sus dudas y comentarios.&lt;/p></description></item><item><title>Bienvenido</title><link>https://vivecodigo.org/blog/2011/04/13/bienvenido/</link><pubDate>Wed, 13 Apr 2011 05:21:38 -0500</pubDate><guid>https://vivecodigo.org/blog/2011/04/13/bienvenido/</guid><description>&lt;img src="https://vivecodigo.org/images/covers/2015-08-15-bienvenido.svg" alt="Featured image of post Bienvenido" />&lt;p>Te damos la más cordial bienvenida a este nuevo proyecto&amp;hellip;&lt;/p>
+&lt;p>La intención de este podcast es seguir contribuyendo como lo hemos venido haciendo con proyectos anteriores, pero dándole un toque extra que poco a poco fuimos aterrizando.&lt;/p>
+&lt;p>Pero, ¿qué podrás encontrar en este proyecto?&lt;/p>
+&lt;p>Simple, todo lo relacionado al desarrollo de software, desde lenguajes hasta técnicas, pasando por frameworks y prácticas, y en nuestro caso muy particular orientado a la plataforma Java, sin embargo, no dejamos de lado otro conjunto de herramientas que un desarrollador podría ocupar, que son indispensables y complementarios en los proyectos en los que trabajamos diariamente, y que tal vez tu también ocupas o podrías ocupar&amp;hellip;&lt;/p>
+&lt;p>Esperamos que de a poco y con nuestro esfuerzo nos vayamos ganando tu confianza, y nos hagas llegar tus comentarios&amp;hellip;&lt;/p>
+&lt;p>Gracias y bienvenido!&lt;/p></description></item></channel></rss>

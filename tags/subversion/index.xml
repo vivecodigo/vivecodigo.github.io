@@ -1,24 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Subversion on ViveCodigo.org</title>
-        <link>https://vivecodigo.org/tags/subversion/</link>
-        <description>Recent content in Subversion on ViveCodigo.org</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>es-mx</language>
-        <copyright>MakingDevs</copyright>
-        <lastBuildDate>Fri, 26 Jul 2013 11:56:12 -0500</lastBuildDate><atom:link href="https://vivecodigo.org/tags/subversion/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>&#39;Subversion and Git&#39; con Matthew McCullough</title>
-        <link>https://vivecodigo.org/blog/2013/07/26/subversion-and-git-con-matthew-mccullough/</link>
-        <pubDate>Fri, 26 Jul 2013 11:56:12 -0500</pubDate>
-        
-        <guid>https://vivecodigo.org/blog/2013/07/26/subversion-and-git-con-matthew-mccullough/</guid>
-        <description>&lt;img src="https://vivecodigo.org/images/covers/2015-08-15-subversion-and-git-con-matthew-mccullough.svg" alt="Featured image of post &#39;Subversion and Git&#39; con Matthew McCullough" /&gt;&lt;p&gt;¡Hola a todos!&lt;/p&gt;
-&lt;p&gt;En esta ocasión es un video de una platica sobre Git y el uso del repositorio SVN, en mayo 2012 en la ciudad de México realizada por Matthew McCullough(@matthewmccull). Nos habla profundamente del funcionamiento de Git y como podemos implementar el repositorio de SVN, una interesante platica ya que nos habla de comandos muy interesantes además de algunos trucos muy útiles de Git.&lt;/p&gt;
-&lt;p&gt;Espero lo disfruten:&lt;/p&gt;
-&lt;iframe src=&#34;//www.youtube.com/embed/10bPUMtqNmw&#34; height=&#34;315&#34; width=&#34;560&#34; allowfullscreen=&#34;&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
-</description>
-        </item>
-        
-    </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Subversion on ViveCodigo.org</title><link>https://vivecodigo.org/tags/subversion/</link><description>Recent content in Subversion on ViveCodigo.org</description><generator>Hugo -- gohugo.io</generator><language>es-mx</language><copyright>MakingDevs</copyright><lastBuildDate>Fri, 26 Jul 2013 11:56:12 -0500</lastBuildDate><atom:link href="https://vivecodigo.org/tags/subversion/index.xml" rel="self" type="application/rss+xml"/><item><title>'Subversion and Git' con Matthew McCullough</title><link>https://vivecodigo.org/blog/2013/07/26/subversion-and-git-con-matthew-mccullough/</link><pubDate>Fri, 26 Jul 2013 11:56:12 -0500</pubDate><guid>https://vivecodigo.org/blog/2013/07/26/subversion-and-git-con-matthew-mccullough/</guid><description>&lt;img src="https://vivecodigo.org/images/covers/2015-08-15-subversion-and-git-con-matthew-mccullough.svg" alt="Featured image of post 'Subversion and Git' con Matthew McCullough" />&lt;p>¡Hola a todos!&lt;/p>
+&lt;p>En esta ocasión es un video de una platica sobre Git y el uso del repositorio SVN, en mayo 2012 en la ciudad de México realizada por Matthew McCullough(@matthewmccull). Nos habla profundamente del funcionamiento de Git y como podemos implementar el repositorio de SVN, una interesante platica ya que nos habla de comandos muy interesantes además de algunos trucos muy útiles de Git.&lt;/p>
+&lt;p>Espero lo disfruten:&lt;/p>
+&lt;iframe src="//www.youtube.com/embed/10bPUMtqNmw" height="315" width="560" allowfullscreen="" frameborder="0">&lt;/iframe></description></item></channel></rss>

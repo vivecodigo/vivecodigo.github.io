@@ -1,30 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Joybox on ViveCodigo.org</title>
-        <link>https://vivecodigo.org/tags/joybox/</link>
-        <description>Recent content in Joybox on ViveCodigo.org</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>es-mx</language>
-        <copyright>MakingDevs</copyright>
-        <lastBuildDate>Wed, 25 Sep 2013 10:07:37 -0500</lastBuildDate><atom:link href="https://vivecodigo.org/tags/joybox/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Episodio 3 de la temporada 1 – Desarrollo de juegos en JoyBox con @JuanKaram y @mexinsane</title>
-        <link>https://vivecodigo.org/blog/2013/09/25/episodio-3-de-la-temporada-1-desarrollo-de-juegos-en-joybox-con-@juankaram-y-@mexinsane/</link>
-        <pubDate>Wed, 25 Sep 2013 10:07:37 -0500</pubDate>
-        
-        <guid>https://vivecodigo.org/blog/2013/09/25/episodio-3-de-la-temporada-1-desarrollo-de-juegos-en-joybox-con-@juankaram-y-@mexinsane/</guid>
-        <description>&lt;img src="https://vivecodigo.org/images/covers/2015-08-15-episodio-3-de-la-temporada-1-desarrollo-de-juegos-en-joybox-con-at-juankaram-y-at-mexinsane.svg" alt="Featured image of post Episodio 3 de la temporada 1 – Desarrollo de juegos en JoyBox con @JuanKaram y @mexinsane" /&gt;&lt;p&gt;Bienvenidos sean a esta nueva emisión del podcast el episodio numero 3 de la temporada numero 1.&lt;/p&gt;
-&lt;p&gt;El desarrollo de videojuegos en México y en varias partes del mundo gracias a @juankaram y @mexinsane, ya que están desarrollando un engine para RubyMotion llamado JoyBox. En esta sesión nuestros invitados nos platican la experiencia de estar desarrollando un proyecto Open Source que permite desarrollar videojuegos de una forma más sencilla, rápida y sobre todo divertida. ¿Qué es lo que los motivo a crear este proyecto? ¿Es posible para muchos de nosotros crear juegos para iOS con Ruby? ¿Se puede tener una carrera como desarrollador de videojuegos?, sin duda, muchas preguntas serán resueltas en este podcast.&lt;/p&gt;
-&lt;p&gt;¡Espero lo disfruten! y apreciamos mucho cualquier comentario que nos puedan dejar, pronto mas capítulos de la temporada 01.&lt;/p&gt;
-&lt;p&gt;&lt;iframe src=&#34;//player.vimeo.com/video/75350418&#34; height=&#34;282&#34; width=&#34;500&#34; allowfullscreen=&#34;&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;!-- more --&gt;
-&lt;p&gt;&lt;a href=&#34;http://vimeo.com/75350418&#34;&gt;ViveCodigo 01x03 - Desarrollo de juegos en JoyBox con @JuanKaram y @mexinsane&lt;/a&gt; from &lt;a href=&#34;http://vimeo.com/makingdevs&#34;&gt;MakingDevs&lt;/a&gt; on &lt;a href=&#34;https://vimeo.com&#34;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Detras de  Camaras de ViveCodigo.org&lt;/p&gt;
-&lt;p&gt;&lt;iframe src=&#34;//player.vimeo.com/video/75350419&#34; height=&#34;281&#34; width=&#34;500&#34; allowfullscreen=&#34;&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://vimeo.com/75350419&#34;&gt;ViveCodigo 01x03 - Detras de Camaras - Desarrollo de juegos en JoyBox con @JuanKaram y @mexinsane&lt;/a&gt; from &lt;a href=&#34;http://vimeo.com/makingdevs&#34;&gt;MakingDevs&lt;/a&gt; on &lt;a href=&#34;https://vimeo.com&#34;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Se pueden suscribir al &lt;a href=&#34;http://vivecodigo.org/feed.xml&#34;&gt;feed&lt;/a&gt; de ViveCodigo.org o encuentranos en iTunes como: &lt;a href=&#34;https://itunes.apple.com/ca/podcast/vivecodigo.org-videocast/id685052596&#34;&gt;ViveCodigo.org - VideoCast&lt;/a&gt;&lt;/p&gt;
-</description>
-        </item>
-        
-    </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Joybox on ViveCodigo.org</title><link>https://vivecodigo.org/tags/joybox/</link><description>Recent content in Joybox on ViveCodigo.org</description><generator>Hugo -- gohugo.io</generator><language>es-mx</language><copyright>MakingDevs</copyright><lastBuildDate>Wed, 25 Sep 2013 10:07:37 -0500</lastBuildDate><atom:link href="https://vivecodigo.org/tags/joybox/index.xml" rel="self" type="application/rss+xml"/><item><title>Episodio 3 de la temporada 1 – Desarrollo de juegos en JoyBox con @JuanKaram y @mexinsane</title><link>https://vivecodigo.org/blog/2013/09/25/episodio-3-de-la-temporada-1-desarrollo-de-juegos-en-joybox-con-@juankaram-y-@mexinsane/</link><pubDate>Wed, 25 Sep 2013 10:07:37 -0500</pubDate><guid>https://vivecodigo.org/blog/2013/09/25/episodio-3-de-la-temporada-1-desarrollo-de-juegos-en-joybox-con-@juankaram-y-@mexinsane/</guid><description>&lt;img src="https://vivecodigo.org/images/covers/2015-08-15-episodio-3-de-la-temporada-1-desarrollo-de-juegos-en-joybox-con-at-juankaram-y-at-mexinsane.svg" alt="Featured image of post Episodio 3 de la temporada 1 – Desarrollo de juegos en JoyBox con @JuanKaram y @mexinsane" />&lt;p>Bienvenidos sean a esta nueva emisión del podcast el episodio numero 3 de la temporada numero 1.&lt;/p>
+&lt;p>El desarrollo de videojuegos en México y en varias partes del mundo gracias a @juankaram y @mexinsane, ya que están desarrollando un engine para RubyMotion llamado JoyBox. En esta sesión nuestros invitados nos platican la experiencia de estar desarrollando un proyecto Open Source que permite desarrollar videojuegos de una forma más sencilla, rápida y sobre todo divertida. ¿Qué es lo que los motivo a crear este proyecto? ¿Es posible para muchos de nosotros crear juegos para iOS con Ruby? ¿Se puede tener una carrera como desarrollador de videojuegos?, sin duda, muchas preguntas serán resueltas en este podcast.&lt;/p>
+&lt;p>¡Espero lo disfruten! y apreciamos mucho cualquier comentario que nos puedan dejar, pronto mas capítulos de la temporada 01.&lt;/p>
+&lt;p>&lt;iframe src="//player.vimeo.com/video/75350418" height="282" width="500" allowfullscreen="" frameborder="0">&lt;/iframe>&lt;/p>
+&lt;!-- more -->
+&lt;p>&lt;a href="http://vimeo.com/75350418">ViveCodigo 01x03 - Desarrollo de juegos en JoyBox con @JuanKaram y @mexinsane&lt;/a> from &lt;a href="http://vimeo.com/makingdevs">MakingDevs&lt;/a> on &lt;a href="https://vimeo.com">Vimeo&lt;/a>.&lt;/p>
+&lt;p>Detras de  Camaras de ViveCodigo.org&lt;/p>
+&lt;p>&lt;iframe src="//player.vimeo.com/video/75350419" height="281" width="500" allowfullscreen="" frameborder="0">&lt;/iframe>&lt;/p>
+&lt;p>&lt;a href="http://vimeo.com/75350419">ViveCodigo 01x03 - Detras de Camaras - Desarrollo de juegos en JoyBox con @JuanKaram y @mexinsane&lt;/a> from &lt;a href="http://vimeo.com/makingdevs">MakingDevs&lt;/a> on &lt;a href="https://vimeo.com">Vimeo&lt;/a>.&lt;/p>
+&lt;p>Se pueden suscribir al &lt;a href="http://vivecodigo.org/feed.xml">feed&lt;/a> de ViveCodigo.org o encuentranos en iTunes como: &lt;a href="https://itunes.apple.com/ca/podcast/vivecodigo.org-videocast/id685052596">ViveCodigo.org - VideoCast&lt;/a>&lt;/p></description></item></channel></rss>

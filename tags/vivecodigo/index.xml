@@ -1,26 +1,6 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Vivecodigo on ViveCodigo.org</title>
-        <link>https://vivecodigo.org/tags/vivecodigo/</link>
-        <description>Recent content in Vivecodigo on ViveCodigo.org</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>es-mx</language>
-        <copyright>MakingDevs</copyright>
-        <lastBuildDate>Wed, 13 Apr 2011 05:21:38 -0500</lastBuildDate><atom:link href="https://vivecodigo.org/tags/vivecodigo/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Bienvenido</title>
-        <link>https://vivecodigo.org/blog/2011/04/13/bienvenido/</link>
-        <pubDate>Wed, 13 Apr 2011 05:21:38 -0500</pubDate>
-        
-        <guid>https://vivecodigo.org/blog/2011/04/13/bienvenido/</guid>
-        <description>&lt;img src="https://vivecodigo.org/images/covers/2015-08-15-bienvenido.svg" alt="Featured image of post Bienvenido" /&gt;&lt;p&gt;Te damos la más cordial bienvenida a este nuevo proyecto&amp;hellip;&lt;/p&gt;
-&lt;p&gt;La intención de este podcast es seguir contribuyendo como lo hemos venido haciendo con proyectos anteriores, pero dándole un toque extra que poco a poco fuimos aterrizando.&lt;/p&gt;
-&lt;p&gt;Pero, ¿qué podrás encontrar en este proyecto?&lt;/p&gt;
-&lt;p&gt;Simple, todo lo relacionado al desarrollo de software, desde lenguajes hasta técnicas, pasando por frameworks y prácticas, y en nuestro caso muy particular orientado a la plataforma Java, sin embargo, no dejamos de lado otro conjunto de herramientas que un desarrollador podría ocupar, que son indispensables y complementarios en los proyectos en los que trabajamos diariamente, y que tal vez tu también ocupas o podrías ocupar&amp;hellip;&lt;/p&gt;
-&lt;p&gt;Esperamos que de a poco y con nuestro esfuerzo nos vayamos ganando tu confianza, y nos hagas llegar tus comentarios&amp;hellip;&lt;/p&gt;
-&lt;p&gt;Gracias y bienvenido!&lt;/p&gt;
-</description>
-        </item>
-        
-    </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Vivecodigo on ViveCodigo.org</title><link>https://vivecodigo.org/tags/vivecodigo/</link><description>Recent content in Vivecodigo on ViveCodigo.org</description><generator>Hugo -- gohugo.io</generator><language>es-mx</language><copyright>MakingDevs</copyright><lastBuildDate>Wed, 13 Apr 2011 05:21:38 -0500</lastBuildDate><atom:link href="https://vivecodigo.org/tags/vivecodigo/index.xml" rel="self" type="application/rss+xml"/><item><title>Bienvenido</title><link>https://vivecodigo.org/blog/2011/04/13/bienvenido/</link><pubDate>Wed, 13 Apr 2011 05:21:38 -0500</pubDate><guid>https://vivecodigo.org/blog/2011/04/13/bienvenido/</guid><description>&lt;img src="https://vivecodigo.org/images/covers/2015-08-15-bienvenido.svg" alt="Featured image of post Bienvenido" />&lt;p>Te damos la más cordial bienvenida a este nuevo proyecto&amp;hellip;&lt;/p>
+&lt;p>La intención de este podcast es seguir contribuyendo como lo hemos venido haciendo con proyectos anteriores, pero dándole un toque extra que poco a poco fuimos aterrizando.&lt;/p>
+&lt;p>Pero, ¿qué podrás encontrar en este proyecto?&lt;/p>
+&lt;p>Simple, todo lo relacionado al desarrollo de software, desde lenguajes hasta técnicas, pasando por frameworks y prácticas, y en nuestro caso muy particular orientado a la plataforma Java, sin embargo, no dejamos de lado otro conjunto de herramientas que un desarrollador podría ocupar, que son indispensables y complementarios en los proyectos en los que trabajamos diariamente, y que tal vez tu también ocupas o podrías ocupar&amp;hellip;&lt;/p>
+&lt;p>Esperamos que de a poco y con nuestro esfuerzo nos vayamos ganando tu confianza, y nos hagas llegar tus comentarios&amp;hellip;&lt;/p>
+&lt;p>Gracias y bienvenido!&lt;/p></description></item></channel></rss>

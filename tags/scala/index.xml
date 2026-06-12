@@ -1,68 +1,48 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Scala on ViveCodigo.org</title>
-        <link>https://vivecodigo.org/tags/scala/</link>
-        <description>Recent content in Scala on ViveCodigo.org</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>es-mx</language>
-        <copyright>MakingDevs</copyright>
-        <lastBuildDate>Wed, 18 May 2011 00:25:03 -0500</lastBuildDate><atom:link href="https://vivecodigo.org/tags/scala/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Podcast 2 de la temporada 0</title>
-        <link>https://vivecodigo.org/blog/2011/05/18/podcast-2-de-la-temporada-0/</link>
-        <pubDate>Wed, 18 May 2011 00:25:03 -0500</pubDate>
-        
-        <guid>https://vivecodigo.org/blog/2011/05/18/podcast-2-de-la-temporada-0/</guid>
-        <description>&lt;img src="https://vivecodigo.org/images/covers/2015-08-15-podcast-2-de-la-temporada-0.svg" alt="Featured image of post Podcast 2 de la temporada 0" /&gt;&lt;p&gt;Hola a todos en la comunidad!!!&lt;/p&gt;
-&lt;p&gt;Me es grato anunciarles que ya tenemos publicado esta nueva edición del podcast, en donde, tenemos como invitado de honor a Julio Carlos Sánchez(&lt;a href=&#34;http://twitter.com/thegeekinside&#34;&gt;@thegeekinside&lt;/a&gt;), que nos estará hablando del lenguaje de programación Scala. Además, comentaremos algunas notas que recientemente causaron revuelo en el mundo Scala.&lt;/p&gt;
-&lt;p&gt;En esta ocasión, por la duración del podcast hemos puesto el episodio en dos partes&amp;hellip;&lt;/p&gt;
-&lt;iframe src=&#34;https://player.vimeo.com/video/23895985?color=06a113&#34; height=&#34;281&#34; width=&#34;500&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
-&lt;!-- more --&gt;
-&lt;iframe src=&#34;https://player.vimeo.com/video/23964525?color=06a113&#34; height=&#34;281&#34; width=&#34;500&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
-&lt;p&gt;Les dejamos las ligas que se comentaron en la charla y en el videocast:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Typesafe Accelerates Scala Development for All
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&#34;http://java.dzone.com/articles/typesafe-accelerates-scala&#34;&gt;http://java.dzone.com/articles/typesafe-accelerates-scala&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-  &lt;li&gt;El sitio de TypeSafe
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&#34;http://typesafe.com/&#34;&gt;http://typesafe.com/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-  &lt;li&gt;Scala Mug
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&#34;http://scala-mug.org/&#34;&gt;http://scala-mug.org/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-  &lt;li&gt;El blog de nuestro invitado
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&#34;http://www.thegeekinside.net/&#34;&gt;http://www.thegeekinside.net/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-  &lt;li&gt;El twitter de Julio
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&#34;http://twitter.com/thegeekinside&#34;&gt;http://twitter.com/thegeekinside&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-  &lt;li&gt;Por supuesto, el código:
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&#34;http://hg.thegeekinside.net/scala-in-practice/&#34;&gt;http://hg.thegeekinside.net/scala-in-practice/&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&#34;http://hg.thegeekinside.net/scala-intro/overview&#34;&gt;http://hg.thegeekinside.net/scala-intro/overview&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Scala on ViveCodigo.org</title><link>https://vivecodigo.org/tags/scala/</link><description>Recent content in Scala on ViveCodigo.org</description><generator>Hugo -- gohugo.io</generator><language>es-mx</language><copyright>MakingDevs</copyright><lastBuildDate>Wed, 18 May 2011 00:25:03 -0500</lastBuildDate><atom:link href="https://vivecodigo.org/tags/scala/index.xml" rel="self" type="application/rss+xml"/><item><title>Podcast 2 de la temporada 0</title><link>https://vivecodigo.org/blog/2011/05/18/podcast-2-de-la-temporada-0/</link><pubDate>Wed, 18 May 2011 00:25:03 -0500</pubDate><guid>https://vivecodigo.org/blog/2011/05/18/podcast-2-de-la-temporada-0/</guid><description>&lt;img src="https://vivecodigo.org/images/covers/2015-08-15-podcast-2-de-la-temporada-0.svg" alt="Featured image of post Podcast 2 de la temporada 0" />&lt;p>Hola a todos en la comunidad!!!&lt;/p>
+&lt;p>Me es grato anunciarles que ya tenemos publicado esta nueva edición del podcast, en donde, tenemos como invitado de honor a Julio Carlos Sánchez(&lt;a href="http://twitter.com/thegeekinside">@thegeekinside&lt;/a>), que nos estará hablando del lenguaje de programación Scala. Además, comentaremos algunas notas que recientemente causaron revuelo en el mundo Scala.&lt;/p>
+&lt;p>En esta ocasión, por la duración del podcast hemos puesto el episodio en dos partes&amp;hellip;&lt;/p>
+&lt;iframe src="https://player.vimeo.com/video/23895985?color=06a113" height="281" width="500" frameborder="0">&lt;/iframe>
+&lt;!-- more -->
+&lt;iframe src="https://player.vimeo.com/video/23964525?color=06a113" height="281" width="500" frameborder="0">&lt;/iframe>
+&lt;p>Les dejamos las ligas que se comentaron en la charla y en el videocast:&lt;/p>
+&lt;ul>
+&lt;li>Typesafe Accelerates Scala Development for All
+&lt;ul>
+&lt;li>&lt;a href="http://java.dzone.com/articles/typesafe-accelerates-scala">http://java.dzone.com/articles/typesafe-accelerates-scala&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>El sitio de TypeSafe
+&lt;ul>
+&lt;li>&lt;a href="http://typesafe.com/">http://typesafe.com/&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Scala Mug
+&lt;ul>
+&lt;li>&lt;a href="http://scala-mug.org/">http://scala-mug.org/&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>El blog de nuestro invitado
+&lt;ul>
+&lt;li>&lt;a href="http://www.thegeekinside.net/">http://www.thegeekinside.net/&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>El twitter de Julio
+&lt;ul>
+&lt;li>&lt;a href="http://twitter.com/thegeekinside">http://twitter.com/thegeekinside&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Por supuesto, el código:
+&lt;ul>
+&lt;li>&lt;a href="http://hg.thegeekinside.net/scala-in-practice/">http://hg.thegeekinside.net/scala-in-practice/&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://hg.thegeekinside.net/scala-intro/overview">http://hg.thegeekinside.net/scala-intro/overview&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
 Adicionalmente, el podcast lo puedes descargar:
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&#34;http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x02_a.mov&#34;&gt;Primera Parte&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&#34;http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x02_b.mov&#34;&gt;Segunda Parte&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-O bien suscribirte al &lt;a href=&#34;http://vivecodigo.org/feed.xml&#34;&gt;feed&lt;/a&gt;...
-&lt;p&gt;Muchas gracias a todos por vernos!!!!&lt;/p&gt;
-&lt;p&gt;Saludos&amp;hellip;&lt;/p&gt;
-</description>
-        </item>
-        
-    </channel>
-</rss>
+&lt;ul>
+&lt;li>&lt;a href="http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x02_a.mov">Primera Parte&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x02_b.mov">Segunda Parte&lt;/a>&lt;/li>
+&lt;/ul>
+O bien suscribirte al &lt;a href="http://vivecodigo.org/feed.xml">feed&lt;/a>...
+&lt;p>Muchas gracias a todos por vernos!!!!&lt;/p>
+&lt;p>Saludos&amp;hellip;&lt;/p></description></item></channel></rss>

@@ -1,37 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Open-Source on ViveCodigo.org</title>
-        <link>https://vivecodigo.org/tags/open-source/</link>
-        <description>Recent content in Open-Source on ViveCodigo.org</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>es-mx</language>
-        <copyright>MakingDevs</copyright>
-        <lastBuildDate>Mon, 01 Aug 2011 13:05:12 -0500</lastBuildDate><atom:link href="https://vivecodigo.org/tags/open-source/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Podcast 7 de la temporada 0</title>
-        <link>https://vivecodigo.org/blog/2011/08/01/podcast-7-de-la-temporada-0/</link>
-        <pubDate>Mon, 01 Aug 2011 13:05:12 -0500</pubDate>
-        
-        <guid>https://vivecodigo.org/blog/2011/08/01/podcast-7-de-la-temporada-0/</guid>
-        <description>&lt;img src="https://vivecodigo.org/images/covers/2015-08-15-podcast-7-de-la-temporada-0.svg" alt="Featured image of post Podcast 7 de la temporada 0" /&gt;&lt;p&gt;Bienvenidos nuevamente!&lt;/p&gt;
-&lt;p&gt;Hemos grabado con mucho gusto el podcast con Enrique Zamudio(@&lt;a href=&#34;http://twiiter.com/chochosmx&#34;&gt;chochosmx&lt;/a&gt;) en donde nos habla de uno de los proyectos creados y administrados por él: jAlarms( &lt;a href=&#34;http://jalarms.sourceforge.net/&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;http://jalarms.sourceforge.net/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;http://jalarms.sourceforge.net/&lt;/a&gt;&lt;/a&gt; ), además, Enrique nos transmite su experiencia desarrollando software libre y open source; también comparte con nosotros la aventura de poner su proyecto en los repositorios de Maven. Sin lugar a duda y como todos los podcast, una charla muy amena&amp;hellip;&lt;/p&gt;
-&lt;iframe src=&#34;https://player.vimeo.com/video/27031278?color=ff9933&#34; height=&#34;281&#34; width=&#34;500&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
-&lt;!-- more --&gt;
-Además en el screencast nos muestra como usar jAlarms con múltiples canales, bastante interesante debido a que no sólo nos muestra las aplicaciones prácticas en las cuales se pueden usar alarmas, también nos muestra un poco del manejo de Gradle( &lt;a href=&#34;http://gradle.org/&#34;&gt;http://gradle.org/&lt;/a&gt; )
-&lt;iframe src=&#34;https://player.vimeo.com/video/27160401?color=ff9933&#34; height=&#34;281&#34; width=&#34;500&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
-&lt;p&gt;Si sólo desean escuchar el audio pueden usar este widget:&lt;/p&gt;
-&lt;p&gt;&lt;object width=&#34;400&#34; height=&#34;27&#34; classid=&#34;clsid:d27cdb6e-ae6d-11cf-96b8-444553540000&#34; codebase=&#34;http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0&#34;&gt;&lt;param name=&#34;src&#34; value=&#34;http://www.google.com/reader/ui/3523697345-audio-player.swf&#34; /&gt;&lt;param name=&#34;flashvars&#34; value=&#34;audioUrl=http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x07_a.mp3&#34; /&gt;&lt;param name=&#34;quality&#34; value=&#34;best&#34; /&gt;&lt;embed width=&#34;400&#34; height=&#34;27&#34; type=&#34;application/x-shockwave-flash&#34; src=&#34;http://www.google.com/reader/ui/3523697345-audio-player.swf&#34; flashvars=&#34;audioUrl=http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x07_a.mp3&#34; quality=&#34;best&#34; /&gt;&lt;/object&gt;&lt;/p&gt;
-&lt;p&gt;Y como siempre, aquí están los archivos para su descarga:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&#34;http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x07_a.mov&#34;&gt;Entrevista con Enrique Zamudio&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&#34;http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x07_b.mov&#34;&gt;Screencast de jAlarms&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&#34;http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x07_a.mp3&#34;&gt;Llevatelo en tu reproductor de MP3&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Open-Source on ViveCodigo.org</title><link>https://vivecodigo.org/tags/open-source/</link><description>Recent content in Open-Source on ViveCodigo.org</description><generator>Hugo -- gohugo.io</generator><language>es-mx</language><copyright>MakingDevs</copyright><lastBuildDate>Mon, 01 Aug 2011 13:05:12 -0500</lastBuildDate><atom:link href="https://vivecodigo.org/tags/open-source/index.xml" rel="self" type="application/rss+xml"/><item><title>Podcast 7 de la temporada 0</title><link>https://vivecodigo.org/blog/2011/08/01/podcast-7-de-la-temporada-0/</link><pubDate>Mon, 01 Aug 2011 13:05:12 -0500</pubDate><guid>https://vivecodigo.org/blog/2011/08/01/podcast-7-de-la-temporada-0/</guid><description>&lt;img src="https://vivecodigo.org/images/covers/2015-08-15-podcast-7-de-la-temporada-0.svg" alt="Featured image of post Podcast 7 de la temporada 0" />&lt;p>Bienvenidos nuevamente!&lt;/p>
+&lt;p>Hemos grabado con mucho gusto el podcast con Enrique Zamudio(@&lt;a href="http://twiiter.com/chochosmx">chochosmx&lt;/a>) en donde nos habla de uno de los proyectos creados y administrados por él: jAlarms( &lt;a href="http://jalarms.sourceforge.net/">&lt;a class="link" href="http://jalarms.sourceforge.net/" target="_blank" rel="noopener"
+>http://jalarms.sourceforge.net/&lt;/a>&lt;/a> ), además, Enrique nos transmite su experiencia desarrollando software libre y open source; también comparte con nosotros la aventura de poner su proyecto en los repositorios de Maven. Sin lugar a duda y como todos los podcast, una charla muy amena&amp;hellip;&lt;/p>
+&lt;iframe src="https://player.vimeo.com/video/27031278?color=ff9933" height="281" width="500" frameborder="0">&lt;/iframe>
+&lt;!-- more -->
+Además en el screencast nos muestra como usar jAlarms con múltiples canales, bastante interesante debido a que no sólo nos muestra las aplicaciones prácticas en las cuales se pueden usar alarmas, también nos muestra un poco del manejo de Gradle( &lt;a href="http://gradle.org/">http://gradle.org/&lt;/a> )
+&lt;iframe src="https://player.vimeo.com/video/27160401?color=ff9933" height="281" width="500" frameborder="0">&lt;/iframe>
+&lt;p>Si sólo desean escuchar el audio pueden usar este widget:&lt;/p>
+&lt;p>&lt;object width="400" height="27" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0">&lt;param name="src" value="http://www.google.com/reader/ui/3523697345-audio-player.swf" />&lt;param name="flashvars" value="audioUrl=http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x07_a.mp3" />&lt;param name="quality" value="best" />&lt;embed width="400" height="27" type="application/x-shockwave-flash" src="http://www.google.com/reader/ui/3523697345-audio-player.swf" flashvars="audioUrl=http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x07_a.mp3" quality="best" />&lt;/object>&lt;/p>
+&lt;p>Y como siempre, aquí están los archivos para su descarga:&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x07_a.mov">Entrevista con Enrique Zamudio&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x07_b.mov">Screencast de jAlarms&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x07_a.mp3">Llevatelo en tu reproductor de MP3&lt;/a>&lt;/li>
+&lt;/ul>
 Disfrutenlo tanto como nosotros...
-&lt;p&gt;Saludos&lt;/p&gt;
-</description>
-        </item>
-        
-    </channel>
-</rss>
+&lt;p>Saludos&lt;/p></description></item></channel></rss>

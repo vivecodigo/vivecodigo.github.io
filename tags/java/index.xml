@@ -1,143 +1,96 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Java on ViveCodigo.org</title>
-        <link>https://vivecodigo.org/tags/java/</link>
-        <description>Recent content in Java on ViveCodigo.org</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>es-mx</language>
-        <copyright>MakingDevs</copyright>
-        <lastBuildDate>Thu, 08 Mar 2012 16:03:38 -0500</lastBuildDate><atom:link href="https://vivecodigo.org/tags/java/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Resumen del SpringIO 2012</title>
-        <link>https://vivecodigo.org/blog/2012/03/08/resumen-del-springio-2012/</link>
-        <pubDate>Thu, 08 Mar 2012 16:03:38 -0500</pubDate>
-        
-        <guid>https://vivecodigo.org/blog/2012/03/08/resumen-del-springio-2012/</guid>
-        <description>&lt;img src="https://vivecodigo.org/images/covers/2015-08-15-resumen-del-springio-2012.svg" alt="Featured image of post Resumen del SpringIO 2012" /&gt;&lt;p&gt;Tuvimos la oportunidad de estar en el #SpringIO 2012 junto con otros desarrolladores muy destacados en el ecosistema Spring, Groovy y Grails.&lt;/p&gt;
-&lt;p&gt;Aquí el video y toda la información desde el blog de &lt;a href=&#34;http://blog.synergyj.com&#34;&gt;SynergyJ.com&lt;/a&gt;&lt;/p&gt;
-&lt;iframe src=&#34;https://player.vimeo.com/video/38128211?title=0&amp;amp;byline=0&amp;amp;portrait=0&#34; height=&#34;225&#34; width=&#34;400&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
-&lt;p&gt;Que lo disfruten como nosotros&amp;hellip;&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>Podcast 9 de la temporada 0</title>
-        <link>https://vivecodigo.org/blog/2011/11/29/podcast-9-de-la-temporada-0/</link>
-        <pubDate>Tue, 29 Nov 2011 12:52:45 -0500</pubDate>
-        
-        <guid>https://vivecodigo.org/blog/2011/11/29/podcast-9-de-la-temporada-0/</guid>
-        <description>&lt;img src="https://vivecodigo.org/images/covers/2015-08-15-podcast-9-de-la-temporada-0.svg" alt="Featured image of post Podcast 9 de la temporada 0" /&gt;&lt;p&gt;Sólo el audio:&lt;/p&gt;
-&lt;p&gt;&lt;object width=&#34;400&#34; height=&#34;27&#34; classid=&#34;clsid:d27cdb6e-ae6d-11cf-96b8-444553540000&#34; codebase=&#34;http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0&#34;&gt;&lt;param name=&#34;src&#34; value=&#34;http://www.google.com/reader/ui/3523697345-audio-player.swf&#34; /&gt;&lt;param name=&#34;flashvars&#34; value=&#34;audioUrl=http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x09.mp3&#34; /&gt;&lt;param name=&#34;quality&#34; value=&#34;best&#34; /&gt;&lt;embed width=&#34;400&#34; height=&#34;27&#34; type=&#34;application/x-shockwave-flash&#34; src=&#34;http://www.google.com/reader/ui/3523697345-audio-player.swf&#34; flashvars=&#34;audioUrl=http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x09.mp3&#34; quality=&#34;best&#34; /&gt;&lt;/object&gt;&lt;/p&gt;
-&lt;p&gt;Después de un largo tiempo y en vísperas de la reunión de la comunidad de SpringHispanor y GrailsMX, tenemos el gusto de presentarles esta emisión del podcast en donde entrevistamos a Andrés Almiray, Java Champion mexicano y líder del proyecto Griffon.&lt;/p&gt;
-&lt;p&gt;En esta ocasión Andrés nos platica de su experiencia desarrollando el framework y del mundo de las aplicaciones Desktop.&lt;/p&gt;
-&lt;p&gt;En verdad fue un momento muy agradable para nosotros platicar con Andrés y esperemos que ustedes también lo disfruten.&lt;/p&gt;
-&lt;iframe src=&#34;https://player.vimeo.com/video/32827954?color=ff9933&#34; height=&#34;281&#34; width=&#34;500&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
-&lt;!-- more --&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Java on ViveCodigo.org</title><link>https://vivecodigo.org/tags/java/</link><description>Recent content in Java on ViveCodigo.org</description><generator>Hugo -- gohugo.io</generator><language>es-mx</language><copyright>MakingDevs</copyright><lastBuildDate>Thu, 08 Mar 2012 16:03:38 -0500</lastBuildDate><atom:link href="https://vivecodigo.org/tags/java/index.xml" rel="self" type="application/rss+xml"/><item><title>Resumen del SpringIO 2012</title><link>https://vivecodigo.org/blog/2012/03/08/resumen-del-springio-2012/</link><pubDate>Thu, 08 Mar 2012 16:03:38 -0500</pubDate><guid>https://vivecodigo.org/blog/2012/03/08/resumen-del-springio-2012/</guid><description>&lt;img src="https://vivecodigo.org/images/covers/2015-08-15-resumen-del-springio-2012.svg" alt="Featured image of post Resumen del SpringIO 2012" />&lt;p>Tuvimos la oportunidad de estar en el #SpringIO 2012 junto con otros desarrolladores muy destacados en el ecosistema Spring, Groovy y Grails.&lt;/p>
+&lt;p>Aquí el video y toda la información desde el blog de &lt;a href="http://blog.synergyj.com">SynergyJ.com&lt;/a>&lt;/p>
+&lt;iframe src="https://player.vimeo.com/video/38128211?title=0&amp;amp;byline=0&amp;amp;portrait=0" height="225" width="400" frameborder="0">&lt;/iframe>
+&lt;p>Que lo disfruten como nosotros&amp;hellip;&lt;/p></description></item><item><title>Podcast 9 de la temporada 0</title><link>https://vivecodigo.org/blog/2011/11/29/podcast-9-de-la-temporada-0/</link><pubDate>Tue, 29 Nov 2011 12:52:45 -0500</pubDate><guid>https://vivecodigo.org/blog/2011/11/29/podcast-9-de-la-temporada-0/</guid><description>&lt;img src="https://vivecodigo.org/images/covers/2015-08-15-podcast-9-de-la-temporada-0.svg" alt="Featured image of post Podcast 9 de la temporada 0" />&lt;p>Sólo el audio:&lt;/p>
+&lt;p>&lt;object width="400" height="27" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0">&lt;param name="src" value="http://www.google.com/reader/ui/3523697345-audio-player.swf" />&lt;param name="flashvars" value="audioUrl=http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x09.mp3" />&lt;param name="quality" value="best" />&lt;embed width="400" height="27" type="application/x-shockwave-flash" src="http://www.google.com/reader/ui/3523697345-audio-player.swf" flashvars="audioUrl=http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x09.mp3" quality="best" />&lt;/object>&lt;/p>
+&lt;p>Después de un largo tiempo y en vísperas de la reunión de la comunidad de SpringHispanor y GrailsMX, tenemos el gusto de presentarles esta emisión del podcast en donde entrevistamos a Andrés Almiray, Java Champion mexicano y líder del proyecto Griffon.&lt;/p>
+&lt;p>En esta ocasión Andrés nos platica de su experiencia desarrollando el framework y del mundo de las aplicaciones Desktop.&lt;/p>
+&lt;p>En verdad fue un momento muy agradable para nosotros platicar con Andrés y esperemos que ustedes también lo disfruten.&lt;/p>
+&lt;iframe src="https://player.vimeo.com/video/32827954?color=ff9933" height="281" width="500" frameborder="0">&lt;/iframe>
+&lt;!-- more -->
 Les dejamos algunas ligas que nos compartió Andrés:
-&lt;ul&gt;
-  &lt;li&gt;http://griffon.codehaus.org/&lt;/li&gt;
-  &lt;li&gt;https://github.com/aalmiray&lt;/li&gt;
-  &lt;li&gt;https://github.com/griffon&lt;/li&gt;
-&lt;/ul&gt;
+&lt;ul>
+&lt;li>http://griffon.codehaus.org/&lt;/li>
+&lt;li>https://github.com/aalmiray&lt;/li>
+&lt;li>https://github.com/griffon&lt;/li>
+&lt;/ul>
 Y como siempre, aquí están los archivos para su descarga:
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&#34;http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x09.mov&#34;&gt;Entrevista con Andres Almiray&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&#34;http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x09.mp3&#34;&gt;Llevatelo en tu reproductor de MP3&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-Saludos a todos
-</description>
-        </item>
-        <item>
-        <title>Podcast 7 de la temporada 0</title>
-        <link>https://vivecodigo.org/blog/2011/08/01/podcast-7-de-la-temporada-0/</link>
-        <pubDate>Mon, 01 Aug 2011 13:05:12 -0500</pubDate>
-        
-        <guid>https://vivecodigo.org/blog/2011/08/01/podcast-7-de-la-temporada-0/</guid>
-        <description>&lt;img src="https://vivecodigo.org/images/covers/2015-08-15-podcast-7-de-la-temporada-0.svg" alt="Featured image of post Podcast 7 de la temporada 0" /&gt;&lt;p&gt;Bienvenidos nuevamente!&lt;/p&gt;
-&lt;p&gt;Hemos grabado con mucho gusto el podcast con Enrique Zamudio(@&lt;a href=&#34;http://twiiter.com/chochosmx&#34;&gt;chochosmx&lt;/a&gt;) en donde nos habla de uno de los proyectos creados y administrados por él: jAlarms( &lt;a href=&#34;http://jalarms.sourceforge.net/&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;http://jalarms.sourceforge.net/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;http://jalarms.sourceforge.net/&lt;/a&gt;&lt;/a&gt; ), además, Enrique nos transmite su experiencia desarrollando software libre y open source; también comparte con nosotros la aventura de poner su proyecto en los repositorios de Maven. Sin lugar a duda y como todos los podcast, una charla muy amena&amp;hellip;&lt;/p&gt;
-&lt;iframe src=&#34;https://player.vimeo.com/video/27031278?color=ff9933&#34; height=&#34;281&#34; width=&#34;500&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
-&lt;!-- more --&gt;
-Además en el screencast nos muestra como usar jAlarms con múltiples canales, bastante interesante debido a que no sólo nos muestra las aplicaciones prácticas en las cuales se pueden usar alarmas, también nos muestra un poco del manejo de Gradle( &lt;a href=&#34;http://gradle.org/&#34;&gt;http://gradle.org/&lt;/a&gt; )
-&lt;iframe src=&#34;https://player.vimeo.com/video/27160401?color=ff9933&#34; height=&#34;281&#34; width=&#34;500&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
-&lt;p&gt;Si sólo desean escuchar el audio pueden usar este widget:&lt;/p&gt;
-&lt;p&gt;&lt;object width=&#34;400&#34; height=&#34;27&#34; classid=&#34;clsid:d27cdb6e-ae6d-11cf-96b8-444553540000&#34; codebase=&#34;http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0&#34;&gt;&lt;param name=&#34;src&#34; value=&#34;http://www.google.com/reader/ui/3523697345-audio-player.swf&#34; /&gt;&lt;param name=&#34;flashvars&#34; value=&#34;audioUrl=http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x07_a.mp3&#34; /&gt;&lt;param name=&#34;quality&#34; value=&#34;best&#34; /&gt;&lt;embed width=&#34;400&#34; height=&#34;27&#34; type=&#34;application/x-shockwave-flash&#34; src=&#34;http://www.google.com/reader/ui/3523697345-audio-player.swf&#34; flashvars=&#34;audioUrl=http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x07_a.mp3&#34; quality=&#34;best&#34; /&gt;&lt;/object&gt;&lt;/p&gt;
-&lt;p&gt;Y como siempre, aquí están los archivos para su descarga:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&#34;http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x07_a.mov&#34;&gt;Entrevista con Enrique Zamudio&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&#34;http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x07_b.mov&#34;&gt;Screencast de jAlarms&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&#34;http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x07_a.mp3&#34;&gt;Llevatelo en tu reproductor de MP3&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;ul>
+&lt;li>&lt;a href="http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x09.mov">Entrevista con Andres Almiray&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x09.mp3">Llevatelo en tu reproductor de MP3&lt;/a>&lt;/li>
+&lt;/ul>
+Saludos a todos</description></item><item><title>Podcast 7 de la temporada 0</title><link>https://vivecodigo.org/blog/2011/08/01/podcast-7-de-la-temporada-0/</link><pubDate>Mon, 01 Aug 2011 13:05:12 -0500</pubDate><guid>https://vivecodigo.org/blog/2011/08/01/podcast-7-de-la-temporada-0/</guid><description>&lt;img src="https://vivecodigo.org/images/covers/2015-08-15-podcast-7-de-la-temporada-0.svg" alt="Featured image of post Podcast 7 de la temporada 0" />&lt;p>Bienvenidos nuevamente!&lt;/p>
+&lt;p>Hemos grabado con mucho gusto el podcast con Enrique Zamudio(@&lt;a href="http://twiiter.com/chochosmx">chochosmx&lt;/a>) en donde nos habla de uno de los proyectos creados y administrados por él: jAlarms( &lt;a href="http://jalarms.sourceforge.net/">&lt;a class="link" href="http://jalarms.sourceforge.net/" target="_blank" rel="noopener"
+>http://jalarms.sourceforge.net/&lt;/a>&lt;/a> ), además, Enrique nos transmite su experiencia desarrollando software libre y open source; también comparte con nosotros la aventura de poner su proyecto en los repositorios de Maven. Sin lugar a duda y como todos los podcast, una charla muy amena&amp;hellip;&lt;/p>
+&lt;iframe src="https://player.vimeo.com/video/27031278?color=ff9933" height="281" width="500" frameborder="0">&lt;/iframe>
+&lt;!-- more -->
+Además en el screencast nos muestra como usar jAlarms con múltiples canales, bastante interesante debido a que no sólo nos muestra las aplicaciones prácticas en las cuales se pueden usar alarmas, también nos muestra un poco del manejo de Gradle( &lt;a href="http://gradle.org/">http://gradle.org/&lt;/a> )
+&lt;iframe src="https://player.vimeo.com/video/27160401?color=ff9933" height="281" width="500" frameborder="0">&lt;/iframe>
+&lt;p>Si sólo desean escuchar el audio pueden usar este widget:&lt;/p>
+&lt;p>&lt;object width="400" height="27" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0">&lt;param name="src" value="http://www.google.com/reader/ui/3523697345-audio-player.swf" />&lt;param name="flashvars" value="audioUrl=http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x07_a.mp3" />&lt;param name="quality" value="best" />&lt;embed width="400" height="27" type="application/x-shockwave-flash" src="http://www.google.com/reader/ui/3523697345-audio-player.swf" flashvars="audioUrl=http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x07_a.mp3" quality="best" />&lt;/object>&lt;/p>
+&lt;p>Y como siempre, aquí están los archivos para su descarga:&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x07_a.mov">Entrevista con Enrique Zamudio&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x07_b.mov">Screencast de jAlarms&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x07_a.mp3">Llevatelo en tu reproductor de MP3&lt;/a>&lt;/li>
+&lt;/ul>
 Disfrutenlo tanto como nosotros...
-&lt;p&gt;Saludos&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>Podcast 1 de la temporada 0</title>
-        <link>https://vivecodigo.org/blog/2011/05/05/podcast-1-de-la-temporada-0/</link>
-        <pubDate>Thu, 05 May 2011 01:50:55 -0500</pubDate>
-        
-        <guid>https://vivecodigo.org/blog/2011/05/05/podcast-1-de-la-temporada-0/</guid>
-        <description>&lt;img src="https://vivecodigo.org/images/covers/2015-08-15-podcast-1-de-la-temporada-0.svg" alt="Featured image of post Podcast 1 de la temporada 0" /&gt;&lt;p&gt;Primero, gracias a todos ustedes por sus comentarios tanto en este portal, como en el twitter y algunos otros sitios de comunidades distintas&amp;hellip;&lt;/p&gt;
-&lt;p&gt;El archivo del podcast lo pueden descargar dede &lt;strong&gt;&lt;a href=&#34;http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x01.mov&#34;&gt;aquí&lt;/a&gt;&lt;/strong&gt; o bien se pueden suscribir al &lt;strong&gt;&lt;a href=&#34;http://vivecodigo.org/feed.xml&#34;&gt;feed&lt;/a&gt;&lt;/strong&gt;&amp;hellip;&lt;/p&gt;
-&lt;p&gt;Las notas que comentamos en esta ocasión son:&lt;/p&gt;
-&lt;div&gt;
-&lt;ul&gt;
-  &lt;li&gt;Agile is about Collaboration and Cultivation Culture
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&#34;http://www.agilitrix.com/2011/03/agile-culture-is-all-about-people/&#34;&gt;http://www.agilitrix.com/2011/03/agile-culture-is-all-about-people/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-  &lt;li&gt;El Geek Errante: transmisión #43
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&#34;http://elgeekerrante.com/ege-podcast-ep-43/&#34;&gt;http://elgeekerrante.com/ege-podcast-ep-43/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-  &lt;li&gt;Using Gradle in Practice
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&#34;http://blog.andresteingress.com/2011/01/14/using-gradle-in-practice/&#34;&gt;http://blog.andresteingress.com/2011/01/14/using-gradle-in-practice/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-  &lt;li&gt;Groovy 1.8.0
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&#34;http://docs.codehaus.org/display/GROOVY/Groovy+1.8+release+notes#Groovy1.8releasenotes-Closureenhancements&#34;&gt;http://docs.codehaus.org/display/GROOVY/Groovy+1.8+release+notes#Groovy1.8releasenotes-Closureenhancements&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&#34;http://groovy.dzone.com/announcements/groovy-180-released&#34;&gt;http://groovy.dzone.com/announcements/groovy-180-released&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-  &lt;li&gt;Getting Started with Redis, Spring Data &amp;amp; Cloud Foundry
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&#34;http://blog.springsource.com/2011/04/27/getting-started-redis-spring-cloud-foundry/&#34;&gt;http://blog.springsource.com/2011/04/27/getting-started-redis-spring-cloud-foundry/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-  &lt;li&gt;JBehave+Spring+SeleniumHQ
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&#34;http://alexsotob.blogspot.com/2011/04/are-you-locked-up-in-world-thats-been.html&#34;&gt;http://alexsotob.blogspot.com/2011/04/are-you-locked-up-in-world-thats-been.html&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;!-- more --&gt;
+&lt;p>Saludos&lt;/p></description></item><item><title>Podcast 1 de la temporada 0</title><link>https://vivecodigo.org/blog/2011/05/05/podcast-1-de-la-temporada-0/</link><pubDate>Thu, 05 May 2011 01:50:55 -0500</pubDate><guid>https://vivecodigo.org/blog/2011/05/05/podcast-1-de-la-temporada-0/</guid><description>&lt;img src="https://vivecodigo.org/images/covers/2015-08-15-podcast-1-de-la-temporada-0.svg" alt="Featured image of post Podcast 1 de la temporada 0" />&lt;p>Primero, gracias a todos ustedes por sus comentarios tanto en este portal, como en el twitter y algunos otros sitios de comunidades distintas&amp;hellip;&lt;/p>
+&lt;p>El archivo del podcast lo pueden descargar dede &lt;strong>&lt;a href="http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x01.mov">aquí&lt;/a>&lt;/strong> o bien se pueden suscribir al &lt;strong>&lt;a href="http://vivecodigo.org/feed.xml">feed&lt;/a>&lt;/strong>&amp;hellip;&lt;/p>
+&lt;p>Las notas que comentamos en esta ocasión son:&lt;/p>
+&lt;div>
+&lt;ul>
+&lt;li>Agile is about Collaboration and Cultivation Culture
+&lt;ul>
+&lt;li>&lt;a href="http://www.agilitrix.com/2011/03/agile-culture-is-all-about-people/">http://www.agilitrix.com/2011/03/agile-culture-is-all-about-people/&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>El Geek Errante: transmisión #43
+&lt;ul>
+&lt;li>&lt;a href="http://elgeekerrante.com/ege-podcast-ep-43/">http://elgeekerrante.com/ege-podcast-ep-43/&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Using Gradle in Practice
+&lt;ul>
+&lt;li>&lt;a href="http://blog.andresteingress.com/2011/01/14/using-gradle-in-practice/">http://blog.andresteingress.com/2011/01/14/using-gradle-in-practice/&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Groovy 1.8.0
+&lt;ul>
+&lt;li>&lt;a href="http://docs.codehaus.org/display/GROOVY/Groovy+1.8+release+notes#Groovy1.8releasenotes-Closureenhancements">http://docs.codehaus.org/display/GROOVY/Groovy+1.8+release+notes#Groovy1.8releasenotes-Closureenhancements&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://groovy.dzone.com/announcements/groovy-180-released">http://groovy.dzone.com/announcements/groovy-180-released&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Getting Started with Redis, Spring Data &amp;amp; Cloud Foundry
+&lt;ul>
+&lt;li>&lt;a href="http://blog.springsource.com/2011/04/27/getting-started-redis-spring-cloud-foundry/">http://blog.springsource.com/2011/04/27/getting-started-redis-spring-cloud-foundry/&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>JBehave+Spring+SeleniumHQ
+&lt;ul>
+&lt;li>&lt;a href="http://alexsotob.blogspot.com/2011/04/are-you-locked-up-in-world-thats-been.html">http://alexsotob.blogspot.com/2011/04/are-you-locked-up-in-world-thats-been.html&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;!-- more -->
 Acerca de los videos que mencionamos en el videocast están en:
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&#34;http://vimeo.com/grailsmx/videos&#34;&gt;http://vimeo.com/grailsmx/videos&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&#34;http://git-scm.com&#34;&gt;http://git-scm.com&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&#34;http://scottchacon.com/&#34;&gt;http://scottchacon.com/&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&#34;http://www.youtube.com/watch?v=4XpnKHJAok8&#34;&gt;http://www.youtube.com/watch?v=4XpnKHJAok8&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&#34;http://gitcasts.com/&#34;&gt;http://gitcasts.com/&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&#34;http://github.com/&#34;&gt;http://github.com/&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&#34;http://gitorious.org/&#34;&gt;http://gitorious.org/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;ul>
+&lt;li>&lt;a href="http://vimeo.com/grailsmx/videos">http://vimeo.com/grailsmx/videos&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://git-scm.com">http://git-scm.com&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://scottchacon.com/">http://scottchacon.com/&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.youtube.com/watch?v=4XpnKHJAok8">http://www.youtube.com/watch?v=4XpnKHJAok8&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://gitcasts.com/">http://gitcasts.com/&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://github.com/">http://github.com/&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://gitorious.org/">http://gitorious.org/&lt;/a>&lt;/li>
+&lt;/ul>
 El tema de este podcast es acerca del uso de Git y de sitios como GitHub.com que nos ayudan a manejar nuestros proyectos de software...
-&lt;p&gt;Con esto les dejamos las URL&amp;rsquo;s que hemos publicado:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Código de videocast -&lt;a href=&#34; https://github.com/synergyj/ViveCodigo&#34;&gt; https://github.com/synergyj/ViveCodigo&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Código de este podcast - &lt;a href=&#34;https://github.com/synergyj/ViveCodigo00x01&#34;&gt;https://github.com/synergyj/ViveCodigo00x01&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p>Con esto les dejamos las URL&amp;rsquo;s que hemos publicado:&lt;/p>
+&lt;ul>
+&lt;li>Código de videocast -&lt;a href=" https://github.com/synergyj/ViveCodigo"> https://github.com/synergyj/ViveCodigo&lt;/a>&lt;/li>
+&lt;li>Código de este podcast - &lt;a href="https://github.com/synergyj/ViveCodigo00x01">https://github.com/synergyj/ViveCodigo00x01&lt;/a>&lt;/li>
+&lt;/ul>
 Esperemos que sea de su agrado...
-&lt;p&gt;Adicionalmente pueden seguirnos en twitter con el usuario &lt;a href=&#34;http://twitter.com/vivecodigo&#34;&gt;@ViveCodigo&lt;/a&gt;, escribirnos y dejar sus comentarios en el blog&amp;hellip;&lt;/p&gt;
-&lt;p&gt;Make code&amp;hellip; not war&amp;hellip;&lt;/p&gt;
-&lt;iframe src=&#34;https://player.vimeo.com/video/23301206&#34; height=&#34;298&#34; width=&#34;530&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
-</description>
-        </item>
-        
-    </channel>
-</rss>
+&lt;p>Adicionalmente pueden seguirnos en twitter con el usuario &lt;a href="http://twitter.com/vivecodigo">@ViveCodigo&lt;/a>, escribirnos y dejar sus comentarios en el blog&amp;hellip;&lt;/p>
+&lt;p>Make code&amp;hellip; not war&amp;hellip;&lt;/p>
+&lt;iframe src="https://player.vimeo.com/video/23301206" height="298" width="530" frameborder="0">&lt;/iframe></description></item></channel></rss>

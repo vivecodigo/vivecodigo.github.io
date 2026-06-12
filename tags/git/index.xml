@@ -1,56 +1,27 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Git on ViveCodigo.org</title>
-        <link>https://vivecodigo.org/tags/git/</link>
-        <description>Recent content in Git on ViveCodigo.org</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>es-mx</language>
-        <copyright>MakingDevs</copyright>
-        <lastBuildDate>Fri, 26 Jul 2013 11:56:12 -0500</lastBuildDate><atom:link href="https://vivecodigo.org/tags/git/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>&#39;Subversion and Git&#39; con Matthew McCullough</title>
-        <link>https://vivecodigo.org/blog/2013/07/26/subversion-and-git-con-matthew-mccullough/</link>
-        <pubDate>Fri, 26 Jul 2013 11:56:12 -0500</pubDate>
-        
-        <guid>https://vivecodigo.org/blog/2013/07/26/subversion-and-git-con-matthew-mccullough/</guid>
-        <description>&lt;img src="https://vivecodigo.org/images/covers/2015-08-15-subversion-and-git-con-matthew-mccullough.svg" alt="Featured image of post &#39;Subversion and Git&#39; con Matthew McCullough" /&gt;&lt;p&gt;¡Hola a todos!&lt;/p&gt;
-&lt;p&gt;En esta ocasión es un video de una platica sobre Git y el uso del repositorio SVN, en mayo 2012 en la ciudad de México realizada por Matthew McCullough(@matthewmccull). Nos habla profundamente del funcionamiento de Git y como podemos implementar el repositorio de SVN, una interesante platica ya que nos habla de comandos muy interesantes además de algunos trucos muy útiles de Git.&lt;/p&gt;
-&lt;p&gt;Espero lo disfruten:&lt;/p&gt;
-&lt;iframe src=&#34;//www.youtube.com/embed/10bPUMtqNmw&#34; height=&#34;315&#34; width=&#34;560&#34; allowfullscreen=&#34;&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
-</description>
-        </item>
-        <item>
-        <title>Workshop de Git &#43; Github en SynergyJ, charla abierta y Drinkup con @matthewmccull</title>
-        <link>https://vivecodigo.org/blog/2012/05/01/workshop-de-git--github-en-synergyj-charla-abierta-y-drinkup-con-@matthewmccull/</link>
-        <pubDate>Tue, 01 May 2012 15:25:29 -0500</pubDate>
-        
-        <guid>https://vivecodigo.org/blog/2012/05/01/workshop-de-git--github-en-synergyj-charla-abierta-y-drinkup-con-@matthewmccull/</guid>
-        <description>&lt;img src="https://vivecodigo.org/images/covers/2015-08-15-workshop-de-git-plus-github-en-synergyj-charla-abierta-y-drinkup-con-at-matthewmccull.svg" alt="Featured image of post Workshop de Git &#43; Github en SynergyJ, charla abierta y Drinkup con @matthewmccull" /&gt;&lt;p&gt;
-  Los sistemas de control de versiones son herramienta fundamental en cualquier proyecto de software, es por esto que a toda la comunidad de desarrolladores de cualquier plataforma, les estamos invitando asistan al evento organizado por SynergyJ el d&amp;iacute;a 15 de Mayo del presente, en donde Matthew McCullough de GitHub vendr&amp;aacute; a impartir un Workshop. Este evento es de pago y es de cupo l&amp;iacute;mitado.&lt;/p&gt;
-&lt;p style=&#34;padding-top: 0px; padding-right: 0px; padding-bottom: 0.5em; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; &#34;&gt;
-  Toda la informaci&amp;oacute;n para registrarte la puedes encontrar en&amp;nbsp;&lt;a href=&#34;http://synergyj.com/git/&#34; style=&#34;color: rgb(39, 99, 165); text-decoration: none; &#34; title=&#34;http://synergyj.com/git/&#34;&gt;http://synergyj.com/git/&lt;/a&gt;&lt;/p&gt;
-&lt;p style=&#34;padding-top: 0px; padding-right: 0px; padding-bottom: 0.5em; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; &#34;&gt;
-  Definitivamente no se lo pueden perder.&lt;/p&gt;
-  &lt;!-- more --&gt;
-&lt;p style=&#34;padding-top: 0px; padding-right: 0px; padding-bottom: 0.5em; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; &#34;&gt;
-  Seguido al workshop se les hace la cordial invitaci&amp;oacute;n a toda la comunidad de desarrolladores de cualquier plataforma a la sesi&amp;oacute;n abierta que dar&amp;aacute; Matthew McCullough, qui&amp;eacute;n es instructor oficial de GitHub.com, autor de libros como Building and Testing with Gradle y Version Control with Git: Powerful tools and techniques for collaborative software development.&lt;/p&gt;
-&lt;p style=&#34;padding-top: 0px; padding-right: 0px; padding-bottom: 0.5em; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; &#34;&gt;
-  La charla se llevar&amp;aacute; a cabo en las mismas instalaciones del Workshop y esta totalmente abierta al p&amp;uacute;blico, es gratuita y es importante que se registren al evento.&lt;/p&gt;
-&lt;p style=&#34;padding-top: 0px; padding-right: 0px; padding-bottom: 0.5em; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; &#34;&gt;
-  Su registro lo pueden hacer en:&amp;nbsp;&lt;a href=&#34;http://stghq.me/e/qU&#34; style=&#34;color: rgb(39, 99, 165); text-decoration: none; &#34; title=&#34;http://stghq.me/e/qU&#34;&gt;http://stghq.me/e/qU&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;
-  &lt;iframe frameborder=&#34;0&#34; height=&#34;125&#34; marginheight=&#34;5&#34; marginwidth=&#34;5&#34; scrolling=&#34;auto&#34; src=&#34;https://synergyj.stagehq.com/events/1444/external&#34; width=&#34;500&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p style=&#34;padding-top: 0px; padding-right: 0px; padding-bottom: 0.5em; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; &#34;&gt;
-  &lt;strong&gt;La ubicaci&amp;oacute;n es en Av. San Lorenzo 1009 Piso 4, colonia Del Valle, Delegaci&amp;oacute;n Benito Ju&amp;aacute;rez, M&amp;eacute;xico D.F., C.P. 03100 y ser&amp;aacute; a las 17:30 hrs.&lt;/strong&gt;&lt;/p&gt;
-&lt;p style=&#34;padding-top: 0px; padding-right: 0px; padding-bottom: 0.5em; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; &#34;&gt;
-  Despu&amp;eacute;s de esta sesi&amp;oacute;n daremos paso al Drinkup de SynergyJ y Github, el cu&amp;aacute;l se llevar&amp;aacute; a cabo en &lt;strong&gt;Coraz&amp;oacute;n de Maguey ubicado en Jard&amp;iacute;n Centenario 9, Colonia Villa Coyoac&amp;aacute;n, cerca del lugar de la sesi&amp;oacute;n. La reservaci&amp;oacute;n esta hecha a nombre de SynergyJ y Github y es a partir de las 20;00 hrs.&lt;/strong&gt;&lt;/p&gt;
-&lt;p style=&#34;padding-top: 0px; padding-right: 0px; padding-bottom: 0.5em; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; &#34;&gt;
-  Sin dudarlo ser&amp;aacute; una excelente experiencia compartir y platicar con Matthew algunas de sus experiencias como desarrollador e instructor de compa&amp;ntilde;&amp;iacute;as de software de gran renombre.&lt;/p&gt;
-&lt;p style=&#34;padding-top: 0px; padding-right: 0px; padding-bottom: 0.5em; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; &#34;&gt;
-  Los esperamos&lt;/p&gt;
-&lt;!--break--&gt;
-</description>
-        </item>
-        
-    </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Git on ViveCodigo.org</title><link>https://vivecodigo.org/tags/git/</link><description>Recent content in Git on ViveCodigo.org</description><generator>Hugo -- gohugo.io</generator><language>es-mx</language><copyright>MakingDevs</copyright><lastBuildDate>Fri, 26 Jul 2013 11:56:12 -0500</lastBuildDate><atom:link href="https://vivecodigo.org/tags/git/index.xml" rel="self" type="application/rss+xml"/><item><title>'Subversion and Git' con Matthew McCullough</title><link>https://vivecodigo.org/blog/2013/07/26/subversion-and-git-con-matthew-mccullough/</link><pubDate>Fri, 26 Jul 2013 11:56:12 -0500</pubDate><guid>https://vivecodigo.org/blog/2013/07/26/subversion-and-git-con-matthew-mccullough/</guid><description>&lt;img src="https://vivecodigo.org/images/covers/2015-08-15-subversion-and-git-con-matthew-mccullough.svg" alt="Featured image of post 'Subversion and Git' con Matthew McCullough" />&lt;p>¡Hola a todos!&lt;/p>
+&lt;p>En esta ocasión es un video de una platica sobre Git y el uso del repositorio SVN, en mayo 2012 en la ciudad de México realizada por Matthew McCullough(@matthewmccull). Nos habla profundamente del funcionamiento de Git y como podemos implementar el repositorio de SVN, una interesante platica ya que nos habla de comandos muy interesantes además de algunos trucos muy útiles de Git.&lt;/p>
+&lt;p>Espero lo disfruten:&lt;/p>
+&lt;iframe src="//www.youtube.com/embed/10bPUMtqNmw" height="315" width="560" allowfullscreen="" frameborder="0">&lt;/iframe></description></item><item><title>Workshop de Git + Github en SynergyJ, charla abierta y Drinkup con @matthewmccull</title><link>https://vivecodigo.org/blog/2012/05/01/workshop-de-git--github-en-synergyj-charla-abierta-y-drinkup-con-@matthewmccull/</link><pubDate>Tue, 01 May 2012 15:25:29 -0500</pubDate><guid>https://vivecodigo.org/blog/2012/05/01/workshop-de-git--github-en-synergyj-charla-abierta-y-drinkup-con-@matthewmccull/</guid><description>&lt;img src="https://vivecodigo.org/images/covers/2015-08-15-workshop-de-git-plus-github-en-synergyj-charla-abierta-y-drinkup-con-at-matthewmccull.svg" alt="Featured image of post Workshop de Git + Github en SynergyJ, charla abierta y Drinkup con @matthewmccull" />&lt;p>
+Los sistemas de control de versiones son herramienta fundamental en cualquier proyecto de software, es por esto que a toda la comunidad de desarrolladores de cualquier plataforma, les estamos invitando asistan al evento organizado por SynergyJ el d&amp;iacute;a 15 de Mayo del presente, en donde Matthew McCullough de GitHub vendr&amp;aacute; a impartir un Workshop. Este evento es de pago y es de cupo l&amp;iacute;mitado.&lt;/p>
+&lt;p style="padding-top: 0px; padding-right: 0px; padding-bottom: 0.5em; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ">
+Toda la informaci&amp;oacute;n para registrarte la puedes encontrar en&amp;nbsp;&lt;a href="http://synergyj.com/git/" style="color: rgb(39, 99, 165); text-decoration: none; " title="http://synergyj.com/git/">http://synergyj.com/git/&lt;/a>&lt;/p>
+&lt;p style="padding-top: 0px; padding-right: 0px; padding-bottom: 0.5em; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ">
+Definitivamente no se lo pueden perder.&lt;/p>
+&lt;!-- more -->
+&lt;p style="padding-top: 0px; padding-right: 0px; padding-bottom: 0.5em; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ">
+Seguido al workshop se les hace la cordial invitaci&amp;oacute;n a toda la comunidad de desarrolladores de cualquier plataforma a la sesi&amp;oacute;n abierta que dar&amp;aacute; Matthew McCullough, qui&amp;eacute;n es instructor oficial de GitHub.com, autor de libros como Building and Testing with Gradle y Version Control with Git: Powerful tools and techniques for collaborative software development.&lt;/p>
+&lt;p style="padding-top: 0px; padding-right: 0px; padding-bottom: 0.5em; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ">
+La charla se llevar&amp;aacute; a cabo en las mismas instalaciones del Workshop y esta totalmente abierta al p&amp;uacute;blico, es gratuita y es importante que se registren al evento.&lt;/p>
+&lt;p style="padding-top: 0px; padding-right: 0px; padding-bottom: 0.5em; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ">
+Su registro lo pueden hacer en:&amp;nbsp;&lt;a href="http://stghq.me/e/qU" style="color: rgb(39, 99, 165); text-decoration: none; " title="http://stghq.me/e/qU">http://stghq.me/e/qU&lt;/a>&lt;/p>
+&lt;p>
+&lt;iframe frameborder="0" height="125" marginheight="5" marginwidth="5" scrolling="auto" src="https://synergyj.stagehq.com/events/1444/external" width="500">&lt;/iframe>&lt;/p>
+&lt;p style="padding-top: 0px; padding-right: 0px; padding-bottom: 0.5em; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ">
+&lt;strong>La ubicaci&amp;oacute;n es en Av. San Lorenzo 1009 Piso 4, colonia Del Valle, Delegaci&amp;oacute;n Benito Ju&amp;aacute;rez, M&amp;eacute;xico D.F., C.P. 03100 y ser&amp;aacute; a las 17:30 hrs.&lt;/strong>&lt;/p>
+&lt;p style="padding-top: 0px; padding-right: 0px; padding-bottom: 0.5em; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ">
+Despu&amp;eacute;s de esta sesi&amp;oacute;n daremos paso al Drinkup de SynergyJ y Github, el cu&amp;aacute;l se llevar&amp;aacute; a cabo en &lt;strong>Coraz&amp;oacute;n de Maguey ubicado en Jard&amp;iacute;n Centenario 9, Colonia Villa Coyoac&amp;aacute;n, cerca del lugar de la sesi&amp;oacute;n. La reservaci&amp;oacute;n esta hecha a nombre de SynergyJ y Github y es a partir de las 20;00 hrs.&lt;/strong>&lt;/p>
+&lt;p style="padding-top: 0px; padding-right: 0px; padding-bottom: 0.5em; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ">
+Sin dudarlo ser&amp;aacute; una excelente experiencia compartir y platicar con Matthew algunas de sus experiencias como desarrollador e instructor de compa&amp;ntilde;&amp;iacute;as de software de gran renombre.&lt;/p>
+&lt;p style="padding-top: 0px; padding-right: 0px; padding-bottom: 0.5em; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ">
+Los esperamos&lt;/p>
+&lt;!--break--></description></item></channel></rss>

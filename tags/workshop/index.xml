@@ -1,61 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Workshop on ViveCodigo.org</title>
-        <link>https://vivecodigo.org/tags/workshop/</link>
-        <description>Recent content in Workshop on ViveCodigo.org</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>es-mx</language>
-        <copyright>MakingDevs</copyright>
-        <lastBuildDate>Tue, 03 Mar 2015 17:20:49 -0500</lastBuildDate><atom:link href="https://vivecodigo.org/tags/workshop/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>ViveCodigo - Workshop de VIm con Felipe Juarez @Sohjiro</title>
-        <link>https://vivecodigo.org/blog/2015/03/03/vivecodigo-workshop-de-vim-con-felipe-juarez-@sohjiro/</link>
-        <pubDate>Tue, 03 Mar 2015 17:20:49 -0500</pubDate>
-        
-        <guid>https://vivecodigo.org/blog/2015/03/03/vivecodigo-workshop-de-vim-con-felipe-juarez-@sohjiro/</guid>
-        <description>&lt;img src="https://vivecodigo.org/images/covers/2015-08-15-vivecodigo-workshop-de-vim-con-felipe-juarez-at-sohjiro.svg" alt="Featured image of post ViveCodigo - Workshop de VIm con Felipe Juarez @Sohjiro" /&gt;&lt;p&gt;Bienvenidos sean a otra emisión de su podcast favorito vivecodigo.org Workshop de VIm&lt;/p&gt;
-&lt;p&gt;En esta ocasión Felipe Juarez &lt;a href=&#34;https://twitter.com/Sohjiro&#34;&gt;@Sohjiro&lt;/a&gt; nos hablara de VIm, un editor hecho por programadores para programadores,  para facilitar la programación, también nos dirá de los movimientos básicos y fundamentales para la manipulación, edición e inserción de texto así como moverse sobre los diferentes directorios, buffers y ventanas y la forma en que los entornos de desarrollo integrados, pueden editar el código fuente además llamar a un compilador externo e interpretar sus resultados.&lt;/p&gt;
-&lt;img class=&#34;alignleft size-thumbnail wp-image-537&#34; src=&#34;https://vivecodigo.org/images/uno.jpg&#34; alt=&#34;uno&#34; width=&#34;150&#34; height=&#34;150&#34; /&gt;
-&lt;img class=&#34;alignleft size-thumbnail wp-image-535&#34; src=&#34;https://vivecodigo.org/images/dos.jpg&#34; alt=&#34;dos&#34; width=&#34;150&#34; height=&#34;150&#34; /&gt;
-&lt;p style=&#34;text-align: justify;&#34;&gt;&lt;img class=&#34;alignnone size-full wp-image-626&#34; src=&#34;https://vivecodigo.org/images/vim_zenburn_modified.png&#34; alt=&#34;ViveCodigo - Workshop de VIm con Felipe Juarez @Sohjiro&#34; width=&#34;1&#34; height=&#34;1&#34; /&gt;Les hacemos la cordial invitación a que se suscriban al &lt;a href=&#34;http://vivecodigo.org/feed.xml&#34;&gt;feed&lt;/a&gt; del Videocast de ViveCodigo.org o encontrarnos en iTunes como: &lt;a href=&#34;https://itunes.apple.com/ca/podcast/vivecodigo.org-videocast/id685052596&#34;&gt;ViveCodigo.org - VideoCast&lt;/a&gt;.&lt;/p&gt;
-&lt;p style=&#34;text-align: justify;&#34;&gt;O si lo prefieren al &lt;a href=&#34;http://media.vivecodigo.org.s3.amazonaws.com/podcast-audio/feed.xml&#34;&gt;feed&lt;/a&gt; del podcast de audio o en iTunes como:&lt;a href=&#34;https://itunes.apple.com/mz/podcast/vivecodigo.org-podcast/id722889939&#34;&gt;ViveCodigo.org - Podcast&lt;/a&gt;.&lt;/p&gt;
-&lt;p style=&#34;text-align: justify;&#34;&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Workshop on ViveCodigo.org</title><link>https://vivecodigo.org/tags/workshop/</link><description>Recent content in Workshop on ViveCodigo.org</description><generator>Hugo -- gohugo.io</generator><language>es-mx</language><copyright>MakingDevs</copyright><lastBuildDate>Tue, 03 Mar 2015 17:20:49 -0500</lastBuildDate><atom:link href="https://vivecodigo.org/tags/workshop/index.xml" rel="self" type="application/rss+xml"/><item><title>ViveCodigo - Workshop de VIm con Felipe Juarez @Sohjiro</title><link>https://vivecodigo.org/blog/2015/03/03/vivecodigo-workshop-de-vim-con-felipe-juarez-@sohjiro/</link><pubDate>Tue, 03 Mar 2015 17:20:49 -0500</pubDate><guid>https://vivecodigo.org/blog/2015/03/03/vivecodigo-workshop-de-vim-con-felipe-juarez-@sohjiro/</guid><description>&lt;img src="https://vivecodigo.org/images/covers/2015-08-15-vivecodigo-workshop-de-vim-con-felipe-juarez-at-sohjiro.svg" alt="Featured image of post ViveCodigo - Workshop de VIm con Felipe Juarez @Sohjiro" />&lt;p>Bienvenidos sean a otra emisión de su podcast favorito vivecodigo.org Workshop de VIm&lt;/p>
+&lt;p>En esta ocasión Felipe Juarez &lt;a href="https://twitter.com/Sohjiro">@Sohjiro&lt;/a> nos hablara de VIm, un editor hecho por programadores para programadores,  para facilitar la programación, también nos dirá de los movimientos básicos y fundamentales para la manipulación, edición e inserción de texto así como moverse sobre los diferentes directorios, buffers y ventanas y la forma en que los entornos de desarrollo integrados, pueden editar el código fuente además llamar a un compilador externo e interpretar sus resultados.&lt;/p>
+&lt;img class="alignleft size-thumbnail wp-image-537" src="https://vivecodigo.org/images/uno.jpg" alt="uno" width="150" height="150" />
+&lt;img class="alignleft size-thumbnail wp-image-535" src="https://vivecodigo.org/images/dos.jpg" alt="dos" width="150" height="150" />
+&lt;p style="text-align: justify;">&lt;img class="alignnone size-full wp-image-626" src="https://vivecodigo.org/images/vim_zenburn_modified.png" alt="ViveCodigo - Workshop de VIm con Felipe Juarez @Sohjiro" width="1" height="1" />Les hacemos la cordial invitación a que se suscriban al &lt;a href="http://vivecodigo.org/feed.xml">feed&lt;/a> del Videocast de ViveCodigo.org o encontrarnos en iTunes como: &lt;a href="https://itunes.apple.com/ca/podcast/vivecodigo.org-videocast/id685052596">ViveCodigo.org - VideoCast&lt;/a>.&lt;/p>
+&lt;p style="text-align: justify;">O si lo prefieren al &lt;a href="http://media.vivecodigo.org.s3.amazonaws.com/podcast-audio/feed.xml">feed&lt;/a> del podcast de audio o en iTunes como:&lt;a href="https://itunes.apple.com/mz/podcast/vivecodigo.org-podcast/id722889939">ViveCodigo.org - Podcast&lt;/a>.&lt;/p>
+&lt;p style="text-align: justify;">&lt;/p>
 ¡Espero lo disfruten! y apreciamos mucho cualquier comentario que nos puedan dejar.
-&lt;p&gt;&lt;a title=&#34;ViveCodigo - Workshop de VIm con Felipe Juarez @Sohjiro&#34; href=&#34;http://vimeo.com/121086353&#34;&gt;&lt;iframe src=&#34;//player.vimeo.com/video/121086353&#34; width=&#34;556&#34; height=&#34;450&#34; frameborder=&#34;0&#34; allowfullscreen=&#34;allowfullscreen&#34;&gt;&lt;/iframe&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://vimeo.com/121086353&#34;&gt;ViveCodigo - Workshop de VIm con Felipe Juarez @Sohjiro&lt;/a&gt; from &lt;a href=&#34;http://vimeo.com/makingdevs&#34;&gt;MakingDevs&lt;/a&gt; on &lt;a href=&#34;https://vimeo.com&#34;&gt;Vimeo&lt;/a&gt;&lt;/p&gt;</description>
-        </item>
-        <item>
-        <title>Workshop de Git &#43; Github en SynergyJ, charla abierta y Drinkup con @matthewmccull</title>
-        <link>https://vivecodigo.org/blog/2012/05/01/workshop-de-git--github-en-synergyj-charla-abierta-y-drinkup-con-@matthewmccull/</link>
-        <pubDate>Tue, 01 May 2012 15:25:29 -0500</pubDate>
-        
-        <guid>https://vivecodigo.org/blog/2012/05/01/workshop-de-git--github-en-synergyj-charla-abierta-y-drinkup-con-@matthewmccull/</guid>
-        <description>&lt;img src="https://vivecodigo.org/images/covers/2015-08-15-workshop-de-git-plus-github-en-synergyj-charla-abierta-y-drinkup-con-at-matthewmccull.svg" alt="Featured image of post Workshop de Git &#43; Github en SynergyJ, charla abierta y Drinkup con @matthewmccull" /&gt;&lt;p&gt;
-  Los sistemas de control de versiones son herramienta fundamental en cualquier proyecto de software, es por esto que a toda la comunidad de desarrolladores de cualquier plataforma, les estamos invitando asistan al evento organizado por SynergyJ el d&amp;iacute;a 15 de Mayo del presente, en donde Matthew McCullough de GitHub vendr&amp;aacute; a impartir un Workshop. Este evento es de pago y es de cupo l&amp;iacute;mitado.&lt;/p&gt;
-&lt;p style=&#34;padding-top: 0px; padding-right: 0px; padding-bottom: 0.5em; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; &#34;&gt;
-  Toda la informaci&amp;oacute;n para registrarte la puedes encontrar en&amp;nbsp;&lt;a href=&#34;http://synergyj.com/git/&#34; style=&#34;color: rgb(39, 99, 165); text-decoration: none; &#34; title=&#34;http://synergyj.com/git/&#34;&gt;http://synergyj.com/git/&lt;/a&gt;&lt;/p&gt;
-&lt;p style=&#34;padding-top: 0px; padding-right: 0px; padding-bottom: 0.5em; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; &#34;&gt;
-  Definitivamente no se lo pueden perder.&lt;/p&gt;
-  &lt;!-- more --&gt;
-&lt;p style=&#34;padding-top: 0px; padding-right: 0px; padding-bottom: 0.5em; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; &#34;&gt;
-  Seguido al workshop se les hace la cordial invitaci&amp;oacute;n a toda la comunidad de desarrolladores de cualquier plataforma a la sesi&amp;oacute;n abierta que dar&amp;aacute; Matthew McCullough, qui&amp;eacute;n es instructor oficial de GitHub.com, autor de libros como Building and Testing with Gradle y Version Control with Git: Powerful tools and techniques for collaborative software development.&lt;/p&gt;
-&lt;p style=&#34;padding-top: 0px; padding-right: 0px; padding-bottom: 0.5em; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; &#34;&gt;
-  La charla se llevar&amp;aacute; a cabo en las mismas instalaciones del Workshop y esta totalmente abierta al p&amp;uacute;blico, es gratuita y es importante que se registren al evento.&lt;/p&gt;
-&lt;p style=&#34;padding-top: 0px; padding-right: 0px; padding-bottom: 0.5em; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; &#34;&gt;
-  Su registro lo pueden hacer en:&amp;nbsp;&lt;a href=&#34;http://stghq.me/e/qU&#34; style=&#34;color: rgb(39, 99, 165); text-decoration: none; &#34; title=&#34;http://stghq.me/e/qU&#34;&gt;http://stghq.me/e/qU&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;
-  &lt;iframe frameborder=&#34;0&#34; height=&#34;125&#34; marginheight=&#34;5&#34; marginwidth=&#34;5&#34; scrolling=&#34;auto&#34; src=&#34;https://synergyj.stagehq.com/events/1444/external&#34; width=&#34;500&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p style=&#34;padding-top: 0px; padding-right: 0px; padding-bottom: 0.5em; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; &#34;&gt;
-  &lt;strong&gt;La ubicaci&amp;oacute;n es en Av. San Lorenzo 1009 Piso 4, colonia Del Valle, Delegaci&amp;oacute;n Benito Ju&amp;aacute;rez, M&amp;eacute;xico D.F., C.P. 03100 y ser&amp;aacute; a las 17:30 hrs.&lt;/strong&gt;&lt;/p&gt;
-&lt;p style=&#34;padding-top: 0px; padding-right: 0px; padding-bottom: 0.5em; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; &#34;&gt;
-  Despu&amp;eacute;s de esta sesi&amp;oacute;n daremos paso al Drinkup de SynergyJ y Github, el cu&amp;aacute;l se llevar&amp;aacute; a cabo en &lt;strong&gt;Coraz&amp;oacute;n de Maguey ubicado en Jard&amp;iacute;n Centenario 9, Colonia Villa Coyoac&amp;aacute;n, cerca del lugar de la sesi&amp;oacute;n. La reservaci&amp;oacute;n esta hecha a nombre de SynergyJ y Github y es a partir de las 20;00 hrs.&lt;/strong&gt;&lt;/p&gt;
-&lt;p style=&#34;padding-top: 0px; padding-right: 0px; padding-bottom: 0.5em; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; &#34;&gt;
-  Sin dudarlo ser&amp;aacute; una excelente experiencia compartir y platicar con Matthew algunas de sus experiencias como desarrollador e instructor de compa&amp;ntilde;&amp;iacute;as de software de gran renombre.&lt;/p&gt;
-&lt;p style=&#34;padding-top: 0px; padding-right: 0px; padding-bottom: 0.5em; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; &#34;&gt;
-  Los esperamos&lt;/p&gt;
-&lt;!--break--&gt;
-</description>
-        </item>
-        
-    </channel>
-</rss>
+&lt;p>&lt;a title="ViveCodigo - Workshop de VIm con Felipe Juarez @Sohjiro" href="http://vimeo.com/121086353">&lt;iframe src="//player.vimeo.com/video/121086353" width="556" height="450" frameborder="0" allowfullscreen="allowfullscreen">&lt;/iframe>&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://vimeo.com/121086353">ViveCodigo - Workshop de VIm con Felipe Juarez @Sohjiro&lt;/a> from &lt;a href="http://vimeo.com/makingdevs">MakingDevs&lt;/a> on &lt;a href="https://vimeo.com">Vimeo&lt;/a>&lt;/p></description></item><item><title>Workshop de Git + Github en SynergyJ, charla abierta y Drinkup con @matthewmccull</title><link>https://vivecodigo.org/blog/2012/05/01/workshop-de-git--github-en-synergyj-charla-abierta-y-drinkup-con-@matthewmccull/</link><pubDate>Tue, 01 May 2012 15:25:29 -0500</pubDate><guid>https://vivecodigo.org/blog/2012/05/01/workshop-de-git--github-en-synergyj-charla-abierta-y-drinkup-con-@matthewmccull/</guid><description>&lt;img src="https://vivecodigo.org/images/covers/2015-08-15-workshop-de-git-plus-github-en-synergyj-charla-abierta-y-drinkup-con-at-matthewmccull.svg" alt="Featured image of post Workshop de Git + Github en SynergyJ, charla abierta y Drinkup con @matthewmccull" />&lt;p>
+Los sistemas de control de versiones son herramienta fundamental en cualquier proyecto de software, es por esto que a toda la comunidad de desarrolladores de cualquier plataforma, les estamos invitando asistan al evento organizado por SynergyJ el d&amp;iacute;a 15 de Mayo del presente, en donde Matthew McCullough de GitHub vendr&amp;aacute; a impartir un Workshop. Este evento es de pago y es de cupo l&amp;iacute;mitado.&lt;/p>
+&lt;p style="padding-top: 0px; padding-right: 0px; padding-bottom: 0.5em; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ">
+Toda la informaci&amp;oacute;n para registrarte la puedes encontrar en&amp;nbsp;&lt;a href="http://synergyj.com/git/" style="color: rgb(39, 99, 165); text-decoration: none; " title="http://synergyj.com/git/">http://synergyj.com/git/&lt;/a>&lt;/p>
+&lt;p style="padding-top: 0px; padding-right: 0px; padding-bottom: 0.5em; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ">
+Definitivamente no se lo pueden perder.&lt;/p>
+&lt;!-- more -->
+&lt;p style="padding-top: 0px; padding-right: 0px; padding-bottom: 0.5em; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ">
+Seguido al workshop se les hace la cordial invitaci&amp;oacute;n a toda la comunidad de desarrolladores de cualquier plataforma a la sesi&amp;oacute;n abierta que dar&amp;aacute; Matthew McCullough, qui&amp;eacute;n es instructor oficial de GitHub.com, autor de libros como Building and Testing with Gradle y Version Control with Git: Powerful tools and techniques for collaborative software development.&lt;/p>
+&lt;p style="padding-top: 0px; padding-right: 0px; padding-bottom: 0.5em; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ">
+La charla se llevar&amp;aacute; a cabo en las mismas instalaciones del Workshop y esta totalmente abierta al p&amp;uacute;blico, es gratuita y es importante que se registren al evento.&lt;/p>
+&lt;p style="padding-top: 0px; padding-right: 0px; padding-bottom: 0.5em; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ">
+Su registro lo pueden hacer en:&amp;nbsp;&lt;a href="http://stghq.me/e/qU" style="color: rgb(39, 99, 165); text-decoration: none; " title="http://stghq.me/e/qU">http://stghq.me/e/qU&lt;/a>&lt;/p>
+&lt;p>
+&lt;iframe frameborder="0" height="125" marginheight="5" marginwidth="5" scrolling="auto" src="https://synergyj.stagehq.com/events/1444/external" width="500">&lt;/iframe>&lt;/p>
+&lt;p style="padding-top: 0px; padding-right: 0px; padding-bottom: 0.5em; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ">
+&lt;strong>La ubicaci&amp;oacute;n es en Av. San Lorenzo 1009 Piso 4, colonia Del Valle, Delegaci&amp;oacute;n Benito Ju&amp;aacute;rez, M&amp;eacute;xico D.F., C.P. 03100 y ser&amp;aacute; a las 17:30 hrs.&lt;/strong>&lt;/p>
+&lt;p style="padding-top: 0px; padding-right: 0px; padding-bottom: 0.5em; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ">
+Despu&amp;eacute;s de esta sesi&amp;oacute;n daremos paso al Drinkup de SynergyJ y Github, el cu&amp;aacute;l se llevar&amp;aacute; a cabo en &lt;strong>Coraz&amp;oacute;n de Maguey ubicado en Jard&amp;iacute;n Centenario 9, Colonia Villa Coyoac&amp;aacute;n, cerca del lugar de la sesi&amp;oacute;n. La reservaci&amp;oacute;n esta hecha a nombre de SynergyJ y Github y es a partir de las 20;00 hrs.&lt;/strong>&lt;/p>
+&lt;p style="padding-top: 0px; padding-right: 0px; padding-bottom: 0.5em; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ">
+Sin dudarlo ser&amp;aacute; una excelente experiencia compartir y platicar con Matthew algunas de sus experiencias como desarrollador e instructor de compa&amp;ntilde;&amp;iacute;as de software de gran renombre.&lt;/p>
+&lt;p style="padding-top: 0px; padding-right: 0px; padding-bottom: 0.5em; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ">
+Los esperamos&lt;/p>
+&lt;!--break--></description></item></channel></rss>

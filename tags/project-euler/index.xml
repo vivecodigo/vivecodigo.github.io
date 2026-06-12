@@ -1,63 +1,43 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Project-Euler on ViveCodigo.org</title>
-        <link>https://vivecodigo.org/tags/project-euler/</link>
-        <description>Recent content in Project-Euler on ViveCodigo.org</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>es-mx</language>
-        <copyright>MakingDevs</copyright>
-        <lastBuildDate>Thu, 19 Jan 2012 15:25:38 -0500</lastBuildDate><atom:link href="https://vivecodigo.org/tags/project-euler/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Podcast 12 de la temporada 0</title>
-        <link>https://vivecodigo.org/blog/2012/01/19/podcast-12-de-la-temporada-0/</link>
-        <pubDate>Thu, 19 Jan 2012 15:25:38 -0500</pubDate>
-        
-        <guid>https://vivecodigo.org/blog/2012/01/19/podcast-12-de-la-temporada-0/</guid>
-        <description>&lt;img src="https://vivecodigo.org/images/covers/2015-08-15-podcast-12-de-la-temporada-0.svg" alt="Featured image of post Podcast 12 de la temporada 0" /&gt;&lt;p&gt;Bienvenidos a esta nueva emisión del podcast de ViveCodigo.org, en esta ocasión tenemos el agrado de presentarles lo acontecido durante el 2do. Coding Dojo en donde resolvimos un par de ejercicios:&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;#7 Project Euler&lt;/li&gt;
-  &lt;li&gt;Kata: Roman Numerals&lt;/li&gt;
-&lt;/ol&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Project-Euler on ViveCodigo.org</title><link>https://vivecodigo.org/tags/project-euler/</link><description>Recent content in Project-Euler on ViveCodigo.org</description><generator>Hugo -- gohugo.io</generator><language>es-mx</language><copyright>MakingDevs</copyright><lastBuildDate>Thu, 19 Jan 2012 15:25:38 -0500</lastBuildDate><atom:link href="https://vivecodigo.org/tags/project-euler/index.xml" rel="self" type="application/rss+xml"/><item><title>Podcast 12 de la temporada 0</title><link>https://vivecodigo.org/blog/2012/01/19/podcast-12-de-la-temporada-0/</link><pubDate>Thu, 19 Jan 2012 15:25:38 -0500</pubDate><guid>https://vivecodigo.org/blog/2012/01/19/podcast-12-de-la-temporada-0/</guid><description>&lt;img src="https://vivecodigo.org/images/covers/2015-08-15-podcast-12-de-la-temporada-0.svg" alt="Featured image of post Podcast 12 de la temporada 0" />&lt;p>Bienvenidos a esta nueva emisión del podcast de ViveCodigo.org, en esta ocasión tenemos el agrado de presentarles lo acontecido durante el 2do. Coding Dojo en donde resolvimos un par de ejercicios:&lt;/p>
+&lt;ol>
+&lt;li>#7 Project Euler&lt;/li>
+&lt;li>Kata: Roman Numerals&lt;/li>
+&lt;/ol>
 Queremos agradecer a los asistentes al Dojo por su participación y por sus resultados, y también por compartir sus soluciones con nosotros; aquí listamos a los desarrolladores del Dojo y la liga donde pueden encontrar el código que desarrollaron:
-&lt;iframe src=&#34;https://player.vimeo.com/video/35331361?color=ff9933&#34; width=&#34;500&#34; height=&#34;281&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
-&lt;br/&gt;&lt;br/&gt;
-&lt;!-- more --&gt;
-&lt;iframe src=&#34;https://player.vimeo.com/video/35698652?color=ff9933&#34; width=&#34;500&#34; height=&#34;281&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
-&lt;ul&gt;
-  &lt;li&gt;Theo Grip - &lt;a href=&#34;http://twitter.com/tgrip&#34;&gt;@tgrip&lt;/a&gt; - &lt;a href=&#34;https://github.com/tgrip/CodingKata&#34;&gt;https://github.com/tgrip/CodingKata&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Joan Alonso - &lt;a href=&#34;http://twitter.com/jmalonsos&#34;&gt;@jmalonsos&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Omar Bautista - &lt;a href=&#34;http://twitter.com/joxebus&#34;&gt;@joxebus&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Gerardo Aquino - &lt;a href=&#34;http://twitter.com/java_daba_doo&#34;&gt;@java_daba_doo&lt;/a&gt; - &lt;a href=&#34;https://github.com/javadabadoo/CodingDojo&#34;&gt;https://github.com/javadabadoo/CodingDojo&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Antonio Sandoval - &lt;a href=&#34;http://twitter.com/__arch3r&#34;&gt;@__arch3r&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Javier Ramírez - &lt;a href=&#34;http://twitter.com/_benek&#34;&gt;@_benek&lt;/a&gt; - &lt;a href=&#34;https://github.com/benek/CodingDojo2&#34;&gt;https://github.com/benek/CodingDojo2&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Rodrigo Salado - &lt;a href=&#34;http://twitter.com/rodrigo_salado&#34;&gt;@rodrigo_salado&lt;/a&gt; - &lt;a href=&#34;http://www.javamexico.org/blogs/rodrigo_salado_anaya/coding_dojo_2&#34;&gt;http://www.javamexico.org/blogs/rodrigo_salado_anaya/coding_dojo_2&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Alfredo Chávez - &lt;a href=&#34;http://twitter.com/alfredochv&#34;&gt;@alfredochv&lt;/a&gt;
-&lt;ol&gt;
-  &lt;li&gt;Ejercicio #7 del proyecto Euler:
-&lt;ul&gt;
-  &lt;li&gt;Implementación: &lt;a href=&#34;https://gist.github.com/1623748&#34;&gt;https://gist.github.com/1623748&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Pruebas unitarias: &lt;a href=&#34;https://gist.github.com/1623754&#34;&gt;https://gist.github.com/1623754&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-  &lt;li&gt;Coding Kata &#34;Roman Numerals&#34;:
-&lt;ul&gt;
-  &lt;li&gt;Versión inicial, sin refactorizar: &lt;a href=&#34;https://gist.github.com/1623830&#34;&gt;https://gist.github.com/1623830&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Versión refactorizada para hacer el código más explícito (esta es la que vieron en el proyector): &lt;a href=&#34;https://gist.github.com/1623819&#34;&gt;https://gist.github.com/1623819&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Pruebas unitarias: &lt;a href=&#34;https://gist.github.com/1623958&#34;&gt;https://gist.github.com/1623958&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Adicionalmente nos gustaría compartir con ustedes algunos comentarios hechos dentro y fuera del Dojo que consideramos aportan valor a quienes quieren ser mejores desarrolladores:&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;&amp;quot;&amp;hellip;Sigo insistiendo en la necesidad de dejar de ver al TDD como una mera técnica y pasar a considerarla como un &amp;ldquo;core skill&amp;rdquo; de todo desarrollador de software (después de todo, si escribes una pruebita &lt;em&gt;después&lt;/em&gt; para &amp;ldquo;demostrar&amp;rdquo; que lo que escribiste si jala, ya no es TDD ni tiene la utilidad de aquel). Creo que eventos como el Coding Dojo son cruciales para ello y me siento muy contento de haber participado en esta edición y seguiré con interés las noticias de próximos eventos&amp;hellip;&amp;quot;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;&amp;ldquo;Yo siempre he pensado que es responsabilidad de los desarrolladores más seniors guiar a los más rockies, pero no con chapuzas ni &amp;ldquo;trucos&amp;rdquo;, sino con verdaderos principios y prácticas sólidas, que no solo aumenten sus posibilidades de éxito propias y de los proyectos en los que participen, sino que se eviten a sí mismos (y a sus compañeros) dolores de cabeza de mantenimiento a futuro.&amp;quot;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;&amp;rdquo;&amp;hellip;Han sido más de 10 años desde que TDD se hizo publico y veo con tristeza que sigue pasando el tiempo y en México (salvo honrosas excepciones) no estamos ni cerca de una adopción de esta y otras mejores prácticas que nos permitan verdaderamente explotar el potencial que tenemos como país en el desarrollo de las TIs y ponernos al tú por tú con la Chile, Brasil o la India. En todos lados oigo o leo a gente dando &amp;ldquo;lip service&amp;rdquo; al TDD y &lt;em&gt;muy&lt;/em&gt; poca que realmente la practica diciendo cosas como &amp;ldquo;es que mi jefe no me deja&amp;rdquo;, &amp;ldquo;es que en un proyecto real está cañón&amp;rdquo; y cosas por el estilo.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Dejando de lado incluso el asunto del TDD, aún más importante está el asunto de escribir código limpio y legible (claro que tu y yo sabemos que las dos cosas están relacionadas) y creo que en ese aspecto si hay un avance, por lo menos entre los asistentes al Dojo. Me sentí muy satisfecho de ver código bien escrito en la mayoría de los casos&amp;hellip;&amp;quot;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Coincidimos en la importancia de mejorar a los desarrolladores, y nuestro compromiso como comunidad y podcast será continuar con este tipo de eventos, así como, actividades que fomenten el incrementar las habilidades de las personas que son responsables de darle alma/vida al hardware.&lt;/p&gt;
-&lt;p&gt;Que los disfruten tanto como nosotros&amp;hellip;&lt;/p&gt;
-</description>
-        </item>
-        
-    </channel>
-</rss>
+&lt;iframe src="https://player.vimeo.com/video/35331361?color=ff9933" width="500" height="281" frameborder="0">&lt;/iframe>
+&lt;br/>&lt;br/>
+&lt;!-- more -->
+&lt;iframe src="https://player.vimeo.com/video/35698652?color=ff9933" width="500" height="281" frameborder="0">&lt;/iframe>
+&lt;ul>
+&lt;li>Theo Grip - &lt;a href="http://twitter.com/tgrip">@tgrip&lt;/a> - &lt;a href="https://github.com/tgrip/CodingKata">https://github.com/tgrip/CodingKata&lt;/a>&lt;/li>
+&lt;li>Joan Alonso - &lt;a href="http://twitter.com/jmalonsos">@jmalonsos&lt;/a>&lt;/li>
+&lt;li>Omar Bautista - &lt;a href="http://twitter.com/joxebus">@joxebus&lt;/a>&lt;/li>
+&lt;li>Gerardo Aquino - &lt;a href="http://twitter.com/java_daba_doo">@java_daba_doo&lt;/a> - &lt;a href="https://github.com/javadabadoo/CodingDojo">https://github.com/javadabadoo/CodingDojo&lt;/a>&lt;/li>
+&lt;li>Antonio Sandoval - &lt;a href="http://twitter.com/__arch3r">@__arch3r&lt;/a>&lt;/li>
+&lt;li>Javier Ramírez - &lt;a href="http://twitter.com/_benek">@_benek&lt;/a> - &lt;a href="https://github.com/benek/CodingDojo2">https://github.com/benek/CodingDojo2&lt;/a>&lt;/li>
+&lt;li>Rodrigo Salado - &lt;a href="http://twitter.com/rodrigo_salado">@rodrigo_salado&lt;/a> - &lt;a href="http://www.javamexico.org/blogs/rodrigo_salado_anaya/coding_dojo_2">http://www.javamexico.org/blogs/rodrigo_salado_anaya/coding_dojo_2&lt;/a>&lt;/li>
+&lt;li>Alfredo Chávez - &lt;a href="http://twitter.com/alfredochv">@alfredochv&lt;/a>
+&lt;ol>
+&lt;li>Ejercicio #7 del proyecto Euler:
+&lt;ul>
+&lt;li>Implementación: &lt;a href="https://gist.github.com/1623748">https://gist.github.com/1623748&lt;/a>&lt;/li>
+&lt;li>Pruebas unitarias: &lt;a href="https://gist.github.com/1623754">https://gist.github.com/1623754&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Coding Kata "Roman Numerals":
+&lt;ul>
+&lt;li>Versión inicial, sin refactorizar: &lt;a href="https://gist.github.com/1623830">https://gist.github.com/1623830&lt;/a>&lt;/li>
+&lt;li>Versión refactorizada para hacer el código más explícito (esta es la que vieron en el proyector): &lt;a href="https://gist.github.com/1623819">https://gist.github.com/1623819&lt;/a>&lt;/li>
+&lt;li>Pruebas unitarias: &lt;a href="https://gist.github.com/1623958">https://gist.github.com/1623958&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;/ul>
+&lt;p>Adicionalmente nos gustaría compartir con ustedes algunos comentarios hechos dentro y fuera del Dojo que consideramos aportan valor a quienes quieren ser mejores desarrolladores:&lt;/p>
+&lt;p>&lt;em>&amp;quot;&amp;hellip;Sigo insistiendo en la necesidad de dejar de ver al TDD como una mera técnica y pasar a considerarla como un &amp;ldquo;core skill&amp;rdquo; de todo desarrollador de software (después de todo, si escribes una pruebita &lt;em>después&lt;/em> para &amp;ldquo;demostrar&amp;rdquo; que lo que escribiste si jala, ya no es TDD ni tiene la utilidad de aquel). Creo que eventos como el Coding Dojo son cruciales para ello y me siento muy contento de haber participado en esta edición y seguiré con interés las noticias de próximos eventos&amp;hellip;&amp;quot;&lt;/em>&lt;/p>
+&lt;p>&lt;em>&amp;ldquo;Yo siempre he pensado que es responsabilidad de los desarrolladores más seniors guiar a los más rockies, pero no con chapuzas ni &amp;ldquo;trucos&amp;rdquo;, sino con verdaderos principios y prácticas sólidas, que no solo aumenten sus posibilidades de éxito propias y de los proyectos en los que participen, sino que se eviten a sí mismos (y a sus compañeros) dolores de cabeza de mantenimiento a futuro.&amp;quot;&lt;/em>&lt;/p>
+&lt;p>&lt;em>&amp;rdquo;&amp;hellip;Han sido más de 10 años desde que TDD se hizo publico y veo con tristeza que sigue pasando el tiempo y en México (salvo honrosas excepciones) no estamos ni cerca de una adopción de esta y otras mejores prácticas que nos permitan verdaderamente explotar el potencial que tenemos como país en el desarrollo de las TIs y ponernos al tú por tú con la Chile, Brasil o la India. En todos lados oigo o leo a gente dando &amp;ldquo;lip service&amp;rdquo; al TDD y &lt;em>muy&lt;/em> poca que realmente la practica diciendo cosas como &amp;ldquo;es que mi jefe no me deja&amp;rdquo;, &amp;ldquo;es que en un proyecto real está cañón&amp;rdquo; y cosas por el estilo.&lt;/em>&lt;/p>
+&lt;p>&lt;em>Dejando de lado incluso el asunto del TDD, aún más importante está el asunto de escribir código limpio y legible (claro que tu y yo sabemos que las dos cosas están relacionadas) y creo que en ese aspecto si hay un avance, por lo menos entre los asistentes al Dojo. Me sentí muy satisfecho de ver código bien escrito en la mayoría de los casos&amp;hellip;&amp;quot;&lt;/em>&lt;/p>
+&lt;p>Coincidimos en la importancia de mejorar a los desarrolladores, y nuestro compromiso como comunidad y podcast será continuar con este tipo de eventos, así como, actividades que fomenten el incrementar las habilidades de las personas que son responsables de darle alma/vida al hardware.&lt;/p>
+&lt;p>Que los disfruten tanto como nosotros&amp;hellip;&lt;/p></description></item></channel></rss>

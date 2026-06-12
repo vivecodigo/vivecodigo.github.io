@@ -1,100 +1,80 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Tdd on ViveCodigo.org</title>
-        <link>https://vivecodigo.org/tags/tdd/</link>
-        <description>Recent content in Tdd on ViveCodigo.org</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>es-mx</language>
-        <copyright>MakingDevs</copyright>
-        <lastBuildDate>Thu, 15 Mar 2012 13:48:39 -0500</lastBuildDate><atom:link href="https://vivecodigo.org/tags/tdd/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Podcast 15 de la temporada 0</title>
-        <link>https://vivecodigo.org/blog/2012/03/15/podcast-15-de-la-temporada-0/</link>
-        <pubDate>Thu, 15 Mar 2012 13:48:39 -0500</pubDate>
-        
-        <guid>https://vivecodigo.org/blog/2012/03/15/podcast-15-de-la-temporada-0/</guid>
-        <description>&lt;img src="https://vivecodigo.org/images/covers/2015-08-15-podcast-15-de-la-temporada-0.svg" alt="Featured image of post Podcast 15 de la temporada 0" /&gt;&lt;p&gt;Bienvenidos nuevamente a esta emisión de ViveCodigo.org.&lt;/p&gt;
-&lt;p&gt;Previo a nuestra actividad entramos en una charla muy amena, al respecto de la adopción del Testing como técnica de programación y la necesidad de adoptarlo.&lt;/p&gt;
-&lt;p&gt;Y en esta ocasión estamos presentando nuestro tercer #CodingDojo, en donde, de la mano de respetables desarrolladores tratamos de resolver una Kata de nombre: LCD Numbers.&lt;/p&gt;
-&lt;iframe src=&#34;https://player.vimeo.com/video/38532924&#34; height=&#34;281&#34; width=&#34;500&#34; allowfullscreen=&#34;&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
-&lt;!-- more --&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tdd on ViveCodigo.org</title><link>https://vivecodigo.org/tags/tdd/</link><description>Recent content in Tdd on ViveCodigo.org</description><generator>Hugo -- gohugo.io</generator><language>es-mx</language><copyright>MakingDevs</copyright><lastBuildDate>Thu, 15 Mar 2012 13:48:39 -0500</lastBuildDate><atom:link href="https://vivecodigo.org/tags/tdd/index.xml" rel="self" type="application/rss+xml"/><item><title>Podcast 15 de la temporada 0</title><link>https://vivecodigo.org/blog/2012/03/15/podcast-15-de-la-temporada-0/</link><pubDate>Thu, 15 Mar 2012 13:48:39 -0500</pubDate><guid>https://vivecodigo.org/blog/2012/03/15/podcast-15-de-la-temporada-0/</guid><description>&lt;img src="https://vivecodigo.org/images/covers/2015-08-15-podcast-15-de-la-temporada-0.svg" alt="Featured image of post Podcast 15 de la temporada 0" />&lt;p>Bienvenidos nuevamente a esta emisión de ViveCodigo.org.&lt;/p>
+&lt;p>Previo a nuestra actividad entramos en una charla muy amena, al respecto de la adopción del Testing como técnica de programación y la necesidad de adoptarlo.&lt;/p>
+&lt;p>Y en esta ocasión estamos presentando nuestro tercer #CodingDojo, en donde, de la mano de respetables desarrolladores tratamos de resolver una Kata de nombre: LCD Numbers.&lt;/p>
+&lt;iframe src="https://player.vimeo.com/video/38532924" height="281" width="500" allowfullscreen="" frameborder="0">&lt;/iframe>
+&lt;!-- more -->
 Esta Kata consiste en crear una función que me permita convertir un número entre el 0 y el 9 a su representación en LCD, sin embargo, el acercamiento que se le debe hace a este ejercicio es mediante una prueba, de tal forma que se empiece a resolver de la forma más simple y se progrese en su desarrollo mientras se sigue ejecutando dicha prueba.
-&lt;p&gt;Esto es lo primero que se debe realizar:&lt;/p&gt;
-&lt;pre class=&#34;brush:java;&#34;&gt;String numberLCD =  &#34; - \n&#34; +
-                    &#34;| |\n&#34; +
-                    &#34; - \n&#34; +
-                    &#34;| |\n&#34; +
-                    &#34; - &#34;;
-assert convertToLCD(8) == numberLCD;&lt;/pre&gt;
-&lt;p&gt;Se recomienda comenzar con el número 1, e ir avanzando progresivamente con los demás números para refinar tanto el código como la prueba.&lt;/p&gt;
-&lt;p&gt;Además, existen por así decirlo, dos tipos de fuentes, las cuales mostramos a continuación:&lt;/p&gt;
-&lt;p style=&#34;text-align: center;&#34;&gt;&lt;a href=&#34;http://vivecodigo.org/2012/03/15/podcast-15-de-la-temporada-0/ang-2qycaaii4-h-jpg-large/&#34; rel=&#34;attachment wp-att-268&#34;&gt;&lt;img class=&#34;size-medium wp-image-268 aligncenter&#34; title=&#34;Ang-2qYCAAIi4-h.jpg-large&#34; alt=&#34;&#34; src=&#34;https://vivecodigo.org/images/Ang-2qYCAAIi4-h.jpg-large-300x91.jpg&#34; width=&#34;300&#34; height=&#34;91&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p>Esto es lo primero que se debe realizar:&lt;/p>
+&lt;pre class="brush:java;">String numberLCD =  " - \n" +
+                    "| |\n" +
+                    " - \n" +
+                    "| |\n" +
+                    " - ";
+assert convertToLCD(8) == numberLCD;&lt;/pre>
+&lt;p>Se recomienda comenzar con el número 1, e ir avanzando progresivamente con los demás números para refinar tanto el código como la prueba.&lt;/p>
+&lt;p>Además, existen por así decirlo, dos tipos de fuentes, las cuales mostramos a continuación:&lt;/p>
+&lt;p style="text-align: center;">&lt;a href="http://vivecodigo.org/2012/03/15/podcast-15-de-la-temporada-0/ang-2qycaaii4-h-jpg-large/" rel="attachment wp-att-268">&lt;img class="size-medium wp-image-268 aligncenter" title="Ang-2qYCAAIi4-h.jpg-large" alt="" src="https://vivecodigo.org/images/Ang-2qYCAAIi4-h.jpg-large-300x91.jpg" width="300" height="91" />&lt;/a>&lt;/p>
 Como se puede apreciar, la fuente grande consiste de 5 líneas y la pequeña de 3, en la experiencia de quienes han desarrollado la Kata, la de 5 líneas es la más sencilla de implementar, por lo tanto se recomienda comenzar con dicha implementación.
-&lt;p&gt;Queremos agradecer a quienes asistieron al Dojo:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Theo Grip(&lt;a href=&#34;http://twitter.com/tgrip&#34;&gt;@tgrip&lt;/a&gt;)&lt;/li&gt;
-  &lt;li&gt;Alfredo Chávez(&lt;a href=&#34;http://twitter.com/alfredochv&#34;&gt;@alfredochv&lt;/a&gt;)&lt;/li&gt;
-  &lt;li&gt;Alcides Flores(&lt;a href=&#34;http://twitter.com/alcidesfp&#34;&gt;@alcidesfp&lt;/a&gt;)&lt;/li&gt;
-  &lt;li&gt;Edgar López(&lt;a href=&#34;http://twitter.com/iamcoder&#34;&gt;@iamcoder&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p>Queremos agradecer a quienes asistieron al Dojo:&lt;/p>
+&lt;ul>
+&lt;li>Theo Grip(&lt;a href="http://twitter.com/tgrip">@tgrip&lt;/a>)&lt;/li>
+&lt;li>Alfredo Chávez(&lt;a href="http://twitter.com/alfredochv">@alfredochv&lt;/a>)&lt;/li>
+&lt;li>Alcides Flores(&lt;a href="http://twitter.com/alcidesfp">@alcidesfp&lt;/a>)&lt;/li>
+&lt;li>Edgar López(&lt;a href="http://twitter.com/iamcoder">@iamcoder&lt;/a>)&lt;/li>
+&lt;/ul>
 Y ponemos sus soluciones disponibles a través de nuestro GitHub para que se descarguen las soluciones que desarrollaron:
-&lt;ul&gt;
-  &lt;li&gt;Alfredo
-&lt;ul&gt;
-  &lt;li&gt;Python
-&lt;ul&gt;
-  &lt;li&gt;LCD numbers kata and tests -&amp;gt; &lt;a href=&#34;https://gist.github.com/2025419&#34;&gt;https://gist.github.com/2025419&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-  &lt;li&gt;Java
-&lt;ul&gt;
-  &lt;li&gt;LCD numbers&#39; tests -&amp;gt; &lt;a href=&#34;https://gist.github.com/2025444&#34;&gt;https://gist.github.com/2025444&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;LCD numbers kata -&amp;gt; &lt;a href=&#34;https://gist.github.com/2025449&#34;&gt;https://gist.github.com/2025449&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-  &lt;li&gt;C#
-&lt;ul&gt;
-  &lt;li&gt;LCD numbers&#39; tests -&amp;gt; &lt;a href=&#34;https://gist.github.com/2025462&#34;&gt;https://gist.github.com/2025462&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;LCD numbers kata -&amp;gt; &lt;a href=&#34;https://gist.github.com/2025475&#34;&gt;https://gist.github.com/2025475&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-  &lt;li&gt;Alcides
-&lt;ul&gt;
-  &lt;li&gt;Pruebas unitarias: &lt;a href=&#34;https://gist.github.com/2027117&#34;&gt;https://gist.github.com/2027117&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Código de producción: &lt;a href=&#34;https://gist.github.com/2027144&#34;&gt;https://gist.github.com/2027144&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-  &lt;li&gt;José Juan
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&#34;https://gist.github.com/2046018&#34;&gt;https://gist.github.com/2046018&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-  &lt;li&gt;Theo Grip
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&#34;https://github.com/tgrip/CodingKata&#34;&gt;https://github.com/tgrip/CodingKata&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-  &lt;li&gt;Edgar López
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&#34;https://github.com/elopezanaya/Katas&#34; target=&#34;_blank&#34;&gt;https://github.com/elopezanaya/Katas&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-  &lt;li&gt;Incluso hubo quién la hizo  distancia. Rodrigo Salado Anaya:
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&#34;https://gist.github.com/2051680&#34;&gt;https://gist.github.com/2051680&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
+&lt;ul>
+&lt;li>Alfredo
+&lt;ul>
+&lt;li>Python
+&lt;ul>
+&lt;li>LCD numbers kata and tests -&amp;gt; &lt;a href="https://gist.github.com/2025419">https://gist.github.com/2025419&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Java
+&lt;ul>
+&lt;li>LCD numbers' tests -&amp;gt; &lt;a href="https://gist.github.com/2025444">https://gist.github.com/2025444&lt;/a>&lt;/li>
+&lt;li>LCD numbers kata -&amp;gt; &lt;a href="https://gist.github.com/2025449">https://gist.github.com/2025449&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>C#
+&lt;ul>
+&lt;li>LCD numbers' tests -&amp;gt; &lt;a href="https://gist.github.com/2025462">https://gist.github.com/2025462&lt;/a>&lt;/li>
+&lt;li>LCD numbers kata -&amp;gt; &lt;a href="https://gist.github.com/2025475">https://gist.github.com/2025475&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Alcides
+&lt;ul>
+&lt;li>Pruebas unitarias: &lt;a href="https://gist.github.com/2027117">https://gist.github.com/2027117&lt;/a>&lt;/li>
+&lt;li>Código de producción: &lt;a href="https://gist.github.com/2027144">https://gist.github.com/2027144&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>José Juan
+&lt;ul>
+&lt;li>&lt;a href="https://gist.github.com/2046018">https://gist.github.com/2046018&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Theo Grip
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/tgrip/CodingKata">https://github.com/tgrip/CodingKata&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Edgar López
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/elopezanaya/Katas" target="_blank">https://github.com/elopezanaya/Katas&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Incluso hubo quién la hizo  distancia. Rodrigo Salado Anaya:
+&lt;ul>
+&lt;li>&lt;a href="https://gist.github.com/2051680">https://gist.github.com/2051680&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
 Además, les dejamos el archivo para que lo descarguen directamente:
-&lt;strong&gt;
-&lt;a href=&#34;http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x15.mov&#34;&gt;Video&lt;/a&gt;
-&lt;/strong&gt;
-&lt;p&gt;Hemos venido disfrutando mucho de estos Dojo&amp;rsquo;s, te invitamos a que asistas al siguiente Dojo.&lt;/p&gt;
-&lt;p&gt;Mantente atento y esperalo.&lt;/p&gt;
-</description>
-        </item>
-        
-    </channel>
-</rss>
+&lt;strong>
+&lt;a href="http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x15.mov">Video&lt;/a>
+&lt;/strong>
+&lt;p>Hemos venido disfrutando mucho de estos Dojo&amp;rsquo;s, te invitamos a que asistas al siguiente Dojo.&lt;/p>
+&lt;p>Mantente atento y esperalo.&lt;/p></description></item></channel></rss>

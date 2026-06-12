@@ -1,91 +1,62 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Ceylon on ViveCodigo.org</title>
-        <link>https://vivecodigo.org/tags/ceylon/</link>
-        <description>Recent content in Ceylon on ViveCodigo.org</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>es-mx</language>
-        <copyright>MakingDevs</copyright>
-        <lastBuildDate>Thu, 15 Aug 2013 18:31:43 -0500</lastBuildDate><atom:link href="https://vivecodigo.org/tags/ceylon/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Episodio 1 de la temporada 1 – Ceylon con @chochosmx</title>
-        <link>https://vivecodigo.org/blog/2013/08/15/episodio-1-de-la-temporada-1-ceylon-con-@chochosmx/</link>
-        <pubDate>Thu, 15 Aug 2013 18:31:43 -0500</pubDate>
-        
-        <guid>https://vivecodigo.org/blog/2013/08/15/episodio-1-de-la-temporada-1-ceylon-con-@chochosmx/</guid>
-        <description>&lt;img src="https://vivecodigo.org/images/covers/2015-08-15-episodio-1-de-la-temporada-1-ceylon-con-at-chochosmx.svg" alt="Featured image of post Episodio 1 de la temporada 1 – Ceylon con @chochosmx" /&gt;&lt;p&gt;¡Hola que tal!&lt;/p&gt;
-&lt;p&gt;Nuevo episodio de la nueva temporada de ViveCodigo la temporada 01 en esta ocasión el capitulo 01, en la cual tuvimos el gusto de entrevistar a nuestro compañero Enrique Zamudio - @chochosmx. Un gran desarrollador con muchos años de experiencia y uno de  los contribuidores del lenguaje Ceylon, nos comparte como incluso a estas alturas de su carrera el sigue aprendiendo y enfrentando retos que no había enfrentado antes.&lt;/p&gt;
-&lt;p&gt;Disfruten esta amena entrevista sobre  Ceylon, un lenguaje que corre sobre la JVM y que nos ofrece características de tipado estático muy interesante, sin duda un grata charla y una demo en la cual nos da una serie de ejemplos del funcionamiento de Ceylon.&lt;/p&gt;
-&lt;p&gt;¡Espero lo disfruten! y apreciamos mucho cualquier comentario que nos puedan dejar, pronto mas capítulos de la temporada 01.&lt;/p&gt;
-&lt;p&gt;Primera parte de la entrevista:&lt;/p&gt;
-&lt;iframe src=&#34;https://player.vimeo.com/video/72417851&#34; height=&#34;281&#34; width=&#34;500&#34; allowfullscreen=&#34;&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
-&lt;!-- more --&gt;
-&lt;a href=&#34;http://vimeo.com/72417851&#34;&gt;ViveCodigo 01x01 - Ceylon con Enrique Zamudio&lt;/a&gt; from &lt;a href=&#34;http://vimeo.com/makingdevs&#34;&gt;MakingDevs&lt;/a&gt; on &lt;a href=&#34;https://vimeo.com&#34;&gt;Vimeo&lt;/a&gt;.
-&lt;p&gt;Segunda parte de la entrevista:&lt;/p&gt;
-&lt;iframe src=&#34;https://player.vimeo.com/video/72448505&#34; height=&#34;281&#34; width=&#34;500&#34; allowfullscreen=&#34;&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href=&#34;http://vimeo.com/72448505&#34;&gt;ViveCodigo 01x01 - Ceylon Demo&lt;/a&gt; from &lt;a href=&#34;http://vimeo.com/makingdevs&#34;&gt;MakingDevs&lt;/a&gt; on &lt;a href=&#34;https://vimeo.com&#34;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Atras de cameras en ViveCodigo.org:&lt;/p&gt;
-&lt;iframe src=&#34;https://player.vimeo.com/video/72819280&#34; height=&#34;281&#34; width=&#34;500&#34; allowfullscreen=&#34;&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href=&#34;http://vimeo.com/72819280&#34;&gt;Ceylon AtrasDeCamaras&lt;/a&gt; from &lt;a href=&#34;http://vimeo.com/makingdevs&#34;&gt;MakingDevs&lt;/a&gt; on &lt;a href=&#34;https://vimeo.com&#34;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;p&gt;Se pueden suscribir al &lt;a href=&#34;http://vivecodigo.org/feed.xml&#34;&gt;feed&lt;/a&gt; de ViveCodigo.org o encuentranos en iTunes como: &lt;a href=&#34;https://itunes.apple.com/ca/podcast/vivecodigo.org-videocast/id685052596&#34;&gt;ViveCodigo.org - VideoCast&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;p&gt;Fuentes:&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://ceylon-lang.org&#34;&gt;&lt;b&gt;ceylon&lt;/b&gt;-lang.org&lt;/a&gt; - Ceylon&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://try.ceylon-lang.org&#34;&gt;&lt;b&gt;try&lt;/b&gt;.&lt;b&gt;ceylon&lt;/b&gt;-lang.org&lt;/a&gt; - Ceylon Web Runner&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/ceylon&#34;&gt;https://&lt;b&gt;github&lt;/b&gt;.com/&lt;/a&gt;&lt;b&gt;&lt;a href=&#34;https://github.com/ceylon&#34;&gt;ceylon&lt;/a&gt; - &lt;/b&gt;Github de Ceylon&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/ceylon&#34;&gt;&lt;cite&gt;https://&lt;b&gt;github&lt;/b&gt;.com/&lt;b&gt;chochos&lt;/b&gt;&lt;/cite&gt;‎&lt;/a&gt; - Github de Enrique Zamudio&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.youtube.com/watch?v=F97VD0di1tE&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;http://www.youtube.com/watch?v=F97VD0di1tE&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;http://www.youtube.com/watch?v=F97VD0di1tE&lt;/a&gt;&lt;/a&gt; - Video de &lt;a dir=&#34;ltr&#34; href=&#34;http://www.youtube.com/user/campusparty?feature=watch&#34; data-sessionlink=&#34;feature=watch&amp;amp;ei=v2MNUo7sA7DggwKfh4HoCA&#34;&gt;campusparty&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>Podcast 0 de la temporada 0</title>
-        <link>https://vivecodigo.org/blog/2011/04/21/podcast-0-de-la-temporada-0/</link>
-        <pubDate>Thu, 21 Apr 2011 19:45:03 -0500</pubDate>
-        
-        <guid>https://vivecodigo.org/blog/2011/04/21/podcast-0-de-la-temporada-0/</guid>
-        <description>&lt;img src="https://vivecodigo.org/images/covers/2015-08-15-podcast-0-de-la-temporada-0.svg" alt="Featured image of post Podcast 0 de la temporada 0" /&gt;&lt;p&gt;En esta primera emisión les damos la más cordial bienvenida a este proyecto&amp;hellip;&lt;/p&gt;
-&lt;p&gt;Las notas que comentamos durante el podcast son las siguientes:&lt;/p&gt;
-&lt;div&gt;
-&lt;ul id=&#34;internal-source-marker_0.6223568611312658&#34;&gt;
-  &lt;li&gt;Ceylon JVM Language
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&#34;http://www.infoq.com/news/2011/04/ceylon&#34;&gt;http://www.infoq.com/news/2011/04/ceylon&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&#34;http://devstonez.wordpress.com/2011/04/13/introducing-the-ceylon-project-gavin-king-presentation-at-qcon-beijing-2011/&#34;&gt;http://devstonez.wordpress.com/2011/04/13/introducing-the-ceylon-project-gavin-king-presentation-at-qcon-beijing-2011/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-  &lt;li&gt;Cloud Foundry for Spring Developers
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&#34;http://blog.springsource.com/2011/04/12/cloud-foundry-for-spring-developers/&#34;&gt;http://blog.springsource.com/2011/04/12/cloud-foundry-for-spring-developers&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&#34;http://blog.springsource.com/2011/04/12/launching-cloud-foundry/&#34;&gt;http://blog.springsource.com/2011/04/12/launching-cloud-foundry/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;!-- more --&gt;
-Y el tema principal es acerca del uso de un par de plugins de &lt;strong&gt;jquery&lt;/strong&gt;:
-&lt;ul&gt;
-  &lt;li&gt;Plugins de graficación
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&#34;http://sixrevisions.com/javascript/20-fresh-javascript-data-visualization-libraries/&#34;&gt;http://sixrevisions.com/javascript/20-fresh-javascript-data-visualization-libraries/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-  &lt;li&gt;Los mejores 10 plugins del 2010
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&#34;http://www.newsticker88.com/10-best-jquery-plugins-of-2010/1945/&#34;&gt;http://www.newsticker88.com/10-best-jquery-plugins-of-2010/1945/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-Se pueden suscribir al &lt;strong&gt;&lt;a href=&#34;http://vivecodigo.org/feed.xml&#34;&gt;feed&lt;/a&gt;&lt;/strong&gt; o descargarlo directamente desde &lt;strong&gt;&lt;a href=&#34;http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x00_low.mov&#34;&gt;aquí&lt;/a&gt;&lt;/strong&gt;...
-&lt;p&gt;&lt;strong&gt;Esperemos que sea de su agrado&amp;hellip;&lt;/strong&gt;&lt;/p&gt;
-&lt;iframe src=&#34;https://player.vimeo.com/video/22732462&#34; width=&#34;540&#34; height=&#34;304&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
-&lt;strong&gt;
-&lt;/strong&gt;
-</description>
-        </item>
-        
-    </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ceylon on ViveCodigo.org</title><link>https://vivecodigo.org/tags/ceylon/</link><description>Recent content in Ceylon on ViveCodigo.org</description><generator>Hugo -- gohugo.io</generator><language>es-mx</language><copyright>MakingDevs</copyright><lastBuildDate>Thu, 15 Aug 2013 18:31:43 -0500</lastBuildDate><atom:link href="https://vivecodigo.org/tags/ceylon/index.xml" rel="self" type="application/rss+xml"/><item><title>Episodio 1 de la temporada 1 – Ceylon con @chochosmx</title><link>https://vivecodigo.org/blog/2013/08/15/episodio-1-de-la-temporada-1-ceylon-con-@chochosmx/</link><pubDate>Thu, 15 Aug 2013 18:31:43 -0500</pubDate><guid>https://vivecodigo.org/blog/2013/08/15/episodio-1-de-la-temporada-1-ceylon-con-@chochosmx/</guid><description>&lt;img src="https://vivecodigo.org/images/covers/2015-08-15-episodio-1-de-la-temporada-1-ceylon-con-at-chochosmx.svg" alt="Featured image of post Episodio 1 de la temporada 1 – Ceylon con @chochosmx" />&lt;p>¡Hola que tal!&lt;/p>
+&lt;p>Nuevo episodio de la nueva temporada de ViveCodigo la temporada 01 en esta ocasión el capitulo 01, en la cual tuvimos el gusto de entrevistar a nuestro compañero Enrique Zamudio - @chochosmx. Un gran desarrollador con muchos años de experiencia y uno de  los contribuidores del lenguaje Ceylon, nos comparte como incluso a estas alturas de su carrera el sigue aprendiendo y enfrentando retos que no había enfrentado antes.&lt;/p>
+&lt;p>Disfruten esta amena entrevista sobre  Ceylon, un lenguaje que corre sobre la JVM y que nos ofrece características de tipado estático muy interesante, sin duda un grata charla y una demo en la cual nos da una serie de ejemplos del funcionamiento de Ceylon.&lt;/p>
+&lt;p>¡Espero lo disfruten! y apreciamos mucho cualquier comentario que nos puedan dejar, pronto mas capítulos de la temporada 01.&lt;/p>
+&lt;p>Primera parte de la entrevista:&lt;/p>
+&lt;iframe src="https://player.vimeo.com/video/72417851" height="281" width="500" allowfullscreen="" frameborder="0">&lt;/iframe>
+&lt;!-- more -->
+&lt;a href="http://vimeo.com/72417851">ViveCodigo 01x01 - Ceylon con Enrique Zamudio&lt;/a> from &lt;a href="http://vimeo.com/makingdevs">MakingDevs&lt;/a> on &lt;a href="https://vimeo.com">Vimeo&lt;/a>.
+&lt;p>Segunda parte de la entrevista:&lt;/p>
+&lt;iframe src="https://player.vimeo.com/video/72448505" height="281" width="500" allowfullscreen="" frameborder="0">&lt;/iframe>
+&lt;p>&lt;a href="http://vimeo.com/72448505">ViveCodigo 01x01 - Ceylon Demo&lt;/a> from &lt;a href="http://vimeo.com/makingdevs">MakingDevs&lt;/a> on &lt;a href="https://vimeo.com">Vimeo&lt;/a>.&lt;/p>
+&lt;p>Atras de cameras en ViveCodigo.org:&lt;/p>
+&lt;iframe src="https://player.vimeo.com/video/72819280" height="281" width="500" allowfullscreen="" frameborder="0">&lt;/iframe>
+&lt;p>&lt;a href="http://vimeo.com/72819280">Ceylon AtrasDeCamaras&lt;/a> from &lt;a href="http://vimeo.com/makingdevs">MakingDevs&lt;/a> on &lt;a href="https://vimeo.com">Vimeo&lt;/a>.&lt;/p>
+&lt;p> &lt;/p>
+&lt;p>Se pueden suscribir al &lt;a href="http://vivecodigo.org/feed.xml">feed&lt;/a> de ViveCodigo.org o encuentranos en iTunes como: &lt;a href="https://itunes.apple.com/ca/podcast/vivecodigo.org-videocast/id685052596">ViveCodigo.org - VideoCast&lt;/a>&lt;/p>
+&lt;p> &lt;/p>
+&lt;p> &lt;/p>
+&lt;p>Fuentes:&lt;/p>
+&lt;p>&lt;a href="http://ceylon-lang.org">&lt;b>ceylon&lt;/b>-lang.org&lt;/a> - Ceylon&lt;/p>
+&lt;p>&lt;a href="http://try.ceylon-lang.org">&lt;b>try&lt;/b>.&lt;b>ceylon&lt;/b>-lang.org&lt;/a> - Ceylon Web Runner&lt;/p>
+&lt;p>&lt;a href="https://github.com/ceylon">https://&lt;b>github&lt;/b>.com/&lt;/a>&lt;b>&lt;a href="https://github.com/ceylon">ceylon&lt;/a> - &lt;/b>Github de Ceylon&lt;/p>
+&lt;p>&lt;a href="https://github.com/ceylon">&lt;cite>https://&lt;b>github&lt;/b>.com/&lt;b>chochos&lt;/b>&lt;/cite>‎&lt;/a> - Github de Enrique Zamudio&lt;/p>
+&lt;p>&lt;a href="http://www.youtube.com/watch?v=F97VD0di1tE">&lt;a class="link" href="http://www.youtube.com/watch?v=F97VD0di1tE" target="_blank" rel="noopener"
+>http://www.youtube.com/watch?v=F97VD0di1tE&lt;/a>&lt;/a> - Video de &lt;a dir="ltr" href="http://www.youtube.com/user/campusparty?feature=watch" data-sessionlink="feature=watch&amp;amp;ei=v2MNUo7sA7DggwKfh4HoCA">campusparty&lt;/a>&lt;/p>
+&lt;p> &lt;/p></description></item><item><title>Podcast 0 de la temporada 0</title><link>https://vivecodigo.org/blog/2011/04/21/podcast-0-de-la-temporada-0/</link><pubDate>Thu, 21 Apr 2011 19:45:03 -0500</pubDate><guid>https://vivecodigo.org/blog/2011/04/21/podcast-0-de-la-temporada-0/</guid><description>&lt;img src="https://vivecodigo.org/images/covers/2015-08-15-podcast-0-de-la-temporada-0.svg" alt="Featured image of post Podcast 0 de la temporada 0" />&lt;p>En esta primera emisión les damos la más cordial bienvenida a este proyecto&amp;hellip;&lt;/p>
+&lt;p>Las notas que comentamos durante el podcast son las siguientes:&lt;/p>
+&lt;div>
+&lt;ul id="internal-source-marker_0.6223568611312658">
+&lt;li>Ceylon JVM Language
+&lt;ul>
+&lt;li>&lt;a href="http://www.infoq.com/news/2011/04/ceylon">http://www.infoq.com/news/2011/04/ceylon&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://devstonez.wordpress.com/2011/04/13/introducing-the-ceylon-project-gavin-king-presentation-at-qcon-beijing-2011/">http://devstonez.wordpress.com/2011/04/13/introducing-the-ceylon-project-gavin-king-presentation-at-qcon-beijing-2011/&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Cloud Foundry for Spring Developers
+&lt;ul>
+&lt;li>&lt;a href="http://blog.springsource.com/2011/04/12/cloud-foundry-for-spring-developers/">http://blog.springsource.com/2011/04/12/cloud-foundry-for-spring-developers&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://blog.springsource.com/2011/04/12/launching-cloud-foundry/">http://blog.springsource.com/2011/04/12/launching-cloud-foundry/&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;!-- more -->
+Y el tema principal es acerca del uso de un par de plugins de &lt;strong>jquery&lt;/strong>:
+&lt;ul>
+&lt;li>Plugins de graficación
+&lt;ul>
+&lt;li>&lt;a href="http://sixrevisions.com/javascript/20-fresh-javascript-data-visualization-libraries/">http://sixrevisions.com/javascript/20-fresh-javascript-data-visualization-libraries/&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Los mejores 10 plugins del 2010
+&lt;ul>
+&lt;li>&lt;a href="http://www.newsticker88.com/10-best-jquery-plugins-of-2010/1945/">http://www.newsticker88.com/10-best-jquery-plugins-of-2010/1945/&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+Se pueden suscribir al &lt;strong>&lt;a href="http://vivecodigo.org/feed.xml">feed&lt;/a>&lt;/strong> o descargarlo directamente desde &lt;strong>&lt;a href="http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x00_low.mov">aquí&lt;/a>&lt;/strong>...
+&lt;p>&lt;strong>Esperemos que sea de su agrado&amp;hellip;&lt;/strong>&lt;/p>
+&lt;iframe src="https://player.vimeo.com/video/22732462" width="540" height="304" frameborder="0">&lt;/iframe>
+&lt;strong>
+&lt;/strong></description></item></channel></rss>

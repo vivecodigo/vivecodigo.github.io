@@ -1,64 +1,44 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Elixir on ViveCodigo.org</title>
-        <link>https://vivecodigo.org/tags/elixir/</link>
-        <description>Recent content in Elixir on ViveCodigo.org</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>es-mx</language>
-        <copyright>MakingDevs</copyright>
-        <lastBuildDate>Thu, 01 Aug 2013 17:00:18 -0500</lastBuildDate><atom:link href="https://vivecodigo.org/tags/elixir/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Episodio 0 de la temporada 1 - Elixir con @hiphoox</title>
-        <link>https://vivecodigo.org/blog/2013/08/01/episodio-0-de-la-temporada-1-elixir-con-@hiphoox/</link>
-        <pubDate>Thu, 01 Aug 2013 17:00:18 -0500</pubDate>
-        
-        <guid>https://vivecodigo.org/blog/2013/08/01/episodio-0-de-la-temporada-1-elixir-con-@hiphoox/</guid>
-        <description>&lt;img src="https://vivecodigo.org/images/covers/2015-08-15-episodio-0-de-la-temporada-1-elixir-con-at-hiphoox.svg" alt="Featured image of post Episodio 0 de la temporada 1 - Elixir con @hiphoox" /&gt;&lt;p&gt;Hola a todos!&lt;/p&gt;
-&lt;p&gt;Les traigo la nueva temporada de ViveCodigo la temporada 01 en esta ocasión el capitulo 00 en el cual entrevistamos a nuestro amigo Norberto Ortigoza - @hiphoox. Que a parte de ser un gran conocedor de ruby, smalltalk y Objective-C, tiene una carrera profesional prominente. Nos platico su trayectoria como desarrollador de software, como alguna empresas en las cuales a colaborado Sun Macrosystem, DGSCA, así como trabajos en los cuales se ha desenvuelto como administrador de Oracle, procesos, pruebas. También nos platica que actividades se encuentra desarrollando en la actualidad como cursos así como el curso de RubyMotion.&lt;/p&gt;
-&lt;p&gt;Posteriormente nos platica de Elixir, un lenguaje de programación basado en Erlang y nos introduce los conceptos que rigen al lenguaje dando muestra de su gran capacidad, Nos habla profundamente del dicho lenguaje ademas su funcionalidad y su gran capacidad gracias a que esta basado en Erlang. En la segunda parte de la platica Norberto nos da una serie de ejemplo y mas que ejemplo nos muestra como trabaja elixir y Nos muestra algo muy interessante de Erlang .&lt;/p&gt;
-&lt;p&gt;¡Espero lo disfruten! y apreciamos mucho cualquier comentario que nos puedan dejar, pronto mas capítulos de la temporada 01 y esperen las sorpresas que ViveCodigo nos traerá.&lt;/p&gt;
-&lt;iframe src=&#34;https://player.vimeo.com/video/71478527&#34; height=&#34;281&#34; width=&#34;500&#34; allowfullscreen=&#34;&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
-&lt;!-- more --&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Elixir on ViveCodigo.org</title><link>https://vivecodigo.org/tags/elixir/</link><description>Recent content in Elixir on ViveCodigo.org</description><generator>Hugo -- gohugo.io</generator><language>es-mx</language><copyright>MakingDevs</copyright><lastBuildDate>Thu, 01 Aug 2013 17:00:18 -0500</lastBuildDate><atom:link href="https://vivecodigo.org/tags/elixir/index.xml" rel="self" type="application/rss+xml"/><item><title>Episodio 0 de la temporada 1 - Elixir con @hiphoox</title><link>https://vivecodigo.org/blog/2013/08/01/episodio-0-de-la-temporada-1-elixir-con-@hiphoox/</link><pubDate>Thu, 01 Aug 2013 17:00:18 -0500</pubDate><guid>https://vivecodigo.org/blog/2013/08/01/episodio-0-de-la-temporada-1-elixir-con-@hiphoox/</guid><description>&lt;img src="https://vivecodigo.org/images/covers/2015-08-15-episodio-0-de-la-temporada-1-elixir-con-at-hiphoox.svg" alt="Featured image of post Episodio 0 de la temporada 1 - Elixir con @hiphoox" />&lt;p>Hola a todos!&lt;/p>
+&lt;p>Les traigo la nueva temporada de ViveCodigo la temporada 01 en esta ocasión el capitulo 00 en el cual entrevistamos a nuestro amigo Norberto Ortigoza - @hiphoox. Que a parte de ser un gran conocedor de ruby, smalltalk y Objective-C, tiene una carrera profesional prominente. Nos platico su trayectoria como desarrollador de software, como alguna empresas en las cuales a colaborado Sun Macrosystem, DGSCA, así como trabajos en los cuales se ha desenvuelto como administrador de Oracle, procesos, pruebas. También nos platica que actividades se encuentra desarrollando en la actualidad como cursos así como el curso de RubyMotion.&lt;/p>
+&lt;p>Posteriormente nos platica de Elixir, un lenguaje de programación basado en Erlang y nos introduce los conceptos que rigen al lenguaje dando muestra de su gran capacidad, Nos habla profundamente del dicho lenguaje ademas su funcionalidad y su gran capacidad gracias a que esta basado en Erlang. En la segunda parte de la platica Norberto nos da una serie de ejemplo y mas que ejemplo nos muestra como trabaja elixir y Nos muestra algo muy interessante de Erlang .&lt;/p>
+&lt;p>¡Espero lo disfruten! y apreciamos mucho cualquier comentario que nos puedan dejar, pronto mas capítulos de la temporada 01 y esperen las sorpresas que ViveCodigo nos traerá.&lt;/p>
+&lt;iframe src="https://player.vimeo.com/video/71478527" height="281" width="500" allowfullscreen="" frameborder="0">&lt;/iframe>
+&lt;!-- more -->
 Segunda Parte:
-&lt;iframe src=&#34;https://player.vimeo.com/video/71536087&#34; height=&#34;281&#34; width=&#34;500&#34; allowfullscreen=&#34;&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href=&#34;http://vimeo.com/71536087&#34;&gt;ViveCodigo 00x01 - Elixir&lt;/a&gt; from &lt;a href=&#34;http://vimeo.com/makingdevs&#34;&gt;MakingDevs&lt;/a&gt; on &lt;a href=&#34;https://vimeo.com&#34;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Ligas que nos proporciono Norberto Ortigoza sobre Elixir:&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://benjamintanweihao.github.io/blog/2013/06/08/why-my-next-programming-language-is-elixir/&#34; target=&#34;_blank&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;http://benjamintanweihao.github.io/blog/2013/06/08/why-my-next-programming-language-is-elixir/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;http://benjamintanweihao.github.io/blog/2013/06/08/why-my-next-programming-language-is-elixir/&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Elixir, A modern approach to programming for the Erlang VM
-&lt;a href=&#34;http://vimeo.com/53221562&#34; target=&#34;_blank&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;http://vimeo.com/53221562&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;http://vimeo.com/53221562&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Introduction to Elixir
-&lt;a href=&#34;http://www.youtube.com/watch?v=a-off4Vznjs&amp;amp;feature=youtu.be&#34; target=&#34;_blank&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;http://www.youtube.com/watch?v=a-off4Vznjs&amp;amp;amp;feature=youtu.be&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;http://www.youtube.com/watch?v=a-off4Vznjs&amp;amp;feature=youtu.be&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://benjamintanweihao.github.io/blog/2013/06/13/elixir-for-the-lazy-impatient-and-busy-lists-and-recursion/&#34; target=&#34;_blank&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;http://benjamintanweihao.github.io/blog/2013/06/13/elixir-for-the-lazy-impatient-and-busy-lists-and-recursion/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;http://benjamintanweihao.github.io/blog/2013/06/13/elixir-for-the-lazy-impatient-and-busy-lists-and-recursion/&lt;/a&gt;&lt;/a&gt;
-&lt;a href=&#34;http://benjamintanweihao.github.io/blog/2013/06/25/elixir-for-the-lazy-impatient-and-busy-part-2-processes-101/&#34; target=&#34;_blank&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;http://benjamintanweihao.github.io/blog/2013/06/25/elixir-for-the-lazy-impatient-and-busy-part-2-processes-101/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;http://benjamintanweihao.github.io/blog/2013/06/25/elixir-for-the-lazy-impatient-and-busy-part-2-processes-101/&lt;/a&gt;&lt;/a&gt;
-&lt;a href=&#34;http://benjamintanweihao.github.io/blog/2013/07/04/elixir-for-the-lazy-impatient-and-busy-part-3-processes-101/&#34; target=&#34;_blank&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;http://benjamintanweihao.github.io/blog/2013/07/04/elixir-for-the-lazy-impatient-and-busy-part-3-processes-101/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;http://benjamintanweihao.github.io/blog/2013/07/04/elixir-for-the-lazy-impatient-and-busy-part-3-processes-101/&lt;/a&gt;&lt;/a&gt;
-&lt;a href=&#34;http://benjamintanweihao.github.io/blog/2013/07/13/elixir-for-the-lazy-impatient-and-busy-part-4-processes-101/&#34; target=&#34;_blank&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;http://benjamintanweihao.github.io/blog/2013/07/13/elixir-for-the-lazy-impatient-and-busy-part-4-processes-101/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;http://benjamintanweihao.github.io/blog/2013/07/13/elixir-for-the-lazy-impatient-and-busy-part-4-processes-101/&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://peepcode.com/products/elixir&#34; target=&#34;_blank&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;https://peepcode.com/products/elixir&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://peepcode.com/products/elixir&lt;/a&gt;&lt;/a&gt;
-&lt;a href=&#34;http://peepcode.com/blog/2013/elixir-is-for-programmers&#34; target=&#34;_blank&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;http://peepcode.com/blog/2013/elixir-is-for-programmers&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;http://peepcode.com/blog/2013/elixir-is-for-programmers&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://devintorr.es/blog/2013/01/22/the-excitement-of-elixir/&#34; target=&#34;_blank&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;http://devintorr.es/blog/2013/01/22/the-excitement-of-elixir/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;http://devintorr.es/blog/2013/01/22/the-excitement-of-elixir/&lt;/a&gt;&lt;/a&gt;
-&lt;a href=&#34;http://devintorr.es/blog/2013/06/11/elixir-its-not-about-syntax/&#34; target=&#34;_blank&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;http://devintorr.es/blog/2013/06/11/elixir-its-not-about-syntax/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;http://devintorr.es/blog/2013/06/11/elixir-its-not-about-syntax/&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://blog.alexrp.com/2013/02/14/elixir-isnt-hipster/&#34; target=&#34;_blank&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;http://blog.alexrp.com/2013/02/14/elixir-isnt-hipster/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;http://blog.alexrp.com/2013/02/14/elixir-isnt-hipster/&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.theerlangelist.com/2013_01_01_archive.html&#34; target=&#34;_blank&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;http://www.theerlangelist.com/2013_01_01_archive.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;http://www.theerlangelist.com/2013_01_01_archive.html&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://erlangonxen.org/case/a-zero-footprint-cloud&#34; target=&#34;_blank&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;http://erlangonxen.org/case/a-zero-footprint-cloud&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;http://erlangonxen.org/case/a-zero-footprint-cloud&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://joearms.github.io/2013/05/31/a-week-with-elixir.html&#34; target=&#34;_blank&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;http://joearms.github.io/2013/05/31/a-week-with-elixir.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;http://joearms.github.io/2013/05/31/a-week-with-elixir.html&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://pragprog.com/book/elixir/programming-elixir&#34; target=&#34;_blank&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;http://pragprog.com/book/elixir/programming-elixir&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;http://pragprog.com/book/elixir/programming-elixir&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
-        </item>
-        
-    </channel>
-</rss>
+&lt;iframe src="https://player.vimeo.com/video/71536087" height="281" width="500" allowfullscreen="" frameborder="0">&lt;/iframe>
+&lt;p>&lt;a href="http://vimeo.com/71536087">ViveCodigo 00x01 - Elixir&lt;/a> from &lt;a href="http://vimeo.com/makingdevs">MakingDevs&lt;/a> on &lt;a href="https://vimeo.com">Vimeo&lt;/a>.&lt;/p>
+&lt;p>Ligas que nos proporciono Norberto Ortigoza sobre Elixir:&lt;/p>
+&lt;p>&lt;a href="http://benjamintanweihao.github.io/blog/2013/06/08/why-my-next-programming-language-is-elixir/" target="_blank">&lt;a class="link" href="http://benjamintanweihao.github.io/blog/2013/06/08/why-my-next-programming-language-is-elixir/" target="_blank" rel="noopener"
+>http://benjamintanweihao.github.io/blog/2013/06/08/why-my-next-programming-language-is-elixir/&lt;/a>&lt;/a>&lt;/p>
+&lt;p>Elixir, A modern approach to programming for the Erlang VM
+&lt;a href="http://vimeo.com/53221562" target="_blank">&lt;a class="link" href="http://vimeo.com/53221562" target="_blank" rel="noopener"
+>http://vimeo.com/53221562&lt;/a>&lt;/a>&lt;/p>
+&lt;p>Introduction to Elixir
+&lt;a href="http://www.youtube.com/watch?v=a-off4Vznjs&amp;amp;feature=youtu.be" target="_blank">&lt;a class="link" href="http://www.youtube.com/watch?v=a-off4Vznjs&amp;amp;amp;feature=youtu.be" target="_blank" rel="noopener"
+>http://www.youtube.com/watch?v=a-off4Vznjs&amp;amp;feature=youtu.be&lt;/a>&lt;/a>&lt;/p>
+&lt;p>&lt;a href="http://benjamintanweihao.github.io/blog/2013/06/13/elixir-for-the-lazy-impatient-and-busy-lists-and-recursion/" target="_blank">&lt;a class="link" href="http://benjamintanweihao.github.io/blog/2013/06/13/elixir-for-the-lazy-impatient-and-busy-lists-and-recursion/" target="_blank" rel="noopener"
+>http://benjamintanweihao.github.io/blog/2013/06/13/elixir-for-the-lazy-impatient-and-busy-lists-and-recursion/&lt;/a>&lt;/a>
+&lt;a href="http://benjamintanweihao.github.io/blog/2013/06/25/elixir-for-the-lazy-impatient-and-busy-part-2-processes-101/" target="_blank">&lt;a class="link" href="http://benjamintanweihao.github.io/blog/2013/06/25/elixir-for-the-lazy-impatient-and-busy-part-2-processes-101/" target="_blank" rel="noopener"
+>http://benjamintanweihao.github.io/blog/2013/06/25/elixir-for-the-lazy-impatient-and-busy-part-2-processes-101/&lt;/a>&lt;/a>
+&lt;a href="http://benjamintanweihao.github.io/blog/2013/07/04/elixir-for-the-lazy-impatient-and-busy-part-3-processes-101/" target="_blank">&lt;a class="link" href="http://benjamintanweihao.github.io/blog/2013/07/04/elixir-for-the-lazy-impatient-and-busy-part-3-processes-101/" target="_blank" rel="noopener"
+>http://benjamintanweihao.github.io/blog/2013/07/04/elixir-for-the-lazy-impatient-and-busy-part-3-processes-101/&lt;/a>&lt;/a>
+&lt;a href="http://benjamintanweihao.github.io/blog/2013/07/13/elixir-for-the-lazy-impatient-and-busy-part-4-processes-101/" target="_blank">&lt;a class="link" href="http://benjamintanweihao.github.io/blog/2013/07/13/elixir-for-the-lazy-impatient-and-busy-part-4-processes-101/" target="_blank" rel="noopener"
+>http://benjamintanweihao.github.io/blog/2013/07/13/elixir-for-the-lazy-impatient-and-busy-part-4-processes-101/&lt;/a>&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://peepcode.com/products/elixir" target="_blank">&lt;a class="link" href="https://peepcode.com/products/elixir" target="_blank" rel="noopener"
+>https://peepcode.com/products/elixir&lt;/a>&lt;/a>
+&lt;a href="http://peepcode.com/blog/2013/elixir-is-for-programmers" target="_blank">&lt;a class="link" href="http://peepcode.com/blog/2013/elixir-is-for-programmers" target="_blank" rel="noopener"
+>http://peepcode.com/blog/2013/elixir-is-for-programmers&lt;/a>&lt;/a>&lt;/p>
+&lt;p>&lt;a href="http://devintorr.es/blog/2013/01/22/the-excitement-of-elixir/" target="_blank">&lt;a class="link" href="http://devintorr.es/blog/2013/01/22/the-excitement-of-elixir/" target="_blank" rel="noopener"
+>http://devintorr.es/blog/2013/01/22/the-excitement-of-elixir/&lt;/a>&lt;/a>
+&lt;a href="http://devintorr.es/blog/2013/06/11/elixir-its-not-about-syntax/" target="_blank">&lt;a class="link" href="http://devintorr.es/blog/2013/06/11/elixir-its-not-about-syntax/" target="_blank" rel="noopener"
+>http://devintorr.es/blog/2013/06/11/elixir-its-not-about-syntax/&lt;/a>&lt;/a>&lt;/p>
+&lt;p>&lt;a href="http://blog.alexrp.com/2013/02/14/elixir-isnt-hipster/" target="_blank">&lt;a class="link" href="http://blog.alexrp.com/2013/02/14/elixir-isnt-hipster/" target="_blank" rel="noopener"
+>http://blog.alexrp.com/2013/02/14/elixir-isnt-hipster/&lt;/a>&lt;/a>&lt;/p>
+&lt;p>&lt;a href="http://www.theerlangelist.com/2013_01_01_archive.html" target="_blank">&lt;a class="link" href="http://www.theerlangelist.com/2013_01_01_archive.html" target="_blank" rel="noopener"
+>http://www.theerlangelist.com/2013_01_01_archive.html&lt;/a>&lt;/a>&lt;/p>
+&lt;p>&lt;a href="http://erlangonxen.org/case/a-zero-footprint-cloud" target="_blank">&lt;a class="link" href="http://erlangonxen.org/case/a-zero-footprint-cloud" target="_blank" rel="noopener"
+>http://erlangonxen.org/case/a-zero-footprint-cloud&lt;/a>&lt;/a>&lt;/p>
+&lt;p>&lt;a href="http://joearms.github.io/2013/05/31/a-week-with-elixir.html" target="_blank">&lt;a class="link" href="http://joearms.github.io/2013/05/31/a-week-with-elixir.html" target="_blank" rel="noopener"
+>http://joearms.github.io/2013/05/31/a-week-with-elixir.html&lt;/a>&lt;/a>&lt;/p>
+&lt;p>&lt;a href="http://pragprog.com/book/elixir/programming-elixir" target="_blank">&lt;a class="link" href="http://pragprog.com/book/elixir/programming-elixir" target="_blank" rel="noopener"
+>http://pragprog.com/book/elixir/programming-elixir&lt;/a>&lt;/a>&lt;/p></description></item></channel></rss>
