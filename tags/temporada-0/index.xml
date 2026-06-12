@@ -1,0 +1,687 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Temporada-0 on ViveCodigo.org</title>
+        <link>https://vivecodigo.org/tags/temporada-0/</link>
+        <description>Recent content in Temporada-0 on ViveCodigo.org</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>es-mx</language>
+        <copyright>MakingDevs</copyright>
+        <lastBuildDate>Mon, 30 Apr 2012 15:20:52 -0500</lastBuildDate><atom:link href="https://vivecodigo.org/tags/temporada-0/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Episodio Final de la temporada 0</title>
+        <link>https://vivecodigo.org/blog/2012/04/30/episodio-final-de-la-temporada-0/</link>
+        <pubDate>Mon, 30 Apr 2012 15:20:52 -0500</pubDate>
+        
+        <guid>https://vivecodigo.org/blog/2012/04/30/episodio-final-de-la-temporada-0/</guid>
+        <description>&lt;img src="https://vivecodigo.org/images/covers/2015-08-15-episodio-final-de-la-temporada-0.svg" alt="Featured image of post Episodio Final de la temporada 0" /&gt;&lt;p&gt;EOS = End of Season&lt;/p&gt;
+&lt;p&gt;Muchas gracias a todos los que descargaron los podcast, muchas gracias por sus comentarios y su asistencia.
+Gracias a los entrevistados por compartir su conocimiento, gracias a los asistentes a los Dojos por compartir su experiencia y participación, gracias a los patrocinadores y sobre todo gracias al público que nos demanda y nos hace mejores con sus comentarios.&lt;/p&gt;
+&lt;p&gt;En esta última emisión de esta temporada nos reunimos todos para platicar un poco de nuestra línea de tiempo en el desarrollo de software y algunas otras aficiones. Terminamos en un bar con algunas cervezas y alitas, rifando un par de libros y dos pases para &lt;strong&gt;&lt;a href=&#34;http://www.sg.com.mx/sgce/2012/&#34;&gt;Software Gurú Conferencia y Expo&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Sin lugar a dudas nos divertimos, sufrimos, compartimos, creamos, innovamos, en fin&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Que lo disfruten:&lt;/p&gt;
+&lt;iframe src=&#34;https://player.vimeo.com/video/41325296&#34; height=&#34;281&#34; width=&#34;500&#34; allowfullscreen=&#34;&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+</description>
+        </item>
+        <item>
+        <title>Episodio 17 de la temporada 0</title>
+        <link>https://vivecodigo.org/blog/2012/04/09/episodio-17-de-la-temporada-0/</link>
+        <pubDate>Mon, 09 Apr 2012 11:22:23 -0500</pubDate>
+        
+        <guid>https://vivecodigo.org/blog/2012/04/09/episodio-17-de-la-temporada-0/</guid>
+        <description>&lt;img src="https://vivecodigo.org/images/covers/2015-08-15-episodio-17-de-la-temporada-0.svg" alt="Featured image of post Episodio 17 de la temporada 0" /&gt;&lt;p&gt;Una gran emisión, que aunque es de audio tiene mucho que decir al respecto del framework Grails. De la voz de su creador &lt;a href=&#34;https://twitter.com/#!/graemerocher&#34;&gt;Graeme Rocher &lt;/a&gt;en entrevista con nosotros, quién nos concedió el gran honor de platicar un poco con él.&lt;/p&gt;
+&lt;p&gt;Respondiendo varias preguntas que le planteamos y saliéndonos un poco de un guión que daba para mucho más, sin embargo, para no extendernos y siendo sustancioso en la charla nos limitamos a que Graeme nos contestará la siguiente serie de preguntas:
+&lt;object width=&#34;400&#34; height=&#34;27&#34; classid=&#34;clsid:d27cdb6e-ae6d-11cf-96b8-444553540000&#34; codebase=&#34;http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0&#34;&gt;&lt;param name=&#34;src&#34; value=&#34;http://www.google.com/reader/ui/3523697345-audio-player.swf&#34; /&gt;&lt;param name=&#34;quality&#34; value=&#34;best&#34; /&gt;&lt;param name=&#34;flashvars&#34; value=&#34;audioUrl=http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x17.mp3&#34; /&gt;&lt;embed width=&#34;400&#34; height=&#34;27&#34; type=&#34;application/x-shockwave-flash&#34; src=&#34;http://www.google.com/reader/ui/3523697345-audio-player.swf&#34; quality=&#34;best&#34; flashvars=&#34;audioUrl=http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x17.mp3&#34; /&gt;&lt;/object&gt;&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Who is Graeme Rocher?&lt;/li&gt;
+  &lt;li&gt;We know you are the author of this framework called Grails, but we want to hear in your own words: what is grails?&lt;/li&gt;
+  &lt;li&gt;Can you tell us a little bit of the history of that time when you created grails?, what was you thinking or doing then? How do you saw the need for a framework like grails?&lt;/li&gt;
+  &lt;li&gt;What is the motivation to use grails?&lt;/li&gt;
+  &lt;li&gt;In your opinion, how is the adoption of grails in java developers?&lt;/li&gt;
+  &lt;li&gt;What do you think about the community around the world using,speaking and contributing to grails?&lt;/li&gt;
+  &lt;li&gt;Has you tried other languages on the jvm? Which ones?&lt;/li&gt;
+  &lt;li&gt;What are your favorite plugins?&lt;/li&gt;
+  &lt;li&gt;Who in the the industry of the technology inspires you?&lt;/li&gt;
+  &lt;li&gt;If you could go back in time and change a key decision in Grails&#39;design, what would it be?What tools are you using to develop grails?&lt;/li&gt;
+  &lt;li&gt;For you, what are the most exciting feature of grails?How can we contribute to grails?Some news about the definitive guide of grails 3d. Edition?&lt;/li&gt;
+  &lt;li&gt;I have some interest to know, which was your first programming language? And why you choosed?&lt;/li&gt;
+  &lt;li&gt;Grails, cloud computing, what it means for you?&lt;/li&gt;
+  &lt;li&gt;Who users of twitter are you following?&lt;/li&gt;
+  &lt;li&gt;Any thoughts you may want to share to the Mexican and LATAM grails community?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;!-- more --&gt;
+Sin lugar a dudas, una experiencia muy motivadora para quienes usan o piensan usar Grails como herramienta de desarrollo.
+</description>
+        </item>
+        <item>
+        <title>Episodio 16 de la temporada 0</title>
+        <link>https://vivecodigo.org/blog/2012/03/31/episodio-16-de-la-temporada-0/</link>
+        <pubDate>Sat, 31 Mar 2012 06:08:39 -0500</pubDate>
+        
+        <guid>https://vivecodigo.org/blog/2012/03/31/episodio-16-de-la-temporada-0/</guid>
+        <description>&lt;img src="https://vivecodigo.org/images/covers/2015-08-15-episodio-16-de-la-temporada-0.svg" alt="Featured image of post Episodio 16 de la temporada 0" /&gt;&lt;p&gt;Bienvenidos sean a este nuevo episodio de ViveCodigo, casi estamos por cerrar nuestra primera temporada y queremos darles otra perspectiva del podcast.&lt;/p&gt;
+&lt;iframe src=&#34;https://player.vimeo.com/video/39522331&#34; height=&#34;281&#34; width=&#34;500&#34; allowfullscreen=&#34;&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+&lt;!-- more --&gt;
+En esta ocasión nos sumergimos en una organización que nos permitió realizar algunas actividades en conjunto con los miembros de TI. Aquí inculcamos un poco de valores y prácticas ágiles a través de dinámicas que permitían al equipo concebir y experimentar un poco de los principios que les mostramos.
+&lt;p&gt;Sin lugar a dudas, fue una gran experiencia para quienes asistieron, para nosotros y seguramente lo será para quienes lo puedan ver, recomiendo que lo vean completo y lo escuchen todo, pues hay frases tanto de desarrolladores como de líderes de proyecto y arquitectos, y es muy interesante ver las acciones que toman al ejecutar sus tareas.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x16.mov&#34;&gt;Descarga el archivo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Esperamos sus dudas y comentarios.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Podcast 15 de la temporada 0</title>
+        <link>https://vivecodigo.org/blog/2012/03/15/podcast-15-de-la-temporada-0/</link>
+        <pubDate>Thu, 15 Mar 2012 13:48:39 -0500</pubDate>
+        
+        <guid>https://vivecodigo.org/blog/2012/03/15/podcast-15-de-la-temporada-0/</guid>
+        <description>&lt;img src="https://vivecodigo.org/images/covers/2015-08-15-podcast-15-de-la-temporada-0.svg" alt="Featured image of post Podcast 15 de la temporada 0" /&gt;&lt;p&gt;Bienvenidos nuevamente a esta emisión de ViveCodigo.org.&lt;/p&gt;
+&lt;p&gt;Previo a nuestra actividad entramos en una charla muy amena, al respecto de la adopción del Testing como técnica de programación y la necesidad de adoptarlo.&lt;/p&gt;
+&lt;p&gt;Y en esta ocasión estamos presentando nuestro tercer #CodingDojo, en donde, de la mano de respetables desarrolladores tratamos de resolver una Kata de nombre: LCD Numbers.&lt;/p&gt;
+&lt;iframe src=&#34;https://player.vimeo.com/video/38532924&#34; height=&#34;281&#34; width=&#34;500&#34; allowfullscreen=&#34;&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+&lt;!-- more --&gt;
+Esta Kata consiste en crear una función que me permita convertir un número entre el 0 y el 9 a su representación en LCD, sin embargo, el acercamiento que se le debe hace a este ejercicio es mediante una prueba, de tal forma que se empiece a resolver de la forma más simple y se progrese en su desarrollo mientras se sigue ejecutando dicha prueba.
+&lt;p&gt;Esto es lo primero que se debe realizar:&lt;/p&gt;
+&lt;pre class=&#34;brush:java;&#34;&gt;String numberLCD =  &#34; - \n&#34; +
+                    &#34;| |\n&#34; +
+                    &#34; - \n&#34; +
+                    &#34;| |\n&#34; +
+                    &#34; - &#34;;
+assert convertToLCD(8) == numberLCD;&lt;/pre&gt;
+&lt;p&gt;Se recomienda comenzar con el número 1, e ir avanzando progresivamente con los demás números para refinar tanto el código como la prueba.&lt;/p&gt;
+&lt;p&gt;Además, existen por así decirlo, dos tipos de fuentes, las cuales mostramos a continuación:&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;&lt;a href=&#34;http://vivecodigo.org/2012/03/15/podcast-15-de-la-temporada-0/ang-2qycaaii4-h-jpg-large/&#34; rel=&#34;attachment wp-att-268&#34;&gt;&lt;img class=&#34;size-medium wp-image-268 aligncenter&#34; title=&#34;Ang-2qYCAAIi4-h.jpg-large&#34; alt=&#34;&#34; src=&#34;https://vivecodigo.org/images/Ang-2qYCAAIi4-h.jpg-large-300x91.jpg&#34; width=&#34;300&#34; height=&#34;91&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+Como se puede apreciar, la fuente grande consiste de 5 líneas y la pequeña de 3, en la experiencia de quienes han desarrollado la Kata, la de 5 líneas es la más sencilla de implementar, por lo tanto se recomienda comenzar con dicha implementación.
+&lt;p&gt;Queremos agradecer a quienes asistieron al Dojo:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Theo Grip(&lt;a href=&#34;http://twitter.com/tgrip&#34;&gt;@tgrip&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;Alfredo Chávez(&lt;a href=&#34;http://twitter.com/alfredochv&#34;&gt;@alfredochv&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;Alcides Flores(&lt;a href=&#34;http://twitter.com/alcidesfp&#34;&gt;@alcidesfp&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;Edgar López(&lt;a href=&#34;http://twitter.com/iamcoder&#34;&gt;@iamcoder&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+Y ponemos sus soluciones disponibles a través de nuestro GitHub para que se descarguen las soluciones que desarrollaron:
+&lt;ul&gt;
+  &lt;li&gt;Alfredo
+&lt;ul&gt;
+  &lt;li&gt;Python
+&lt;ul&gt;
+  &lt;li&gt;LCD numbers kata and tests -&amp;gt; &lt;a href=&#34;https://gist.github.com/2025419&#34;&gt;https://gist.github.com/2025419&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+  &lt;li&gt;Java
+&lt;ul&gt;
+  &lt;li&gt;LCD numbers&#39; tests -&amp;gt; &lt;a href=&#34;https://gist.github.com/2025444&#34;&gt;https://gist.github.com/2025444&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;LCD numbers kata -&amp;gt; &lt;a href=&#34;https://gist.github.com/2025449&#34;&gt;https://gist.github.com/2025449&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+  &lt;li&gt;C#
+&lt;ul&gt;
+  &lt;li&gt;LCD numbers&#39; tests -&amp;gt; &lt;a href=&#34;https://gist.github.com/2025462&#34;&gt;https://gist.github.com/2025462&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;LCD numbers kata -&amp;gt; &lt;a href=&#34;https://gist.github.com/2025475&#34;&gt;https://gist.github.com/2025475&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+  &lt;li&gt;Alcides
+&lt;ul&gt;
+  &lt;li&gt;Pruebas unitarias: &lt;a href=&#34;https://gist.github.com/2027117&#34;&gt;https://gist.github.com/2027117&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Código de producción: &lt;a href=&#34;https://gist.github.com/2027144&#34;&gt;https://gist.github.com/2027144&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+  &lt;li&gt;José Juan
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&#34;https://gist.github.com/2046018&#34;&gt;https://gist.github.com/2046018&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+  &lt;li&gt;Theo Grip
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&#34;https://github.com/tgrip/CodingKata&#34;&gt;https://github.com/tgrip/CodingKata&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+  &lt;li&gt;Edgar López
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&#34;https://github.com/elopezanaya/Katas&#34; target=&#34;_blank&#34;&gt;https://github.com/elopezanaya/Katas&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+  &lt;li&gt;Incluso hubo quién la hizo  distancia. Rodrigo Salado Anaya:
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&#34;https://gist.github.com/2051680&#34;&gt;https://gist.github.com/2051680&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+Además, les dejamos el archivo para que lo descarguen directamente:
+&lt;strong&gt;
+&lt;a href=&#34;http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x15.mov&#34;&gt;Video&lt;/a&gt;
+&lt;/strong&gt;
+&lt;p&gt;Hemos venido disfrutando mucho de estos Dojo&amp;rsquo;s, te invitamos a que asistas al siguiente Dojo.&lt;/p&gt;
+&lt;p&gt;Mantente atento y esperalo.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Podcast 14 de la temporada 0</title>
+        <link>https://vivecodigo.org/blog/2012/02/22/podcast-14-de-la-temporada-0/</link>
+        <pubDate>Wed, 22 Feb 2012 14:35:21 -0500</pubDate>
+        
+        <guid>https://vivecodigo.org/blog/2012/02/22/podcast-14-de-la-temporada-0/</guid>
+        <description>&lt;img src="https://vivecodigo.org/images/covers/2015-08-15-podcast-14-de-la-temporada-0.svg" alt="Featured image of post Podcast 14 de la temporada 0" /&gt;&lt;p&gt;Bienvenidos nuevamente, en esta ocasión es muy agradable para nosotros presentarles una entrevista en donde el tema principal es Artesanía de Software, de la mano de Agustín Ramos Fonseca(&lt;a href=&#34;http://twitter.com/MachinesAreUs&#34;&gt;@MachinesAreUs&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;&lt;object width=&#34;400&#34; height=&#34;27&#34; classid=&#34;clsid:d27cdb6e-ae6d-11cf-96b8-444553540000&#34; codebase=&#34;http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0&#34;&gt;&lt;param name=&#34;src&#34; value=&#34;http://www.google.com/reader/ui/3523697345-audio-player.swf&#34; /&gt;&lt;param name=&#34;quality&#34; value=&#34;best&#34; /&gt;&lt;param name=&#34;flashvars&#34; value=&#34;audioUrl=http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x14.mp3&#34; /&gt;&lt;embed width=&#34;400&#34; height=&#34;27&#34; type=&#34;application/x-shockwave-flash&#34; src=&#34;http://www.google.com/reader/ui/3523697345-audio-player.swf&#34; quality=&#34;best&#34; flashvars=&#34;audioUrl=http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x14.mp3&#34; /&gt;&lt;/object&gt;&lt;/p&gt;
+&lt;p&gt;A lo largo de la entrevista, Agustín nos devela el verdadero sentido y concepto de la Artesanía, describe por que es importante conocerla y también profundiza en temas que la abarcan; nos comparte su experiencia al difundirla y como es que nosotros podemos percibirla.&lt;/p&gt;
+&lt;iframe src=&#34;https://player.vimeo.com/video/37228434?color=ff9933&#34; height=&#34;281&#34; width=&#34;500&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+&lt;!-- more --&gt;
+&lt;p&gt;Durante la entrevista se hacen algunas recomendaciones para los desarrolladores, así como, algunas lecturas a las que hacemos referencia:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&#34;http://shop.oreilly.com/product/9780596518387.do&#34;&gt;Apprenticeship Patterns - Guidance for the Aspiring Software Craftsman&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;http://pragprog.com/book/tpp/the-pragmatic-programmer&#34;&gt;The Pragmatic Programmer: From Journeyman to Master&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;http://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073/ref=sr_1_1?ie=UTF8&amp;amp;qid=1323109523&amp;amp;sr=8-1&#34;&gt;The Clean Coder: A Code of Conduct for Professional Programmers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;http://www.informationweek.com/news/global-cio/interviews/230800163&#34;&gt;10 Lessons In IT Strategy From Ex-HP CIO Randy Mott&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+Creemos que este tipo de información y entrevistas son muy importantes, y como pueden ver este podcast no tiene una demo, sin embargo, en futuras actividades de ViveCodigo estaremos introduciendo algunos de estos conceptos de formas pragmáticas.
+</description>
+        </item>
+        <item>
+        <title>Podcast 13 de la temporada 0</title>
+        <link>https://vivecodigo.org/blog/2012/02/07/podcast-13-de-la-temporada-0/</link>
+        <pubDate>Tue, 07 Feb 2012 10:10:16 -0500</pubDate>
+        
+        <guid>https://vivecodigo.org/blog/2012/02/07/podcast-13-de-la-temporada-0/</guid>
+        <description>&lt;img src="https://vivecodigo.org/images/covers/2015-08-15-podcast-13-de-la-temporada-0.svg" alt="Featured image of post Podcast 13 de la temporada 0" /&gt;&lt;p&gt;Saludos nuevamente a la comunidad de desarrolladores!&lt;/p&gt;
+&lt;iframe src=&#34;https://player.vimeo.com/video/36328535?color=ff9933&#34; height=&#34;281&#34; width=&#34;500&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+&lt;p&gt;En esta ocasión nos complacemos de presentarle a Andrés Gömez(@Clojure_Mexico) quién nos vino a platicar de un lenguaje soportado sobre la JVM: Clojure&lt;/p&gt;
+&lt;p&gt;El nos comparte su experiencia desarrollando en este lenguaje, así también, platica un poco del paradigma funcional y por que es importante adoptarlo.&lt;/p&gt;
+&lt;p&gt;A través de la demos nos muestra el conjunto de herramientas que podríamos usar para empezar a desarrollar con Clojure. Entre ellas Lein: &lt;a href=&#34;https://github.com/technomancy/leiningen&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/technomancy/leiningen&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/technomancy/leiningen&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;!-- more --&gt;
+&lt;p&gt;Durante el podcast se comentan algunas ligas que fueron importantes para Andrés al momento de introducirse a los lenguajes funcionales, aquí las referencias:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&#34;http://clojure.org/&#34;&gt;http://clojure.org/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/&#34;&gt;Introduction to Algorithms (SMA 5503)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;http://mitpress.mit.edu/sicp/&#34;&gt;Structure and Interpretation of Computer Programs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/&#34;&gt;Structure and Interpretation of Computer Programs(Lectures)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+Al final del podcast encontraran la demo de código de Clojure con Lein.
+&lt;p&gt;&lt;a href=&#34;http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x13.mov&#34;&gt;Descarga el podcast desde aquí.&lt;/a&gt;
+&lt;a href=&#34;http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x13.mp3&#34;&gt;Descarga el audio del podcast desde aquí.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Esperemos que lo disfruten tanto como nosotros.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Podcast 12 de la temporada 0</title>
+        <link>https://vivecodigo.org/blog/2012/01/19/podcast-12-de-la-temporada-0/</link>
+        <pubDate>Thu, 19 Jan 2012 15:25:38 -0500</pubDate>
+        
+        <guid>https://vivecodigo.org/blog/2012/01/19/podcast-12-de-la-temporada-0/</guid>
+        <description>&lt;img src="https://vivecodigo.org/images/covers/2015-08-15-podcast-12-de-la-temporada-0.svg" alt="Featured image of post Podcast 12 de la temporada 0" /&gt;&lt;p&gt;Bienvenidos a esta nueva emisión del podcast de ViveCodigo.org, en esta ocasión tenemos el agrado de presentarles lo acontecido durante el 2do. Coding Dojo en donde resolvimos un par de ejercicios:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;#7 Project Euler&lt;/li&gt;
+  &lt;li&gt;Kata: Roman Numerals&lt;/li&gt;
+&lt;/ol&gt;
+Queremos agradecer a los asistentes al Dojo por su participación y por sus resultados, y también por compartir sus soluciones con nosotros; aquí listamos a los desarrolladores del Dojo y la liga donde pueden encontrar el código que desarrollaron:
+&lt;iframe src=&#34;https://player.vimeo.com/video/35331361?color=ff9933&#34; width=&#34;500&#34; height=&#34;281&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+&lt;br/&gt;&lt;br/&gt;
+&lt;!-- more --&gt;
+&lt;iframe src=&#34;https://player.vimeo.com/video/35698652?color=ff9933&#34; width=&#34;500&#34; height=&#34;281&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+&lt;ul&gt;
+  &lt;li&gt;Theo Grip - &lt;a href=&#34;http://twitter.com/tgrip&#34;&gt;@tgrip&lt;/a&gt; - &lt;a href=&#34;https://github.com/tgrip/CodingKata&#34;&gt;https://github.com/tgrip/CodingKata&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Joan Alonso - &lt;a href=&#34;http://twitter.com/jmalonsos&#34;&gt;@jmalonsos&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Omar Bautista - &lt;a href=&#34;http://twitter.com/joxebus&#34;&gt;@joxebus&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Gerardo Aquino - &lt;a href=&#34;http://twitter.com/java_daba_doo&#34;&gt;@java_daba_doo&lt;/a&gt; - &lt;a href=&#34;https://github.com/javadabadoo/CodingDojo&#34;&gt;https://github.com/javadabadoo/CodingDojo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Antonio Sandoval - &lt;a href=&#34;http://twitter.com/__arch3r&#34;&gt;@__arch3r&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Javier Ramírez - &lt;a href=&#34;http://twitter.com/_benek&#34;&gt;@_benek&lt;/a&gt; - &lt;a href=&#34;https://github.com/benek/CodingDojo2&#34;&gt;https://github.com/benek/CodingDojo2&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Rodrigo Salado - &lt;a href=&#34;http://twitter.com/rodrigo_salado&#34;&gt;@rodrigo_salado&lt;/a&gt; - &lt;a href=&#34;http://www.javamexico.org/blogs/rodrigo_salado_anaya/coding_dojo_2&#34;&gt;http://www.javamexico.org/blogs/rodrigo_salado_anaya/coding_dojo_2&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Alfredo Chávez - &lt;a href=&#34;http://twitter.com/alfredochv&#34;&gt;@alfredochv&lt;/a&gt;
+&lt;ol&gt;
+  &lt;li&gt;Ejercicio #7 del proyecto Euler:
+&lt;ul&gt;
+  &lt;li&gt;Implementación: &lt;a href=&#34;https://gist.github.com/1623748&#34;&gt;https://gist.github.com/1623748&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Pruebas unitarias: &lt;a href=&#34;https://gist.github.com/1623754&#34;&gt;https://gist.github.com/1623754&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+  &lt;li&gt;Coding Kata &#34;Roman Numerals&#34;:
+&lt;ul&gt;
+  &lt;li&gt;Versión inicial, sin refactorizar: &lt;a href=&#34;https://gist.github.com/1623830&#34;&gt;https://gist.github.com/1623830&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Versión refactorizada para hacer el código más explícito (esta es la que vieron en el proyector): &lt;a href=&#34;https://gist.github.com/1623819&#34;&gt;https://gist.github.com/1623819&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Pruebas unitarias: &lt;a href=&#34;https://gist.github.com/1623958&#34;&gt;https://gist.github.com/1623958&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Adicionalmente nos gustaría compartir con ustedes algunos comentarios hechos dentro y fuera del Dojo que consideramos aportan valor a quienes quieren ser mejores desarrolladores:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;quot;&amp;hellip;Sigo insistiendo en la necesidad de dejar de ver al TDD como una mera técnica y pasar a considerarla como un &amp;ldquo;core skill&amp;rdquo; de todo desarrollador de software (después de todo, si escribes una pruebita &lt;em&gt;después&lt;/em&gt; para &amp;ldquo;demostrar&amp;rdquo; que lo que escribiste si jala, ya no es TDD ni tiene la utilidad de aquel). Creo que eventos como el Coding Dojo son cruciales para ello y me siento muy contento de haber participado en esta edición y seguiré con interés las noticias de próximos eventos&amp;hellip;&amp;quot;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;Yo siempre he pensado que es responsabilidad de los desarrolladores más seniors guiar a los más rockies, pero no con chapuzas ni &amp;ldquo;trucos&amp;rdquo;, sino con verdaderos principios y prácticas sólidas, que no solo aumenten sus posibilidades de éxito propias y de los proyectos en los que participen, sino que se eviten a sí mismos (y a sus compañeros) dolores de cabeza de mantenimiento a futuro.&amp;quot;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;rdquo;&amp;hellip;Han sido más de 10 años desde que TDD se hizo publico y veo con tristeza que sigue pasando el tiempo y en México (salvo honrosas excepciones) no estamos ni cerca de una adopción de esta y otras mejores prácticas que nos permitan verdaderamente explotar el potencial que tenemos como país en el desarrollo de las TIs y ponernos al tú por tú con la Chile, Brasil o la India. En todos lados oigo o leo a gente dando &amp;ldquo;lip service&amp;rdquo; al TDD y &lt;em&gt;muy&lt;/em&gt; poca que realmente la practica diciendo cosas como &amp;ldquo;es que mi jefe no me deja&amp;rdquo;, &amp;ldquo;es que en un proyecto real está cañón&amp;rdquo; y cosas por el estilo.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Dejando de lado incluso el asunto del TDD, aún más importante está el asunto de escribir código limpio y legible (claro que tu y yo sabemos que las dos cosas están relacionadas) y creo que en ese aspecto si hay un avance, por lo menos entre los asistentes al Dojo. Me sentí muy satisfecho de ver código bien escrito en la mayoría de los casos&amp;hellip;&amp;quot;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Coincidimos en la importancia de mejorar a los desarrolladores, y nuestro compromiso como comunidad y podcast será continuar con este tipo de eventos, así como, actividades que fomenten el incrementar las habilidades de las personas que son responsables de darle alma/vida al hardware.&lt;/p&gt;
+&lt;p&gt;Que los disfruten tanto como nosotros&amp;hellip;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Podcast 11 de la Temporada 0</title>
+        <link>https://vivecodigo.org/blog/2012/01/06/podcast-11-de-la-temporada-0/</link>
+        <pubDate>Fri, 06 Jan 2012 18:57:41 -0500</pubDate>
+        
+        <guid>https://vivecodigo.org/blog/2012/01/06/podcast-11-de-la-temporada-0/</guid>
+        <description>&lt;img src="https://vivecodigo.org/images/covers/2015-08-15-podcast-11-de-la-temporada-0.svg" alt="Featured image of post Podcast 11 de la Temporada 0" /&gt;&lt;p&gt;Bienvenidos nuevamente al podcast de ViveCodigo!&lt;/p&gt;
+&lt;p&gt;En esta ocasión tuvimos la oportunidad de entrevistar a &lt;a href=&#34;https://twitter.com/#!/jorgeo&#34;&gt;Jorge Ortíz&lt;/a&gt;, quien es un ingeniero que actualmente trabaja en &lt;a href=&#34;http://foursquare.com/&#34;&gt;FourSquare&lt;/a&gt; y ha tenido una trayectoria destacable en el mundo del desarrollo de software.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/#!/jorgeo&#34;&gt;Jorge&lt;/a&gt; nos platicó acerca de como ha sido su trayectoria y como fue que llego a FourSquare, también, nos platica del conjunto de tecnologías que están usando y los problemas que ha resuelto con ellas.&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;&lt;embed type=&#34;application/x-shockwave-flash&#34; width=&#34;400&#34; height=&#34;27&#34; src=&#34;http://www.google.com/reader/ui/3523697345-audio-player.swf&#34; quality=&#34;best&#34; flashvars=&#34;audioUrl=http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x11.mp3&#34;&gt;&lt;/embed&gt;&lt;/p&gt;
+&lt;!-- more --&gt;
+Además nos platica como ha sido su experiencia dentro del entorno de las startups; se considera un entusiasta en el uso de &lt;a href=&#34;http://www.scala-lang.org/&#34;&gt;Scala&lt;/a&gt; y comenta cuales son las cosas con las que se ha enfrentado debido a que el producto que esta desarrollando es diferente a muchos otros.
+&lt;p&gt;Jorge nos comparte su experiencia en uso de bases de datos NoSQL y las historias que ha presenciado en las migraciones de datos.&lt;/p&gt;
+&lt;p&gt;En fin, hay muchas cosas que puedes escuchar al respecto en esta entrevista.&lt;/p&gt;
+&lt;p&gt;Este ha sido el primer podcast en ViveCodigo en donde publicaremos únicamente el audio, pues no tuvimos la oportunidad de que Jorge o nosotros nos encontráramos en el mismo lugar físico, sin embargo, creemos que esta entrevista tiene muchas joyas acerca del desarrollo de software de una aplicación como &lt;a href=&#34;http://foursquare.com/&#34;&gt;FourSquare&lt;/a&gt;.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&#34;http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x11.mp3&#34;&gt;Aquí la liga con el archivo descargable.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;http://www.slideshare.net/jorgeortiz85&#34;&gt;El perfil de Jorge en SlideShare&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;http://www.10gen.com/presentations/mongosf2011/foursquare&#34;&gt;Una presentación de Jorge Ortíz&lt;/a&gt; hablando de &lt;a href=&#34;http://www.mongodb.org/&#34;&gt;MongoDB&lt;/a&gt; para FourSquare&lt;/li&gt;
+&lt;/ul&gt;
+Esperamos que lo disfruten tanto como nosotros cuando lo grabamos.
+&lt;p&gt;&lt;strong&gt;ATTE&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Staff de ViveCodigo&lt;/strong&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Podcast 10 de la temporada 0</title>
+        <link>https://vivecodigo.org/blog/2011/12/21/podcast-10-de-la-temporada-0/</link>
+        <pubDate>Wed, 21 Dec 2011 01:50:45 -0500</pubDate>
+        
+        <guid>https://vivecodigo.org/blog/2011/12/21/podcast-10-de-la-temporada-0/</guid>
+        <description>&lt;img src="https://vivecodigo.org/images/covers/2015-08-15-podcast-10-de-la-temporada-0.svg" alt="Featured image of post Podcast 10 de la temporada 0" /&gt;&lt;p&gt;Solo el audio del podcast:&lt;/p&gt;
+&lt;p&gt;&lt;object width=&#34;400&#34; height=&#34;27&#34; classid=&#34;clsid:d27cdb6e-ae6d-11cf-96b8-444553540000&#34; codebase=&#34;http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0&#34;&gt;&lt;param name=&#34;src&#34; value=&#34;http://www.google.com/reader/ui/3523697345-audio-player.swf&#34; /&gt;&lt;param name=&#34;quality&#34; value=&#34;best&#34; /&gt;&lt;param name=&#34;flashvars&#34; value=&#34;audioUrl=http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x10.mp3&#34; /&gt;&lt;embed width=&#34;400&#34; height=&#34;27&#34; type=&#34;application/x-shockwave-flash&#34; src=&#34;http://www.google.com/reader/ui/3523697345-audio-player.swf&#34; quality=&#34;best&#34; flashvars=&#34;audioUrl=http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x10.mp3&#34; /&gt;&lt;/object&gt;&lt;/p&gt;
+&lt;p&gt;Hola nuevamente a toda la comunidad de ViveCodigo.org y desarrolladores recién llegados!&lt;/p&gt;
+&lt;p&gt;En esta ocasión cambiamos la actividad de nuestro podcast, en este episodio dejamos de lado las entrevistas para dar paso a un Coding Dojo, en donde, invitamos a algunos desarrolladores a participar en la resolución de algunas Coding Katas, los conceptos del Dojo y su desarrollo lo podrás encontrar en este episodio.&lt;/p&gt;
+&lt;iframe src=&#34;https://player.vimeo.com/video/34008369?color=ff9933&#34; height=&#34;281&#34; width=&#34;500&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+&lt;!-- more --&gt;
+Agradecemos la presencia de:
+&lt;ul&gt;
+  &lt;li&gt;@&lt;a href=&#34;http://twitter.com/java_daba_doo&#34;&gt;java_daba_doo&lt;/a&gt; - Gerardo Aquino&lt;/li&gt;
+  &lt;li&gt;@&lt;a href=&#34;http://twitter.com/MachinesAreUs&#34;&gt;MachinesAreUs&lt;/a&gt; - Agustín Ramos&lt;/li&gt;
+  &lt;li&gt;@&lt;a href=&#34;http://twitter.com/tgrip&#34;&gt;tgrip&lt;/a&gt; - Theo Grip&lt;/li&gt;
+  &lt;li&gt;@&lt;a href=&#34;http://twitter.com/linuxtro&#34;&gt;linuxtro&lt;/a&gt; - Juan Francisco&lt;/li&gt;
+&lt;/ul&gt;
+Les dejamos algunas de las ligas utilizadas para del Coding Dojo:
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&#34;http://codingdojo.org/&#34;&gt;http://codingdojo.org/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;http://codingdojo.org/cgi-bin/wiki.pl?KataFizzBuzz&#34;&gt;http://codingdojo.org/cgi-bin/wiki.pl?KataFizzBuzz&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;http://osherove.com/tdd-kata-1/&#34;&gt;http://osherove.com/tdd-kata-1/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+Además les dejamos el código que se desarrollo en el Dojo:
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&#34;https://github.com/synergyj/ViveCodigo00x10&#34;&gt;https://github.com/synergyj/ViveCodigo00x10&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://github.com/MachinesAreUs/haskellPlayground&#34;&gt;https://github.com/MachinesAreUs/haskellPlayground&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+Como siempre les dejamos los archivos descargables tanto del video como del audio:
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&#34;http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x10.mov&#34;&gt;Video&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x10.mp3&#34;&gt;Audio&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+Esperamos lo disfruten tanto como nosotros...
+</description>
+        </item>
+        <item>
+        <title>Podcast 9 de la temporada 0</title>
+        <link>https://vivecodigo.org/blog/2011/11/29/podcast-9-de-la-temporada-0/</link>
+        <pubDate>Tue, 29 Nov 2011 12:52:45 -0500</pubDate>
+        
+        <guid>https://vivecodigo.org/blog/2011/11/29/podcast-9-de-la-temporada-0/</guid>
+        <description>&lt;img src="https://vivecodigo.org/images/covers/2015-08-15-podcast-9-de-la-temporada-0.svg" alt="Featured image of post Podcast 9 de la temporada 0" /&gt;&lt;p&gt;Sólo el audio:&lt;/p&gt;
+&lt;p&gt;&lt;object width=&#34;400&#34; height=&#34;27&#34; classid=&#34;clsid:d27cdb6e-ae6d-11cf-96b8-444553540000&#34; codebase=&#34;http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0&#34;&gt;&lt;param name=&#34;src&#34; value=&#34;http://www.google.com/reader/ui/3523697345-audio-player.swf&#34; /&gt;&lt;param name=&#34;flashvars&#34; value=&#34;audioUrl=http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x09.mp3&#34; /&gt;&lt;param name=&#34;quality&#34; value=&#34;best&#34; /&gt;&lt;embed width=&#34;400&#34; height=&#34;27&#34; type=&#34;application/x-shockwave-flash&#34; src=&#34;http://www.google.com/reader/ui/3523697345-audio-player.swf&#34; flashvars=&#34;audioUrl=http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x09.mp3&#34; quality=&#34;best&#34; /&gt;&lt;/object&gt;&lt;/p&gt;
+&lt;p&gt;Después de un largo tiempo y en vísperas de la reunión de la comunidad de SpringHispanor y GrailsMX, tenemos el gusto de presentarles esta emisión del podcast en donde entrevistamos a Andrés Almiray, Java Champion mexicano y líder del proyecto Griffon.&lt;/p&gt;
+&lt;p&gt;En esta ocasión Andrés nos platica de su experiencia desarrollando el framework y del mundo de las aplicaciones Desktop.&lt;/p&gt;
+&lt;p&gt;En verdad fue un momento muy agradable para nosotros platicar con Andrés y esperemos que ustedes también lo disfruten.&lt;/p&gt;
+&lt;iframe src=&#34;https://player.vimeo.com/video/32827954?color=ff9933&#34; height=&#34;281&#34; width=&#34;500&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+&lt;!-- more --&gt;
+Les dejamos algunas ligas que nos compartió Andrés:
+&lt;ul&gt;
+  &lt;li&gt;http://griffon.codehaus.org/&lt;/li&gt;
+  &lt;li&gt;https://github.com/aalmiray&lt;/li&gt;
+  &lt;li&gt;https://github.com/griffon&lt;/li&gt;
+&lt;/ul&gt;
+Y como siempre, aquí están los archivos para su descarga:
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&#34;http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x09.mov&#34;&gt;Entrevista con Andres Almiray&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x09.mp3&#34;&gt;Llevatelo en tu reproductor de MP3&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+Saludos a todos
+</description>
+        </item>
+        <item>
+        <title>Podcast 8 de la temporada 0</title>
+        <link>https://vivecodigo.org/blog/2011/08/17/podcast-8-de-la-temporada-0/</link>
+        <pubDate>Wed, 17 Aug 2011 12:37:51 -0500</pubDate>
+        
+        <guid>https://vivecodigo.org/blog/2011/08/17/podcast-8-de-la-temporada-0/</guid>
+        <description>&lt;img src="https://vivecodigo.org/images/covers/2015-08-15-podcast-8-de-la-temporada-0.svg" alt="Featured image of post Podcast 8 de la temporada 0" /&gt;&lt;p&gt;Hola a todos!
+En esta ocasión, de forma clandestina y muy nocturna, traemos para ustedes nuestro episodio de ViveCodigo de la mano de Enrique Díaz(@nrikeDiaz) un experimentado desarrollador para la plataforma Android, que nos estará hablando de sus vivencias acerca de esta tecnología, así como, muchos tips y consejos que nos pueden ayudar al momento de querer adoptarla.&lt;/p&gt;
+&lt;iframe src=&#34;https://player.vimeo.com/video/27805985?color=ff9933&#34; height=&#34;281&#34; width=&#34;500&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+&lt;!-- more --&gt;
+En el screencast nos muestra LUA, un lenguaje alternativo para desarrollar en Android, dándonos la visión de que podemos tener muchas herramientas en las cuales podemos hacer apps muy buenas y creativas.
+&lt;iframe src=&#34;https://player.vimeo.com/video/27806569?color=ff9933&#34; height=&#34;281&#34; width=&#34;500&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+&lt;p&gt;Si sólo desean escuchar el audio pueden usar este widget:&lt;/p&gt;
+&lt;p&gt;&lt;object width=&#34;400&#34; height=&#34;27&#34; classid=&#34;clsid:d27cdb6e-ae6d-11cf-96b8-444553540000&#34; codebase=&#34;http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0&#34;&gt;&lt;param name=&#34;src&#34; value=&#34;http://www.google.com/reader/ui/3523697345-audio-player.swf&#34; /&gt;&lt;param name=&#34;flashvars&#34; value=&#34;audioUrl=http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x08_a.mp3&#34; /&gt;&lt;param name=&#34;quality&#34; value=&#34;best&#34; /&gt;&lt;embed width=&#34;400&#34; height=&#34;27&#34; type=&#34;application/x-shockwave-flash&#34; src=&#34;http://www.google.com/reader/ui/3523697345-audio-player.swf&#34; flashvars=&#34;audioUrl=http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x08_a.mp3&#34; quality=&#34;best&#34; /&gt;&lt;/object&gt;&lt;/p&gt;
+&lt;p&gt;Y como siempre, aquí están los archivos para su descarga:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&#34;http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x08_a.mov&#34;&gt;Entrevista con Enrique Díaz&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x08_b.mov&#34;&gt;Screencast de Android&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x08_a.mp3&#34;&gt;Llevatelo en tu reproductor de MP3&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+Gracias por vernos y/o escucharnos
+&lt;p&gt;Saludos&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Podcast 7 de la temporada 0</title>
+        <link>https://vivecodigo.org/blog/2011/08/01/podcast-7-de-la-temporada-0/</link>
+        <pubDate>Mon, 01 Aug 2011 13:05:12 -0500</pubDate>
+        
+        <guid>https://vivecodigo.org/blog/2011/08/01/podcast-7-de-la-temporada-0/</guid>
+        <description>&lt;img src="https://vivecodigo.org/images/covers/2015-08-15-podcast-7-de-la-temporada-0.svg" alt="Featured image of post Podcast 7 de la temporada 0" /&gt;&lt;p&gt;Bienvenidos nuevamente!&lt;/p&gt;
+&lt;p&gt;Hemos grabado con mucho gusto el podcast con Enrique Zamudio(@&lt;a href=&#34;http://twiiter.com/chochosmx&#34;&gt;chochosmx&lt;/a&gt;) en donde nos habla de uno de los proyectos creados y administrados por él: jAlarms( &lt;a href=&#34;http://jalarms.sourceforge.net/&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;http://jalarms.sourceforge.net/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;http://jalarms.sourceforge.net/&lt;/a&gt;&lt;/a&gt; ), además, Enrique nos transmite su experiencia desarrollando software libre y open source; también comparte con nosotros la aventura de poner su proyecto en los repositorios de Maven. Sin lugar a duda y como todos los podcast, una charla muy amena&amp;hellip;&lt;/p&gt;
+&lt;iframe src=&#34;https://player.vimeo.com/video/27031278?color=ff9933&#34; height=&#34;281&#34; width=&#34;500&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+&lt;!-- more --&gt;
+Además en el screencast nos muestra como usar jAlarms con múltiples canales, bastante interesante debido a que no sólo nos muestra las aplicaciones prácticas en las cuales se pueden usar alarmas, también nos muestra un poco del manejo de Gradle( &lt;a href=&#34;http://gradle.org/&#34;&gt;http://gradle.org/&lt;/a&gt; )
+&lt;iframe src=&#34;https://player.vimeo.com/video/27160401?color=ff9933&#34; height=&#34;281&#34; width=&#34;500&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+&lt;p&gt;Si sólo desean escuchar el audio pueden usar este widget:&lt;/p&gt;
+&lt;p&gt;&lt;object width=&#34;400&#34; height=&#34;27&#34; classid=&#34;clsid:d27cdb6e-ae6d-11cf-96b8-444553540000&#34; codebase=&#34;http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0&#34;&gt;&lt;param name=&#34;src&#34; value=&#34;http://www.google.com/reader/ui/3523697345-audio-player.swf&#34; /&gt;&lt;param name=&#34;flashvars&#34; value=&#34;audioUrl=http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x07_a.mp3&#34; /&gt;&lt;param name=&#34;quality&#34; value=&#34;best&#34; /&gt;&lt;embed width=&#34;400&#34; height=&#34;27&#34; type=&#34;application/x-shockwave-flash&#34; src=&#34;http://www.google.com/reader/ui/3523697345-audio-player.swf&#34; flashvars=&#34;audioUrl=http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x07_a.mp3&#34; quality=&#34;best&#34; /&gt;&lt;/object&gt;&lt;/p&gt;
+&lt;p&gt;Y como siempre, aquí están los archivos para su descarga:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&#34;http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x07_a.mov&#34;&gt;Entrevista con Enrique Zamudio&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x07_b.mov&#34;&gt;Screencast de jAlarms&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x07_a.mp3&#34;&gt;Llevatelo en tu reproductor de MP3&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+Disfrutenlo tanto como nosotros...
+&lt;p&gt;Saludos&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Podcast 6 de la temporada 0</title>
+        <link>https://vivecodigo.org/blog/2011/07/15/podcast-6-de-la-temporada-0/</link>
+        <pubDate>Fri, 15 Jul 2011 20:07:27 -0500</pubDate>
+        
+        <guid>https://vivecodigo.org/blog/2011/07/15/podcast-6-de-la-temporada-0/</guid>
+        <description>&lt;img src="https://vivecodigo.org/images/covers/2015-08-15-podcast-6-de-la-temporada-0.svg" alt="Featured image of post Podcast 6 de la temporada 0" /&gt;&lt;p&gt;Hola a toda la comunidad!
+En esta ocasión nos complace presentarles a Daniel Zavala(@Siedrix) que nos estará hablando de Node.JS un framework Javascript para desarrollo del lado servidor. A través de la entrevista, el aclara muchos puntos acerca del modelo de programación, y profundiza en la gran utilidad que tiene el usar este tipo de herramientas, además, nos comparte su experiencia en el conjunto de tecnologías que podemos encontrar para usar Javascript y nos platica acerca de su experiencia en México como desarrollador especialista en el tema.&lt;/p&gt;
+&lt;iframe src=&#34;https://player.vimeo.com/video/26493350?color=ff9933&#34; height=&#34;281&#34; width=&#34;500&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+&lt;!-- more --&gt;
+&lt;p&gt;En el screencast nos muestra un poco del lenguaje para desarrollar sobre Node.JS y nos hace una demo para la lectura de archivos simultáneos de forma asíncrona.&lt;/p&gt;
+&lt;iframe src=&#34;https://player.vimeo.com/video/26496629?title=0&amp;amp;byline=0&amp;amp;portrait=0&amp;amp;color=ff9933&#34; height=&#34;281&#34; width=&#34;500&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+&lt;p&gt;Si sólo quieres escuchar el audio de la entrevista, lo puedes hacer desde aquí:
+&lt;object width=&#34;400&#34; height=&#34;27&#34; classid=&#34;clsid:d27cdb6e-ae6d-11cf-96b8-444553540000&#34; codebase=&#34;http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0&#34;&gt;&lt;param name=&#34;src&#34; value=&#34;http://www.google.com/reader/ui/3523697345-audio-player.swf&#34; /&gt;&lt;param name=&#34;quality&#34; value=&#34;best&#34; /&gt;&lt;param name=&#34;flashvars&#34; value=&#34;audioUrl=http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x06_a.mp3&#34; /&gt;&lt;embed width=&#34;400&#34; height=&#34;27&#34; type=&#34;application/x-shockwave-flash&#34; src=&#34;http://www.google.com/reader/ui/3523697345-audio-player.swf&#34; quality=&#34;best&#34; flashvars=&#34;audioUrl=http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x06_a.mp3&#34; /&gt;&lt;/object&gt;&lt;/p&gt;
+&lt;p&gt;Adicionalmente, les dejamos los archivos para su descarga.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&#34;http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x06_a.mov&#34;&gt;Entrevista con Daniel Zavala(@Siedrix)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x06_b.mov&#34;&gt;Screencast de NodeJS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x06_a.mp3&#34;&gt;Audio de la entrevista&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+Y les enlistamos el conjunto de URL&#39;s que nos proporciono Daniel durante a charla:
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&#34;http://nodejs.org/&#34;&gt;Node.JS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;http://www.javascriptkata.com/2010/10/28/ready-js-prepare-your-javascript-for-production/&#34;&gt;http://www.javascriptkata.com/2010/10/28/ready-js-prepare-your-javascript-for-production/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;http://redistogo.com/&#34;&gt;http://redistogo.com/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;http://learnboost.github.com/cluster/&#34;&gt;http://learnboost.github.com/cluster/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://www.dotcloud.com/pricing/&#34;&gt;https://www.dotcloud.com/pricing/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;http://acko.net/blog/on-termkit&#34;&gt;http://acko.net/blog/on-termkit&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;http://www.phantomjs.org/&#34;&gt;http://www.phantomjs.org/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;http://api.jquery.com/delegate/&#34;&gt;http://api.jquery.com/delegate/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://github.com/jakesgordon/javascript-state-machine/blob/master/state-machine.js&#34;&gt;https://github.com/jakesgordon/javascript-state-machine/blob/master/state-machine.js&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;http://microjs.com/&#34;&gt;http://microjs.com/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;http://documentcloud.github.com/underscore/&#34;&gt;http://documentcloud.github.com/underscore/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;http://javascript.crockford.com/&#34;&gt;http://javascript.crockford.com/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+Que lo disfruten tanto como nosotros.
+&lt;p&gt;Saludos.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Podcast 5 de la temporada 0</title>
+        <link>https://vivecodigo.org/blog/2011/07/03/podcast-5-de-la-temporada-0/</link>
+        <pubDate>Sun, 03 Jul 2011 14:07:02 -0500</pubDate>
+        
+        <guid>https://vivecodigo.org/blog/2011/07/03/podcast-5-de-la-temporada-0/</guid>
+        <description>&lt;img src="https://vivecodigo.org/images/covers/2015-08-15-podcast-5-de-la-temporada-0.svg" alt="Featured image of post Podcast 5 de la temporada 0" /&gt;&lt;p&gt;Hola nuevamente!!!
+Nos da mucho gusto compartir con todos ustedes el tema de iOS, a través de la voz de Juan Karam(@JuanKaram), quién es el más experimentado desarrollador en esta plataforma; a lo largo de esta charla, Juan nos platica su experiencia de una forma muy amena, nos ofrece una opinión muy valiosa para quienes quieren adoptar el lenguaje sobre el cual se desarrolla, hace algunas recomendaciones para todos los desarrolladores independiente de sus herramientas de trabajo, y profundiza en su tema favorito.&lt;/p&gt;
+&lt;iframe src=&#34;https://player.vimeo.com/video/25886742?title=0&amp;amp;byline=0&amp;amp;portrait=0&amp;amp;color=ff9933&#34; height=&#34;281&#34; width=&#34;500&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+&lt;!-- more --&gt;
+En el screencast nos muestra un poco del lenguaje para desarrollar sobre la plataforma iOS y nos hace una demo de realidad aumenta + geolocalización sobre un iPhone.
+&lt;iframe src=&#34;https://player.vimeo.com/video/25922093?title=0&amp;amp;byline=0&amp;amp;portrait=0&amp;amp;color=ff9933&#34; height=&#34;281&#34; width=&#34;500&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+Si sólo quieres escuchar el audio de la entrevista, lo puedes hacer desde aquí:
+&lt;object width=&#34;400&#34; height=&#34;27&#34; classid=&#34;clsid:d27cdb6e-ae6d-11cf-96b8-444553540000&#34; codebase=&#34;http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0&#34;&gt;&lt;param name=&#34;src&#34; value=&#34;http://www.google.com/reader/ui/3523697345-audio-player.swf&#34; /&gt;&lt;param name=&#34;quality&#34; value=&#34;best&#34; /&gt;&lt;param name=&#34;flashvars&#34; value=&#34;audioUrl=http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x05_a.mp3&#34; /&gt;&lt;embed width=&#34;400&#34; height=&#34;27&#34; type=&#34;application/x-shockwave-flash&#34; src=&#34;http://www.google.com/reader/ui/3523697345-audio-player.swf&#34; quality=&#34;best&#34; flashvars=&#34;audioUrl=http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x05_a.mp3&#34; /&gt;&lt;/object&gt;
+&lt;p&gt;Adicionalmente, les dejamos los archivos para su descarga.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&#34;http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x05_a.mov&#34;&gt;Entrevista con Juan Karam&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x05_b.mov&#34;&gt;Demo de realidad aumentada en iPhone&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x05_a.mp3&#34;&gt;Audio de la entrevista&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+Que lo disfruten tanto como nosotros.
+&lt;p&gt;Saludos.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Podcast 4 de la temporada 0</title>
+        <link>https://vivecodigo.org/blog/2011/06/15/podcast-4-de-la-temporada-0/</link>
+        <pubDate>Wed, 15 Jun 2011 15:31:23 -0500</pubDate>
+        
+        <guid>https://vivecodigo.org/blog/2011/06/15/podcast-4-de-la-temporada-0/</guid>
+        <description>&lt;img src="https://vivecodigo.org/images/covers/2015-08-15-podcast-4-de-la-temporada-0.svg" alt="Featured image of post Podcast 4 de la temporada 0" /&gt;&lt;p&gt;Hola a todos!!!&lt;/p&gt;
+&lt;p&gt;Nos complace entregarles la quinta emisión del podcast en donde el tema principal es Testing.&lt;/p&gt;
+&lt;p&gt;Como invitado tenemos a Christian Ramírez(@chrix2) QA Architect en Certum, durante el podcast hablamos del ecosistema de Testing, desde conceptos básicos como las características de las pruebas hasta elementos que Christian usa en su trabajo diario como Cloud Testing. En el screencast Christian nos muestra como ejecutar pruebas con Selenium y Python, en su ambiente de desarrollo local y en la nube.&lt;/p&gt;
+&lt;p&gt;&lt;iframe src=&#34;https://player.vimeo.com/video/25154668?color=ff9933&#34; height=&#34;281&#34; width=&#34;500&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;!-- more --&gt;
+&lt;p&gt;Escucha el podcast sin descargarlo:&lt;/p&gt;
+&lt;p&gt;&lt;object width=&#34;400&#34; height=&#34;27&#34; classid=&#34;clsid:d27cdb6e-ae6d-11cf-96b8-444553540000&#34; codebase=&#34;http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0&#34;&gt;&lt;param name=&#34;src&#34; value=&#34;http://www.google.com/reader/ui/3523697345-audio-player.swf&#34; /&gt;&lt;param name=&#34;flashvars&#34; value=&#34;audioUrl=http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x04_a.mp3&#34; /&gt;&lt;param name=&#34;quality&#34; value=&#34;best&#34; /&gt;&lt;embed width=&#34;400&#34; height=&#34;27&#34; type=&#34;application/x-shockwave-flash&#34; src=&#34;http://www.google.com/reader/ui/3523697345-audio-player.swf&#34; flashvars=&#34;audioUrl=http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x04_a.mp3&#34; quality=&#34;best&#34; /&gt;&lt;/object&gt;&lt;/p&gt;
+&lt;p&gt;La entrega del segundo episodio:&lt;/p&gt;
+&lt;p&gt;&lt;iframe src=&#34;https://player.vimeo.com/video/25191502?title=0&amp;amp;byline=0&amp;amp;portrait=0&amp;amp;color=ff9933&#34; height=&#34;281&#34; width=&#34;500&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;Para que recibas los episodios de ViveCodigo solo basta con que te suscribas al &lt;a href=&#34;http://vivecodigo.org/feed.xml&#34;&gt;feed&lt;/a&gt;...&lt;/p&gt;
+&lt;p&gt;Si desean descargar los videos y el audio, los dejamos a su disposición:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x04_a.mov&#34;&gt;Entrevista con Christian Ramírez(Video)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x04_b.mov&#34;&gt;Screencast de Testing(Video)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x04_a.mp3&#34;&gt;Entrevista con Christian Ramírez(Audio)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Adicionalmente, dejamos las urls que se comentaron durante la charla:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.xqual.com/&#34;&gt;http://www.xqual.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.testlink.org/&#34;&gt;http://blog.testlink.org/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Recuerden que Testing es &#34;ejercitar su software&#34;...&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Podcast 3 de la temporada 0</title>
+        <link>https://vivecodigo.org/blog/2011/05/31/podcast-3-de-la-temporada-0/</link>
+        <pubDate>Tue, 31 May 2011 12:47:20 -0500</pubDate>
+        
+        <guid>https://vivecodigo.org/blog/2011/05/31/podcast-3-de-la-temporada-0/</guid>
+        <description>&lt;img src="https://vivecodigo.org/images/covers/2015-08-15-podcast-3-de-la-temporada-0.svg" alt="Featured image of post Podcast 3 de la temporada 0" /&gt;&lt;p&gt;En esta ocasión nos servimos de un tema para las aplicaciones en el navegador: &#34;Estándares Web&#34;, en donde Luis Hernández(mejor identificado como @juwe) nos habla de su experiencia como diseñador y desarrollador.&lt;/p&gt;
+&lt;p&gt;Hablamos de la importancia de conocer las bases fundamentales del desarrollo web: html, css y javascript.&lt;/p&gt;
+&lt;p&gt;Nuevamente les haremos entrega de este podcast en dos versiones:&lt;/p&gt;
+&lt;p&gt;&lt;iframe src=&#34;https://player.vimeo.com/video/24452424?color=f06800&#34; height=&#34;281&#34; width=&#34;500&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;!-- more --&gt;
+&lt;p&gt;&lt;iframe src=&#34;https://player.vimeo.com/video/24639833?color=f06800&#34; height=&#34;281&#34; width=&#34;500&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;Adicionalmente, ponemos a su disposición los archivos de video de las dos partes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x03_a.mov&#34;&gt;Entrevista con Luis Hernández&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x03_b.mov&#34;&gt;Screencast de estándares web&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;O bien, descarga el audio desde &lt;a href=&#34;http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x03_a.mp3&#34;&gt;AQUI&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;object width=&#34;400&#34; height=&#34;27&#34; classid=&#34;clsid:d27cdb6e-ae6d-11cf-96b8-444553540000&#34; codebase=&#34;http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0&#34;&gt;&lt;param name=&#34;flashvars&#34; value=&#34;audioUrl=http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x03_a.mp3&#34; /&gt;&lt;param name=&#34;quality&#34; value=&#34;best&#34; /&gt;&lt;param name=&#34;src&#34; value=&#34;http://www.google.com/reader/ui/3523697345-audio-player.swf&#34; /&gt;&lt;embed width=&#34;400&#34; height=&#34;27&#34; type=&#34;application/x-shockwave-flash&#34; src=&#34;http://www.google.com/reader/ui/3523697345-audio-player.swf&#34; flashvars=&#34;audioUrl=http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x03_a.mp3&#34; quality=&#34;best&#34; /&gt;&lt;/object&gt;&lt;/p&gt;
+&lt;p&gt;Y proveemos de las ligas comentadas durante la entrevista y el screencast:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;http://estandaresweb.com.mx&lt;/li&gt;
+&lt;li&gt;http://twitter.com/estandareswebmx&lt;/li&gt;
+&lt;li&gt;http://facebook.com/estandareswebmx&lt;/li&gt;
+&lt;li&gt;http://artesanos.de/software/&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Que lo disfruten, esperamos sea de su total agrado...&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Podcast 2 de la temporada 0</title>
+        <link>https://vivecodigo.org/blog/2011/05/18/podcast-2-de-la-temporada-0/</link>
+        <pubDate>Wed, 18 May 2011 00:25:03 -0500</pubDate>
+        
+        <guid>https://vivecodigo.org/blog/2011/05/18/podcast-2-de-la-temporada-0/</guid>
+        <description>&lt;img src="https://vivecodigo.org/images/covers/2015-08-15-podcast-2-de-la-temporada-0.svg" alt="Featured image of post Podcast 2 de la temporada 0" /&gt;&lt;p&gt;Hola a todos en la comunidad!!!&lt;/p&gt;
+&lt;p&gt;Me es grato anunciarles que ya tenemos publicado esta nueva edición del podcast, en donde, tenemos como invitado de honor a Julio Carlos Sánchez(&lt;a href=&#34;http://twitter.com/thegeekinside&#34;&gt;@thegeekinside&lt;/a&gt;), que nos estará hablando del lenguaje de programación Scala. Además, comentaremos algunas notas que recientemente causaron revuelo en el mundo Scala.&lt;/p&gt;
+&lt;p&gt;En esta ocasión, por la duración del podcast hemos puesto el episodio en dos partes&amp;hellip;&lt;/p&gt;
+&lt;iframe src=&#34;https://player.vimeo.com/video/23895985?color=06a113&#34; height=&#34;281&#34; width=&#34;500&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+&lt;!-- more --&gt;
+&lt;iframe src=&#34;https://player.vimeo.com/video/23964525?color=06a113&#34; height=&#34;281&#34; width=&#34;500&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+&lt;p&gt;Les dejamos las ligas que se comentaron en la charla y en el videocast:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Typesafe Accelerates Scala Development for All
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&#34;http://java.dzone.com/articles/typesafe-accelerates-scala&#34;&gt;http://java.dzone.com/articles/typesafe-accelerates-scala&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+  &lt;li&gt;El sitio de TypeSafe
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&#34;http://typesafe.com/&#34;&gt;http://typesafe.com/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+  &lt;li&gt;Scala Mug
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&#34;http://scala-mug.org/&#34;&gt;http://scala-mug.org/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+  &lt;li&gt;El blog de nuestro invitado
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&#34;http://www.thegeekinside.net/&#34;&gt;http://www.thegeekinside.net/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+  &lt;li&gt;El twitter de Julio
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&#34;http://twitter.com/thegeekinside&#34;&gt;http://twitter.com/thegeekinside&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+  &lt;li&gt;Por supuesto, el código:
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&#34;http://hg.thegeekinside.net/scala-in-practice/&#34;&gt;http://hg.thegeekinside.net/scala-in-practice/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;http://hg.thegeekinside.net/scala-intro/overview&#34;&gt;http://hg.thegeekinside.net/scala-intro/overview&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+Adicionalmente, el podcast lo puedes descargar:
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&#34;http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x02_a.mov&#34;&gt;Primera Parte&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x02_b.mov&#34;&gt;Segunda Parte&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+O bien suscribirte al &lt;a href=&#34;http://vivecodigo.org/feed.xml&#34;&gt;feed&lt;/a&gt;...
+&lt;p&gt;Muchas gracias a todos por vernos!!!!&lt;/p&gt;
+&lt;p&gt;Saludos&amp;hellip;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Podcast 1 de la temporada 0</title>
+        <link>https://vivecodigo.org/blog/2011/05/05/podcast-1-de-la-temporada-0/</link>
+        <pubDate>Thu, 05 May 2011 01:50:55 -0500</pubDate>
+        
+        <guid>https://vivecodigo.org/blog/2011/05/05/podcast-1-de-la-temporada-0/</guid>
+        <description>&lt;img src="https://vivecodigo.org/images/covers/2015-08-15-podcast-1-de-la-temporada-0.svg" alt="Featured image of post Podcast 1 de la temporada 0" /&gt;&lt;p&gt;Primero, gracias a todos ustedes por sus comentarios tanto en este portal, como en el twitter y algunos otros sitios de comunidades distintas&amp;hellip;&lt;/p&gt;
+&lt;p&gt;El archivo del podcast lo pueden descargar dede &lt;strong&gt;&lt;a href=&#34;http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x01.mov&#34;&gt;aquí&lt;/a&gt;&lt;/strong&gt; o bien se pueden suscribir al &lt;strong&gt;&lt;a href=&#34;http://vivecodigo.org/feed.xml&#34;&gt;feed&lt;/a&gt;&lt;/strong&gt;&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Las notas que comentamos en esta ocasión son:&lt;/p&gt;
+&lt;div&gt;
+&lt;ul&gt;
+  &lt;li&gt;Agile is about Collaboration and Cultivation Culture
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&#34;http://www.agilitrix.com/2011/03/agile-culture-is-all-about-people/&#34;&gt;http://www.agilitrix.com/2011/03/agile-culture-is-all-about-people/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+  &lt;li&gt;El Geek Errante: transmisión #43
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&#34;http://elgeekerrante.com/ege-podcast-ep-43/&#34;&gt;http://elgeekerrante.com/ege-podcast-ep-43/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+  &lt;li&gt;Using Gradle in Practice
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&#34;http://blog.andresteingress.com/2011/01/14/using-gradle-in-practice/&#34;&gt;http://blog.andresteingress.com/2011/01/14/using-gradle-in-practice/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+  &lt;li&gt;Groovy 1.8.0
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&#34;http://docs.codehaus.org/display/GROOVY/Groovy+1.8+release+notes#Groovy1.8releasenotes-Closureenhancements&#34;&gt;http://docs.codehaus.org/display/GROOVY/Groovy+1.8+release+notes#Groovy1.8releasenotes-Closureenhancements&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;http://groovy.dzone.com/announcements/groovy-180-released&#34;&gt;http://groovy.dzone.com/announcements/groovy-180-released&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+  &lt;li&gt;Getting Started with Redis, Spring Data &amp;amp; Cloud Foundry
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&#34;http://blog.springsource.com/2011/04/27/getting-started-redis-spring-cloud-foundry/&#34;&gt;http://blog.springsource.com/2011/04/27/getting-started-redis-spring-cloud-foundry/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+  &lt;li&gt;JBehave+Spring+SeleniumHQ
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&#34;http://alexsotob.blogspot.com/2011/04/are-you-locked-up-in-world-thats-been.html&#34;&gt;http://alexsotob.blogspot.com/2011/04/are-you-locked-up-in-world-thats-been.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;!-- more --&gt;
+Acerca de los videos que mencionamos en el videocast están en:
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&#34;http://vimeo.com/grailsmx/videos&#34;&gt;http://vimeo.com/grailsmx/videos&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;http://git-scm.com&#34;&gt;http://git-scm.com&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;http://scottchacon.com/&#34;&gt;http://scottchacon.com/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;http://www.youtube.com/watch?v=4XpnKHJAok8&#34;&gt;http://www.youtube.com/watch?v=4XpnKHJAok8&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;http://gitcasts.com/&#34;&gt;http://gitcasts.com/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;http://github.com/&#34;&gt;http://github.com/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;http://gitorious.org/&#34;&gt;http://gitorious.org/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+El tema de este podcast es acerca del uso de Git y de sitios como GitHub.com que nos ayudan a manejar nuestros proyectos de software...
+&lt;p&gt;Con esto les dejamos las URL&amp;rsquo;s que hemos publicado:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Código de videocast -&lt;a href=&#34; https://github.com/synergyj/ViveCodigo&#34;&gt; https://github.com/synergyj/ViveCodigo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Código de este podcast - &lt;a href=&#34;https://github.com/synergyj/ViveCodigo00x01&#34;&gt;https://github.com/synergyj/ViveCodigo00x01&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+Esperemos que sea de su agrado...
+&lt;p&gt;Adicionalmente pueden seguirnos en twitter con el usuario &lt;a href=&#34;http://twitter.com/vivecodigo&#34;&gt;@ViveCodigo&lt;/a&gt;, escribirnos y dejar sus comentarios en el blog&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Make code&amp;hellip; not war&amp;hellip;&lt;/p&gt;
+&lt;iframe src=&#34;https://player.vimeo.com/video/23301206&#34; height=&#34;298&#34; width=&#34;530&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+</description>
+        </item>
+        <item>
+        <title>Podcast 0 de la temporada 0</title>
+        <link>https://vivecodigo.org/blog/2011/04/21/podcast-0-de-la-temporada-0/</link>
+        <pubDate>Thu, 21 Apr 2011 19:45:03 -0500</pubDate>
+        
+        <guid>https://vivecodigo.org/blog/2011/04/21/podcast-0-de-la-temporada-0/</guid>
+        <description>&lt;img src="https://vivecodigo.org/images/covers/2015-08-15-podcast-0-de-la-temporada-0.svg" alt="Featured image of post Podcast 0 de la temporada 0" /&gt;&lt;p&gt;En esta primera emisión les damos la más cordial bienvenida a este proyecto&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Las notas que comentamos durante el podcast son las siguientes:&lt;/p&gt;
+&lt;div&gt;
+&lt;ul id=&#34;internal-source-marker_0.6223568611312658&#34;&gt;
+  &lt;li&gt;Ceylon JVM Language
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&#34;http://www.infoq.com/news/2011/04/ceylon&#34;&gt;http://www.infoq.com/news/2011/04/ceylon&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;http://devstonez.wordpress.com/2011/04/13/introducing-the-ceylon-project-gavin-king-presentation-at-qcon-beijing-2011/&#34;&gt;http://devstonez.wordpress.com/2011/04/13/introducing-the-ceylon-project-gavin-king-presentation-at-qcon-beijing-2011/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+  &lt;li&gt;Cloud Foundry for Spring Developers
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&#34;http://blog.springsource.com/2011/04/12/cloud-foundry-for-spring-developers/&#34;&gt;http://blog.springsource.com/2011/04/12/cloud-foundry-for-spring-developers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;http://blog.springsource.com/2011/04/12/launching-cloud-foundry/&#34;&gt;http://blog.springsource.com/2011/04/12/launching-cloud-foundry/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;!-- more --&gt;
+Y el tema principal es acerca del uso de un par de plugins de &lt;strong&gt;jquery&lt;/strong&gt;:
+&lt;ul&gt;
+  &lt;li&gt;Plugins de graficación
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&#34;http://sixrevisions.com/javascript/20-fresh-javascript-data-visualization-libraries/&#34;&gt;http://sixrevisions.com/javascript/20-fresh-javascript-data-visualization-libraries/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+  &lt;li&gt;Los mejores 10 plugins del 2010
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&#34;http://www.newsticker88.com/10-best-jquery-plugins-of-2010/1945/&#34;&gt;http://www.newsticker88.com/10-best-jquery-plugins-of-2010/1945/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+Se pueden suscribir al &lt;strong&gt;&lt;a href=&#34;http://vivecodigo.org/feed.xml&#34;&gt;feed&lt;/a&gt;&lt;/strong&gt; o descargarlo directamente desde &lt;strong&gt;&lt;a href=&#34;http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x00_low.mov&#34;&gt;aquí&lt;/a&gt;&lt;/strong&gt;...
+&lt;p&gt;&lt;strong&gt;Esperemos que sea de su agrado&amp;hellip;&lt;/strong&gt;&lt;/p&gt;
+&lt;iframe src=&#34;https://player.vimeo.com/video/22732462&#34; width=&#34;540&#34; height=&#34;304&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+&lt;strong&gt;
+&lt;/strong&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

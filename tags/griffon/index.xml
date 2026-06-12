@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Griffon on ViveCodigo.org</title>
+        <link>https://vivecodigo.org/tags/griffon/</link>
+        <description>Recent content in Griffon on ViveCodigo.org</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>es-mx</language>
+        <copyright>MakingDevs</copyright>
+        <lastBuildDate>Tue, 29 Nov 2011 12:52:45 -0500</lastBuildDate><atom:link href="https://vivecodigo.org/tags/griffon/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Podcast 9 de la temporada 0</title>
+        <link>https://vivecodigo.org/blog/2011/11/29/podcast-9-de-la-temporada-0/</link>
+        <pubDate>Tue, 29 Nov 2011 12:52:45 -0500</pubDate>
+        
+        <guid>https://vivecodigo.org/blog/2011/11/29/podcast-9-de-la-temporada-0/</guid>
+        <description>&lt;img src="https://vivecodigo.org/images/covers/2015-08-15-podcast-9-de-la-temporada-0.svg" alt="Featured image of post Podcast 9 de la temporada 0" /&gt;&lt;p&gt;Sólo el audio:&lt;/p&gt;
+&lt;p&gt;&lt;object width=&#34;400&#34; height=&#34;27&#34; classid=&#34;clsid:d27cdb6e-ae6d-11cf-96b8-444553540000&#34; codebase=&#34;http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0&#34;&gt;&lt;param name=&#34;src&#34; value=&#34;http://www.google.com/reader/ui/3523697345-audio-player.swf&#34; /&gt;&lt;param name=&#34;flashvars&#34; value=&#34;audioUrl=http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x09.mp3&#34; /&gt;&lt;param name=&#34;quality&#34; value=&#34;best&#34; /&gt;&lt;embed width=&#34;400&#34; height=&#34;27&#34; type=&#34;application/x-shockwave-flash&#34; src=&#34;http://www.google.com/reader/ui/3523697345-audio-player.swf&#34; flashvars=&#34;audioUrl=http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x09.mp3&#34; quality=&#34;best&#34; /&gt;&lt;/object&gt;&lt;/p&gt;
+&lt;p&gt;Después de un largo tiempo y en vísperas de la reunión de la comunidad de SpringHispanor y GrailsMX, tenemos el gusto de presentarles esta emisión del podcast en donde entrevistamos a Andrés Almiray, Java Champion mexicano y líder del proyecto Griffon.&lt;/p&gt;
+&lt;p&gt;En esta ocasión Andrés nos platica de su experiencia desarrollando el framework y del mundo de las aplicaciones Desktop.&lt;/p&gt;
+&lt;p&gt;En verdad fue un momento muy agradable para nosotros platicar con Andrés y esperemos que ustedes también lo disfruten.&lt;/p&gt;
+&lt;iframe src=&#34;https://player.vimeo.com/video/32827954?color=ff9933&#34; height=&#34;281&#34; width=&#34;500&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+&lt;!-- more --&gt;
+Les dejamos algunas ligas que nos compartió Andrés:
+&lt;ul&gt;
+  &lt;li&gt;http://griffon.codehaus.org/&lt;/li&gt;
+  &lt;li&gt;https://github.com/aalmiray&lt;/li&gt;
+  &lt;li&gt;https://github.com/griffon&lt;/li&gt;
+&lt;/ul&gt;
+Y como siempre, aquí están los archivos para su descarga:
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&#34;http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x09.mov&#34;&gt;Entrevista con Andres Almiray&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x09.mp3&#34;&gt;Llevatelo en tu reproductor de MP3&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+Saludos a todos
+</description>
+        </item>
+        
+    </channel>
+</rss>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Clojure on ViveCodigo.org</title>
+        <link>https://vivecodigo.org/tags/clojure/</link>
+        <description>Recent content in Clojure on ViveCodigo.org</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>es-mx</language>
+        <copyright>MakingDevs</copyright>
+        <lastBuildDate>Tue, 07 Feb 2012 10:10:16 -0500</lastBuildDate><atom:link href="https://vivecodigo.org/tags/clojure/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Podcast 13 de la temporada 0</title>
+        <link>https://vivecodigo.org/blog/2012/02/07/podcast-13-de-la-temporada-0/</link>
+        <pubDate>Tue, 07 Feb 2012 10:10:16 -0500</pubDate>
+        
+        <guid>https://vivecodigo.org/blog/2012/02/07/podcast-13-de-la-temporada-0/</guid>
+        <description>&lt;img src="https://vivecodigo.org/images/covers/2015-08-15-podcast-13-de-la-temporada-0.svg" alt="Featured image of post Podcast 13 de la temporada 0" /&gt;&lt;p&gt;Saludos nuevamente a la comunidad de desarrolladores!&lt;/p&gt;
+&lt;iframe src=&#34;https://player.vimeo.com/video/36328535?color=ff9933&#34; height=&#34;281&#34; width=&#34;500&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+&lt;p&gt;En esta ocasión nos complacemos de presentarle a Andrés Gömez(@Clojure_Mexico) quién nos vino a platicar de un lenguaje soportado sobre la JVM: Clojure&lt;/p&gt;
+&lt;p&gt;El nos comparte su experiencia desarrollando en este lenguaje, así también, platica un poco del paradigma funcional y por que es importante adoptarlo.&lt;/p&gt;
+&lt;p&gt;A través de la demos nos muestra el conjunto de herramientas que podríamos usar para empezar a desarrollar con Clojure. Entre ellas Lein: &lt;a href=&#34;https://github.com/technomancy/leiningen&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/technomancy/leiningen&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/technomancy/leiningen&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;!-- more --&gt;
+&lt;p&gt;Durante el podcast se comentan algunas ligas que fueron importantes para Andrés al momento de introducirse a los lenguajes funcionales, aquí las referencias:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&#34;http://clojure.org/&#34;&gt;http://clojure.org/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/&#34;&gt;Introduction to Algorithms (SMA 5503)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;http://mitpress.mit.edu/sicp/&#34;&gt;Structure and Interpretation of Computer Programs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/&#34;&gt;Structure and Interpretation of Computer Programs(Lectures)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+Al final del podcast encontraran la demo de código de Clojure con Lein.
+&lt;p&gt;&lt;a href=&#34;http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x13.mov&#34;&gt;Descarga el podcast desde aquí.&lt;/a&gt;
+&lt;a href=&#34;http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x13.mp3&#34;&gt;Descarga el audio del podcast desde aquí.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Esperemos que lo disfruten tanto como nosotros.&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

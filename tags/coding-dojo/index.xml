@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Coding-Dojo on ViveCodigo.org</title>
+        <link>https://vivecodigo.org/tags/coding-dojo/</link>
+        <description>Recent content in Coding-Dojo on ViveCodigo.org</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>es-mx</language>
+        <copyright>MakingDevs</copyright>
+        <lastBuildDate>Mon, 28 Oct 2013 14:05:22 -0500</lastBuildDate><atom:link href="https://vivecodigo.org/tags/coding-dojo/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Episodio 5 de la temporada 1 – Coding Dojo (Codebreak)</title>
+        <link>https://vivecodigo.org/blog/2013/10/28/episodio-5-de-la-temporada-1-coding-dojo-codebreak/</link>
+        <pubDate>Mon, 28 Oct 2013 14:05:22 -0500</pubDate>
+        
+        <guid>https://vivecodigo.org/blog/2013/10/28/episodio-5-de-la-temporada-1-coding-dojo-codebreak/</guid>
+        <description>&lt;img src="https://vivecodigo.org/images/covers/2015-08-15-episodio-5-de-la-temporada-1-coding-dojo-codebreak.svg" alt="Featured image of post Episodio 5 de la temporada 1 – Coding Dojo (Codebreak)" /&gt;&lt;p&gt;Esta vez en la entrega de Vivecodigo les presentamos nuevamente un coding dojo, en el cual se desarrollo un juego llamada code breaker con algunos destacados invitados.&lt;/p&gt;
+&lt;p&gt;La dinámica fue pasar una a uno para ir desarrollando el juego, el cual fue en base Test-driven development (TDD) por lo cual cada uno de los invitados pudo aportar elementos para el desarrollo de esta solución.&lt;/p&gt;
+&lt;p&gt;Al concluir se platico sobre la dinámica y las dificultades que existieron, con lo cual pudieron realizar una retrospectiva de lo que mas les agrado y no de este coding dojo, en base a l esfuerzo y las ideas que apostaron cada uno de ellos.&lt;/p&gt;
+&lt;p&gt;Un video sin duda muy entretenido y con elementos enriquecedores.&lt;/p&gt;
+&lt;p&gt;Espero disfruten este contenido. Sigan enviándonos sus comentarios tambien nos pueden seguir en nuestro feed de vivecodigo.org.&lt;/p&gt;
+&lt;iframe src=&#34;//player.vimeo.com/video/77982880&#34; height=&#34;281&#34; width=&#34;500&#34; allowfullscreen=&#34;&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+&lt;!-- more --&gt;
+&lt;a href=&#34;http://vimeo.com/77982880&#34;&gt;ViveCodigo 01x05 - Coding Dojo (Codebreak)&lt;/a&gt; from &lt;a href=&#34;http://vimeo.com/makingdevs&#34;&gt;MakingDevs&lt;/a&gt; on &lt;a href=&#34;https://vimeo.com&#34;&gt;Vimeo&lt;/a&gt;.
+Se pueden suscribir al &lt;a href=&#34;http://vivecodigo.org/feed.xml&#34;&gt;feed&lt;/a&gt; de ViveCodigo.org o encuentranos en iTunes como: &lt;a href=&#34;https://itunes.apple.com/ca/podcast/vivecodigo.org-videocast/id685052596&#34;&gt;ViveCodigo.org - VideoCast&lt;/a&gt;
+</description>
+        </item>
+        <item>
+        <title>Podcast 15 de la temporada 0</title>
+        <link>https://vivecodigo.org/blog/2012/03/15/podcast-15-de-la-temporada-0/</link>
+        <pubDate>Thu, 15 Mar 2012 13:48:39 -0500</pubDate>
+        
+        <guid>https://vivecodigo.org/blog/2012/03/15/podcast-15-de-la-temporada-0/</guid>
+        <description>&lt;img src="https://vivecodigo.org/images/covers/2015-08-15-podcast-15-de-la-temporada-0.svg" alt="Featured image of post Podcast 15 de la temporada 0" /&gt;&lt;p&gt;Bienvenidos nuevamente a esta emisión de ViveCodigo.org.&lt;/p&gt;
+&lt;p&gt;Previo a nuestra actividad entramos en una charla muy amena, al respecto de la adopción del Testing como técnica de programación y la necesidad de adoptarlo.&lt;/p&gt;
+&lt;p&gt;Y en esta ocasión estamos presentando nuestro tercer #CodingDojo, en donde, de la mano de respetables desarrolladores tratamos de resolver una Kata de nombre: LCD Numbers.&lt;/p&gt;
+&lt;iframe src=&#34;https://player.vimeo.com/video/38532924&#34; height=&#34;281&#34; width=&#34;500&#34; allowfullscreen=&#34;&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+&lt;!-- more --&gt;
+Esta Kata consiste en crear una función que me permita convertir un número entre el 0 y el 9 a su representación en LCD, sin embargo, el acercamiento que se le debe hace a este ejercicio es mediante una prueba, de tal forma que se empiece a resolver de la forma más simple y se progrese en su desarrollo mientras se sigue ejecutando dicha prueba.
+&lt;p&gt;Esto es lo primero que se debe realizar:&lt;/p&gt;
+&lt;pre class=&#34;brush:java;&#34;&gt;String numberLCD =  &#34; - \n&#34; +
+                    &#34;| |\n&#34; +
+                    &#34; - \n&#34; +
+                    &#34;| |\n&#34; +
+                    &#34; - &#34;;
+assert convertToLCD(8) == numberLCD;&lt;/pre&gt;
+&lt;p&gt;Se recomienda comenzar con el número 1, e ir avanzando progresivamente con los demás números para refinar tanto el código como la prueba.&lt;/p&gt;
+&lt;p&gt;Además, existen por así decirlo, dos tipos de fuentes, las cuales mostramos a continuación:&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;&lt;a href=&#34;http://vivecodigo.org/2012/03/15/podcast-15-de-la-temporada-0/ang-2qycaaii4-h-jpg-large/&#34; rel=&#34;attachment wp-att-268&#34;&gt;&lt;img class=&#34;size-medium wp-image-268 aligncenter&#34; title=&#34;Ang-2qYCAAIi4-h.jpg-large&#34; alt=&#34;&#34; src=&#34;https://vivecodigo.org/images/Ang-2qYCAAIi4-h.jpg-large-300x91.jpg&#34; width=&#34;300&#34; height=&#34;91&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+Como se puede apreciar, la fuente grande consiste de 5 líneas y la pequeña de 3, en la experiencia de quienes han desarrollado la Kata, la de 5 líneas es la más sencilla de implementar, por lo tanto se recomienda comenzar con dicha implementación.
+&lt;p&gt;Queremos agradecer a quienes asistieron al Dojo:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Theo Grip(&lt;a href=&#34;http://twitter.com/tgrip&#34;&gt;@tgrip&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;Alfredo Chávez(&lt;a href=&#34;http://twitter.com/alfredochv&#34;&gt;@alfredochv&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;Alcides Flores(&lt;a href=&#34;http://twitter.com/alcidesfp&#34;&gt;@alcidesfp&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;Edgar López(&lt;a href=&#34;http://twitter.com/iamcoder&#34;&gt;@iamcoder&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+Y ponemos sus soluciones disponibles a través de nuestro GitHub para que se descarguen las soluciones que desarrollaron:
+&lt;ul&gt;
+  &lt;li&gt;Alfredo
+&lt;ul&gt;
+  &lt;li&gt;Python
+&lt;ul&gt;
+  &lt;li&gt;LCD numbers kata and tests -&amp;gt; &lt;a href=&#34;https://gist.github.com/2025419&#34;&gt;https://gist.github.com/2025419&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+  &lt;li&gt;Java
+&lt;ul&gt;
+  &lt;li&gt;LCD numbers&#39; tests -&amp;gt; &lt;a href=&#34;https://gist.github.com/2025444&#34;&gt;https://gist.github.com/2025444&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;LCD numbers kata -&amp;gt; &lt;a href=&#34;https://gist.github.com/2025449&#34;&gt;https://gist.github.com/2025449&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+  &lt;li&gt;C#
+&lt;ul&gt;
+  &lt;li&gt;LCD numbers&#39; tests -&amp;gt; &lt;a href=&#34;https://gist.github.com/2025462&#34;&gt;https://gist.github.com/2025462&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;LCD numbers kata -&amp;gt; &lt;a href=&#34;https://gist.github.com/2025475&#34;&gt;https://gist.github.com/2025475&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+  &lt;li&gt;Alcides
+&lt;ul&gt;
+  &lt;li&gt;Pruebas unitarias: &lt;a href=&#34;https://gist.github.com/2027117&#34;&gt;https://gist.github.com/2027117&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Código de producción: &lt;a href=&#34;https://gist.github.com/2027144&#34;&gt;https://gist.github.com/2027144&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+  &lt;li&gt;José Juan
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&#34;https://gist.github.com/2046018&#34;&gt;https://gist.github.com/2046018&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+  &lt;li&gt;Theo Grip
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&#34;https://github.com/tgrip/CodingKata&#34;&gt;https://github.com/tgrip/CodingKata&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+  &lt;li&gt;Edgar López
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&#34;https://github.com/elopezanaya/Katas&#34; target=&#34;_blank&#34;&gt;https://github.com/elopezanaya/Katas&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+  &lt;li&gt;Incluso hubo quién la hizo  distancia. Rodrigo Salado Anaya:
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&#34;https://gist.github.com/2051680&#34;&gt;https://gist.github.com/2051680&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+Además, les dejamos el archivo para que lo descarguen directamente:
+&lt;strong&gt;
+&lt;a href=&#34;http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x15.mov&#34;&gt;Video&lt;/a&gt;
+&lt;/strong&gt;
+&lt;p&gt;Hemos venido disfrutando mucho de estos Dojo&amp;rsquo;s, te invitamos a que asistas al siguiente Dojo.&lt;/p&gt;
+&lt;p&gt;Mantente atento y esperalo.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Podcast 12 de la temporada 0</title>
+        <link>https://vivecodigo.org/blog/2012/01/19/podcast-12-de-la-temporada-0/</link>
+        <pubDate>Thu, 19 Jan 2012 15:25:38 -0500</pubDate>
+        
+        <guid>https://vivecodigo.org/blog/2012/01/19/podcast-12-de-la-temporada-0/</guid>
+        <description>&lt;img src="https://vivecodigo.org/images/covers/2015-08-15-podcast-12-de-la-temporada-0.svg" alt="Featured image of post Podcast 12 de la temporada 0" /&gt;&lt;p&gt;Bienvenidos a esta nueva emisión del podcast de ViveCodigo.org, en esta ocasión tenemos el agrado de presentarles lo acontecido durante el 2do. Coding Dojo en donde resolvimos un par de ejercicios:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;#7 Project Euler&lt;/li&gt;
+  &lt;li&gt;Kata: Roman Numerals&lt;/li&gt;
+&lt;/ol&gt;
+Queremos agradecer a los asistentes al Dojo por su participación y por sus resultados, y también por compartir sus soluciones con nosotros; aquí listamos a los desarrolladores del Dojo y la liga donde pueden encontrar el código que desarrollaron:
+&lt;iframe src=&#34;https://player.vimeo.com/video/35331361?color=ff9933&#34; width=&#34;500&#34; height=&#34;281&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+&lt;br/&gt;&lt;br/&gt;
+&lt;!-- more --&gt;
+&lt;iframe src=&#34;https://player.vimeo.com/video/35698652?color=ff9933&#34; width=&#34;500&#34; height=&#34;281&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+&lt;ul&gt;
+  &lt;li&gt;Theo Grip - &lt;a href=&#34;http://twitter.com/tgrip&#34;&gt;@tgrip&lt;/a&gt; - &lt;a href=&#34;https://github.com/tgrip/CodingKata&#34;&gt;https://github.com/tgrip/CodingKata&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Joan Alonso - &lt;a href=&#34;http://twitter.com/jmalonsos&#34;&gt;@jmalonsos&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Omar Bautista - &lt;a href=&#34;http://twitter.com/joxebus&#34;&gt;@joxebus&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Gerardo Aquino - &lt;a href=&#34;http://twitter.com/java_daba_doo&#34;&gt;@java_daba_doo&lt;/a&gt; - &lt;a href=&#34;https://github.com/javadabadoo/CodingDojo&#34;&gt;https://github.com/javadabadoo/CodingDojo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Antonio Sandoval - &lt;a href=&#34;http://twitter.com/__arch3r&#34;&gt;@__arch3r&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Javier Ramírez - &lt;a href=&#34;http://twitter.com/_benek&#34;&gt;@_benek&lt;/a&gt; - &lt;a href=&#34;https://github.com/benek/CodingDojo2&#34;&gt;https://github.com/benek/CodingDojo2&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Rodrigo Salado - &lt;a href=&#34;http://twitter.com/rodrigo_salado&#34;&gt;@rodrigo_salado&lt;/a&gt; - &lt;a href=&#34;http://www.javamexico.org/blogs/rodrigo_salado_anaya/coding_dojo_2&#34;&gt;http://www.javamexico.org/blogs/rodrigo_salado_anaya/coding_dojo_2&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Alfredo Chávez - &lt;a href=&#34;http://twitter.com/alfredochv&#34;&gt;@alfredochv&lt;/a&gt;
+&lt;ol&gt;
+  &lt;li&gt;Ejercicio #7 del proyecto Euler:
+&lt;ul&gt;
+  &lt;li&gt;Implementación: &lt;a href=&#34;https://gist.github.com/1623748&#34;&gt;https://gist.github.com/1623748&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Pruebas unitarias: &lt;a href=&#34;https://gist.github.com/1623754&#34;&gt;https://gist.github.com/1623754&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+  &lt;li&gt;Coding Kata &#34;Roman Numerals&#34;:
+&lt;ul&gt;
+  &lt;li&gt;Versión inicial, sin refactorizar: &lt;a href=&#34;https://gist.github.com/1623830&#34;&gt;https://gist.github.com/1623830&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Versión refactorizada para hacer el código más explícito (esta es la que vieron en el proyector): &lt;a href=&#34;https://gist.github.com/1623819&#34;&gt;https://gist.github.com/1623819&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Pruebas unitarias: &lt;a href=&#34;https://gist.github.com/1623958&#34;&gt;https://gist.github.com/1623958&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Adicionalmente nos gustaría compartir con ustedes algunos comentarios hechos dentro y fuera del Dojo que consideramos aportan valor a quienes quieren ser mejores desarrolladores:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;quot;&amp;hellip;Sigo insistiendo en la necesidad de dejar de ver al TDD como una mera técnica y pasar a considerarla como un &amp;ldquo;core skill&amp;rdquo; de todo desarrollador de software (después de todo, si escribes una pruebita &lt;em&gt;después&lt;/em&gt; para &amp;ldquo;demostrar&amp;rdquo; que lo que escribiste si jala, ya no es TDD ni tiene la utilidad de aquel). Creo que eventos como el Coding Dojo son cruciales para ello y me siento muy contento de haber participado en esta edición y seguiré con interés las noticias de próximos eventos&amp;hellip;&amp;quot;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;Yo siempre he pensado que es responsabilidad de los desarrolladores más seniors guiar a los más rockies, pero no con chapuzas ni &amp;ldquo;trucos&amp;rdquo;, sino con verdaderos principios y prácticas sólidas, que no solo aumenten sus posibilidades de éxito propias y de los proyectos en los que participen, sino que se eviten a sí mismos (y a sus compañeros) dolores de cabeza de mantenimiento a futuro.&amp;quot;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;rdquo;&amp;hellip;Han sido más de 10 años desde que TDD se hizo publico y veo con tristeza que sigue pasando el tiempo y en México (salvo honrosas excepciones) no estamos ni cerca de una adopción de esta y otras mejores prácticas que nos permitan verdaderamente explotar el potencial que tenemos como país en el desarrollo de las TIs y ponernos al tú por tú con la Chile, Brasil o la India. En todos lados oigo o leo a gente dando &amp;ldquo;lip service&amp;rdquo; al TDD y &lt;em&gt;muy&lt;/em&gt; poca que realmente la practica diciendo cosas como &amp;ldquo;es que mi jefe no me deja&amp;rdquo;, &amp;ldquo;es que en un proyecto real está cañón&amp;rdquo; y cosas por el estilo.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Dejando de lado incluso el asunto del TDD, aún más importante está el asunto de escribir código limpio y legible (claro que tu y yo sabemos que las dos cosas están relacionadas) y creo que en ese aspecto si hay un avance, por lo menos entre los asistentes al Dojo. Me sentí muy satisfecho de ver código bien escrito en la mayoría de los casos&amp;hellip;&amp;quot;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Coincidimos en la importancia de mejorar a los desarrolladores, y nuestro compromiso como comunidad y podcast será continuar con este tipo de eventos, así como, actividades que fomenten el incrementar las habilidades de las personas que son responsables de darle alma/vida al hardware.&lt;/p&gt;
+&lt;p&gt;Que los disfruten tanto como nosotros&amp;hellip;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Podcast 10 de la temporada 0</title>
+        <link>https://vivecodigo.org/blog/2011/12/21/podcast-10-de-la-temporada-0/</link>
+        <pubDate>Wed, 21 Dec 2011 01:50:45 -0500</pubDate>
+        
+        <guid>https://vivecodigo.org/blog/2011/12/21/podcast-10-de-la-temporada-0/</guid>
+        <description>&lt;img src="https://vivecodigo.org/images/covers/2015-08-15-podcast-10-de-la-temporada-0.svg" alt="Featured image of post Podcast 10 de la temporada 0" /&gt;&lt;p&gt;Solo el audio del podcast:&lt;/p&gt;
+&lt;p&gt;&lt;object width=&#34;400&#34; height=&#34;27&#34; classid=&#34;clsid:d27cdb6e-ae6d-11cf-96b8-444553540000&#34; codebase=&#34;http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0&#34;&gt;&lt;param name=&#34;src&#34; value=&#34;http://www.google.com/reader/ui/3523697345-audio-player.swf&#34; /&gt;&lt;param name=&#34;quality&#34; value=&#34;best&#34; /&gt;&lt;param name=&#34;flashvars&#34; value=&#34;audioUrl=http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x10.mp3&#34; /&gt;&lt;embed width=&#34;400&#34; height=&#34;27&#34; type=&#34;application/x-shockwave-flash&#34; src=&#34;http://www.google.com/reader/ui/3523697345-audio-player.swf&#34; quality=&#34;best&#34; flashvars=&#34;audioUrl=http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x10.mp3&#34; /&gt;&lt;/object&gt;&lt;/p&gt;
+&lt;p&gt;Hola nuevamente a toda la comunidad de ViveCodigo.org y desarrolladores recién llegados!&lt;/p&gt;
+&lt;p&gt;En esta ocasión cambiamos la actividad de nuestro podcast, en este episodio dejamos de lado las entrevistas para dar paso a un Coding Dojo, en donde, invitamos a algunos desarrolladores a participar en la resolución de algunas Coding Katas, los conceptos del Dojo y su desarrollo lo podrás encontrar en este episodio.&lt;/p&gt;
+&lt;iframe src=&#34;https://player.vimeo.com/video/34008369?color=ff9933&#34; height=&#34;281&#34; width=&#34;500&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+&lt;!-- more --&gt;
+Agradecemos la presencia de:
+&lt;ul&gt;
+  &lt;li&gt;@&lt;a href=&#34;http://twitter.com/java_daba_doo&#34;&gt;java_daba_doo&lt;/a&gt; - Gerardo Aquino&lt;/li&gt;
+  &lt;li&gt;@&lt;a href=&#34;http://twitter.com/MachinesAreUs&#34;&gt;MachinesAreUs&lt;/a&gt; - Agustín Ramos&lt;/li&gt;
+  &lt;li&gt;@&lt;a href=&#34;http://twitter.com/tgrip&#34;&gt;tgrip&lt;/a&gt; - Theo Grip&lt;/li&gt;
+  &lt;li&gt;@&lt;a href=&#34;http://twitter.com/linuxtro&#34;&gt;linuxtro&lt;/a&gt; - Juan Francisco&lt;/li&gt;
+&lt;/ul&gt;
+Les dejamos algunas de las ligas utilizadas para del Coding Dojo:
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&#34;http://codingdojo.org/&#34;&gt;http://codingdojo.org/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;http://codingdojo.org/cgi-bin/wiki.pl?KataFizzBuzz&#34;&gt;http://codingdojo.org/cgi-bin/wiki.pl?KataFizzBuzz&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;http://osherove.com/tdd-kata-1/&#34;&gt;http://osherove.com/tdd-kata-1/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+Además les dejamos el código que se desarrollo en el Dojo:
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&#34;https://github.com/synergyj/ViveCodigo00x10&#34;&gt;https://github.com/synergyj/ViveCodigo00x10&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://github.com/MachinesAreUs/haskellPlayground&#34;&gt;https://github.com/MachinesAreUs/haskellPlayground&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+Como siempre les dejamos los archivos descargables tanto del video como del audio:
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&#34;http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x10.mov&#34;&gt;Video&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x10.mp3&#34;&gt;Audio&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+Esperamos lo disfruten tanto como nosotros...
+</description>
+        </item>
+        
+    </channel>
+</rss>

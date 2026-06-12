@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Entrevista on ViveCodigo.org</title>
+        <link>https://vivecodigo.org/tags/entrevista/</link>
+        <description>Recent content in Entrevista on ViveCodigo.org</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>es-mx</language>
+        <copyright>MakingDevs</copyright>
+        <lastBuildDate>Fri, 06 Jan 2012 18:57:41 -0500</lastBuildDate><atom:link href="https://vivecodigo.org/tags/entrevista/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Podcast 11 de la Temporada 0</title>
+        <link>https://vivecodigo.org/blog/2012/01/06/podcast-11-de-la-temporada-0/</link>
+        <pubDate>Fri, 06 Jan 2012 18:57:41 -0500</pubDate>
+        
+        <guid>https://vivecodigo.org/blog/2012/01/06/podcast-11-de-la-temporada-0/</guid>
+        <description>&lt;img src="https://vivecodigo.org/images/covers/2015-08-15-podcast-11-de-la-temporada-0.svg" alt="Featured image of post Podcast 11 de la Temporada 0" /&gt;&lt;p&gt;Bienvenidos nuevamente al podcast de ViveCodigo!&lt;/p&gt;
+&lt;p&gt;En esta ocasión tuvimos la oportunidad de entrevistar a &lt;a href=&#34;https://twitter.com/#!/jorgeo&#34;&gt;Jorge Ortíz&lt;/a&gt;, quien es un ingeniero que actualmente trabaja en &lt;a href=&#34;http://foursquare.com/&#34;&gt;FourSquare&lt;/a&gt; y ha tenido una trayectoria destacable en el mundo del desarrollo de software.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/#!/jorgeo&#34;&gt;Jorge&lt;/a&gt; nos platicó acerca de como ha sido su trayectoria y como fue que llego a FourSquare, también, nos platica del conjunto de tecnologías que están usando y los problemas que ha resuelto con ellas.&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;&lt;embed type=&#34;application/x-shockwave-flash&#34; width=&#34;400&#34; height=&#34;27&#34; src=&#34;http://www.google.com/reader/ui/3523697345-audio-player.swf&#34; quality=&#34;best&#34; flashvars=&#34;audioUrl=http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x11.mp3&#34;&gt;&lt;/embed&gt;&lt;/p&gt;
+&lt;!-- more --&gt;
+Además nos platica como ha sido su experiencia dentro del entorno de las startups; se considera un entusiasta en el uso de &lt;a href=&#34;http://www.scala-lang.org/&#34;&gt;Scala&lt;/a&gt; y comenta cuales son las cosas con las que se ha enfrentado debido a que el producto que esta desarrollando es diferente a muchos otros.
+&lt;p&gt;Jorge nos comparte su experiencia en uso de bases de datos NoSQL y las historias que ha presenciado en las migraciones de datos.&lt;/p&gt;
+&lt;p&gt;En fin, hay muchas cosas que puedes escuchar al respecto en esta entrevista.&lt;/p&gt;
+&lt;p&gt;Este ha sido el primer podcast en ViveCodigo en donde publicaremos únicamente el audio, pues no tuvimos la oportunidad de que Jorge o nosotros nos encontráramos en el mismo lugar físico, sin embargo, creemos que esta entrevista tiene muchas joyas acerca del desarrollo de software de una aplicación como &lt;a href=&#34;http://foursquare.com/&#34;&gt;FourSquare&lt;/a&gt;.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&#34;http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x11.mp3&#34;&gt;Aquí la liga con el archivo descargable.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;http://www.slideshare.net/jorgeortiz85&#34;&gt;El perfil de Jorge en SlideShare&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;http://www.10gen.com/presentations/mongosf2011/foursquare&#34;&gt;Una presentación de Jorge Ortíz&lt;/a&gt; hablando de &lt;a href=&#34;http://www.mongodb.org/&#34;&gt;MongoDB&lt;/a&gt; para FourSquare&lt;/li&gt;
+&lt;/ul&gt;
+Esperamos que lo disfruten tanto como nosotros cuando lo grabamos.
+&lt;p&gt;&lt;strong&gt;ATTE&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Staff de ViveCodigo&lt;/strong&gt;&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Testing on ViveCodigo.org</title>
+        <link>https://vivecodigo.org/tags/testing/</link>
+        <description>Recent content in Testing on ViveCodigo.org</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>es-mx</language>
+        <copyright>MakingDevs</copyright>
+        <lastBuildDate>Wed, 11 Sep 2013 00:58:59 -0500</lastBuildDate><atom:link href="https://vivecodigo.org/tags/testing/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Episodio 2 de la temporada 1 – Testing @chrix2</title>
+        <link>https://vivecodigo.org/blog/2013/09/11/episodio-2-de-la-temporada-1-testing-@chrix2/</link>
+        <pubDate>Wed, 11 Sep 2013 00:58:59 -0500</pubDate>
+        
+        <guid>https://vivecodigo.org/blog/2013/09/11/episodio-2-de-la-temporada-1-testing-@chrix2/</guid>
+        <description>&lt;img src="https://vivecodigo.org/images/covers/2015-08-15-episodio-2-de-la-temporada-1-testing-at-chrix2.svg" alt="Featured image of post Episodio 2 de la temporada 1 – Testing @chrix2" /&gt;&lt;p&gt;Bienvenidos sean a esta nueva emisión del podcast el episodio numero 2 de la temporada numero 1.&lt;/p&gt;
+&lt;p&gt;En esta ocasión un amigo ya conocido Christian Ramírez - @chrix2 Nos viene a platicar de su experiencia personal y la relación que encuentra entre desarrollar software y la apreciación artística.
+Esta platica circula por ámbitos meramente comunes para las bellas artes y las analogías que podemos hacer con la creación de las pruebas, la apreciación de las mismas, e incluso la observación sobre los sistemas legados.
+A pesar de que no hay una demo en código, la charla es muy interesante y puede que aquellos que aprecian el arte puedan comprenderla con más facilidad, y los que no, como el caso del entrevistador se animen a encontrar la inspiración en alguna de las bellas artes.&lt;/p&gt;
+&lt;p&gt;¡Espero lo disfruten! y apreciamos mucho cualquier comentario que nos puedan dejar, pronto mas capítulos de la temporada 01.&lt;/p&gt;
+&lt;iframe src=&#34;//player.vimeo.com/video/74242590&#34; height=&#34;281&#34; width=&#34;500&#34; allowfullscreen=&#34;&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+&lt;!-- more --&gt;
+&lt;a href=&#34;http://vimeo.com/74242590&#34;&gt;ViveCodigo 01x02 - Relación, conexiones y aplicaciones del arte al testing&lt;/a&gt; from &lt;a href=&#34;http://vimeo.com/makingdevs&#34;&gt;MakingDevs&lt;/a&gt; on &lt;a href=&#34;https://vimeo.com&#34;&gt;Vimeo&lt;/a&gt;.
+&lt;iframe src=&#34;//player.vimeo.com/video/74247508&#34; height=&#34;281&#34; width=&#34;500&#34; allowfullscreen=&#34;&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href=&#34;http://vimeo.com/74247508&#34;&gt;ViveCodigo 01x02 - Testing Parte 2&lt;/a&gt; from &lt;a href=&#34;http://vimeo.com/makingdevs&#34;&gt;MakingDevs&lt;/a&gt; on &lt;a href=&#34;https://vimeo.com&#34;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Se pueden suscribir al &lt;a href=&#34;http://vivecodigo.org/feed.xml&#34;&gt;feed&lt;/a&gt; de ViveCodigo.org o encuentranos en iTunes como: &lt;a href=&#34;https://itunes.apple.com/ca/podcast/vivecodigo.org-videocast/id685052596&#34;&gt;ViveCodigo.org - VideoCast&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Podcast 15 de la temporada 0</title>
+        <link>https://vivecodigo.org/blog/2012/03/15/podcast-15-de-la-temporada-0/</link>
+        <pubDate>Thu, 15 Mar 2012 13:48:39 -0500</pubDate>
+        
+        <guid>https://vivecodigo.org/blog/2012/03/15/podcast-15-de-la-temporada-0/</guid>
+        <description>&lt;img src="https://vivecodigo.org/images/covers/2015-08-15-podcast-15-de-la-temporada-0.svg" alt="Featured image of post Podcast 15 de la temporada 0" /&gt;&lt;p&gt;Bienvenidos nuevamente a esta emisión de ViveCodigo.org.&lt;/p&gt;
+&lt;p&gt;Previo a nuestra actividad entramos en una charla muy amena, al respecto de la adopción del Testing como técnica de programación y la necesidad de adoptarlo.&lt;/p&gt;
+&lt;p&gt;Y en esta ocasión estamos presentando nuestro tercer #CodingDojo, en donde, de la mano de respetables desarrolladores tratamos de resolver una Kata de nombre: LCD Numbers.&lt;/p&gt;
+&lt;iframe src=&#34;https://player.vimeo.com/video/38532924&#34; height=&#34;281&#34; width=&#34;500&#34; allowfullscreen=&#34;&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+&lt;!-- more --&gt;
+Esta Kata consiste en crear una función que me permita convertir un número entre el 0 y el 9 a su representación en LCD, sin embargo, el acercamiento que se le debe hace a este ejercicio es mediante una prueba, de tal forma que se empiece a resolver de la forma más simple y se progrese en su desarrollo mientras se sigue ejecutando dicha prueba.
+&lt;p&gt;Esto es lo primero que se debe realizar:&lt;/p&gt;
+&lt;pre class=&#34;brush:java;&#34;&gt;String numberLCD =  &#34; - \n&#34; +
+                    &#34;| |\n&#34; +
+                    &#34; - \n&#34; +
+                    &#34;| |\n&#34; +
+                    &#34; - &#34;;
+assert convertToLCD(8) == numberLCD;&lt;/pre&gt;
+&lt;p&gt;Se recomienda comenzar con el número 1, e ir avanzando progresivamente con los demás números para refinar tanto el código como la prueba.&lt;/p&gt;
+&lt;p&gt;Además, existen por así decirlo, dos tipos de fuentes, las cuales mostramos a continuación:&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;&lt;a href=&#34;http://vivecodigo.org/2012/03/15/podcast-15-de-la-temporada-0/ang-2qycaaii4-h-jpg-large/&#34; rel=&#34;attachment wp-att-268&#34;&gt;&lt;img class=&#34;size-medium wp-image-268 aligncenter&#34; title=&#34;Ang-2qYCAAIi4-h.jpg-large&#34; alt=&#34;&#34; src=&#34;https://vivecodigo.org/images/Ang-2qYCAAIi4-h.jpg-large-300x91.jpg&#34; width=&#34;300&#34; height=&#34;91&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+Como se puede apreciar, la fuente grande consiste de 5 líneas y la pequeña de 3, en la experiencia de quienes han desarrollado la Kata, la de 5 líneas es la más sencilla de implementar, por lo tanto se recomienda comenzar con dicha implementación.
+&lt;p&gt;Queremos agradecer a quienes asistieron al Dojo:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Theo Grip(&lt;a href=&#34;http://twitter.com/tgrip&#34;&gt;@tgrip&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;Alfredo Chávez(&lt;a href=&#34;http://twitter.com/alfredochv&#34;&gt;@alfredochv&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;Alcides Flores(&lt;a href=&#34;http://twitter.com/alcidesfp&#34;&gt;@alcidesfp&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;Edgar López(&lt;a href=&#34;http://twitter.com/iamcoder&#34;&gt;@iamcoder&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+Y ponemos sus soluciones disponibles a través de nuestro GitHub para que se descarguen las soluciones que desarrollaron:
+&lt;ul&gt;
+  &lt;li&gt;Alfredo
+&lt;ul&gt;
+  &lt;li&gt;Python
+&lt;ul&gt;
+  &lt;li&gt;LCD numbers kata and tests -&amp;gt; &lt;a href=&#34;https://gist.github.com/2025419&#34;&gt;https://gist.github.com/2025419&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+  &lt;li&gt;Java
+&lt;ul&gt;
+  &lt;li&gt;LCD numbers&#39; tests -&amp;gt; &lt;a href=&#34;https://gist.github.com/2025444&#34;&gt;https://gist.github.com/2025444&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;LCD numbers kata -&amp;gt; &lt;a href=&#34;https://gist.github.com/2025449&#34;&gt;https://gist.github.com/2025449&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+  &lt;li&gt;C#
+&lt;ul&gt;
+  &lt;li&gt;LCD numbers&#39; tests -&amp;gt; &lt;a href=&#34;https://gist.github.com/2025462&#34;&gt;https://gist.github.com/2025462&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;LCD numbers kata -&amp;gt; &lt;a href=&#34;https://gist.github.com/2025475&#34;&gt;https://gist.github.com/2025475&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+  &lt;li&gt;Alcides
+&lt;ul&gt;
+  &lt;li&gt;Pruebas unitarias: &lt;a href=&#34;https://gist.github.com/2027117&#34;&gt;https://gist.github.com/2027117&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Código de producción: &lt;a href=&#34;https://gist.github.com/2027144&#34;&gt;https://gist.github.com/2027144&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+  &lt;li&gt;José Juan
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&#34;https://gist.github.com/2046018&#34;&gt;https://gist.github.com/2046018&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+  &lt;li&gt;Theo Grip
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&#34;https://github.com/tgrip/CodingKata&#34;&gt;https://github.com/tgrip/CodingKata&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+  &lt;li&gt;Edgar López
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&#34;https://github.com/elopezanaya/Katas&#34; target=&#34;_blank&#34;&gt;https://github.com/elopezanaya/Katas&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+  &lt;li&gt;Incluso hubo quién la hizo  distancia. Rodrigo Salado Anaya:
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&#34;https://gist.github.com/2051680&#34;&gt;https://gist.github.com/2051680&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+Además, les dejamos el archivo para que lo descarguen directamente:
+&lt;strong&gt;
+&lt;a href=&#34;http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x15.mov&#34;&gt;Video&lt;/a&gt;
+&lt;/strong&gt;
+&lt;p&gt;Hemos venido disfrutando mucho de estos Dojo&amp;rsquo;s, te invitamos a que asistas al siguiente Dojo.&lt;/p&gt;
+&lt;p&gt;Mantente atento y esperalo.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Podcast 4 de la temporada 0</title>
+        <link>https://vivecodigo.org/blog/2011/06/15/podcast-4-de-la-temporada-0/</link>
+        <pubDate>Wed, 15 Jun 2011 15:31:23 -0500</pubDate>
+        
+        <guid>https://vivecodigo.org/blog/2011/06/15/podcast-4-de-la-temporada-0/</guid>
+        <description>&lt;img src="https://vivecodigo.org/images/covers/2015-08-15-podcast-4-de-la-temporada-0.svg" alt="Featured image of post Podcast 4 de la temporada 0" /&gt;&lt;p&gt;Hola a todos!!!&lt;/p&gt;
+&lt;p&gt;Nos complace entregarles la quinta emisión del podcast en donde el tema principal es Testing.&lt;/p&gt;
+&lt;p&gt;Como invitado tenemos a Christian Ramírez(@chrix2) QA Architect en Certum, durante el podcast hablamos del ecosistema de Testing, desde conceptos básicos como las características de las pruebas hasta elementos que Christian usa en su trabajo diario como Cloud Testing. En el screencast Christian nos muestra como ejecutar pruebas con Selenium y Python, en su ambiente de desarrollo local y en la nube.&lt;/p&gt;
+&lt;p&gt;&lt;iframe src=&#34;https://player.vimeo.com/video/25154668?color=ff9933&#34; height=&#34;281&#34; width=&#34;500&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;!-- more --&gt;
+&lt;p&gt;Escucha el podcast sin descargarlo:&lt;/p&gt;
+&lt;p&gt;&lt;object width=&#34;400&#34; height=&#34;27&#34; classid=&#34;clsid:d27cdb6e-ae6d-11cf-96b8-444553540000&#34; codebase=&#34;http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0&#34;&gt;&lt;param name=&#34;src&#34; value=&#34;http://www.google.com/reader/ui/3523697345-audio-player.swf&#34; /&gt;&lt;param name=&#34;flashvars&#34; value=&#34;audioUrl=http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x04_a.mp3&#34; /&gt;&lt;param name=&#34;quality&#34; value=&#34;best&#34; /&gt;&lt;embed width=&#34;400&#34; height=&#34;27&#34; type=&#34;application/x-shockwave-flash&#34; src=&#34;http://www.google.com/reader/ui/3523697345-audio-player.swf&#34; flashvars=&#34;audioUrl=http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x04_a.mp3&#34; quality=&#34;best&#34; /&gt;&lt;/object&gt;&lt;/p&gt;
+&lt;p&gt;La entrega del segundo episodio:&lt;/p&gt;
+&lt;p&gt;&lt;iframe src=&#34;https://player.vimeo.com/video/25191502?title=0&amp;amp;byline=0&amp;amp;portrait=0&amp;amp;color=ff9933&#34; height=&#34;281&#34; width=&#34;500&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;Para que recibas los episodios de ViveCodigo solo basta con que te suscribas al &lt;a href=&#34;http://vivecodigo.org/feed.xml&#34;&gt;feed&lt;/a&gt;...&lt;/p&gt;
+&lt;p&gt;Si desean descargar los videos y el audio, los dejamos a su disposición:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x04_a.mov&#34;&gt;Entrevista con Christian Ramírez(Video)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x04_b.mov&#34;&gt;Screencast de Testing(Video)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x04_a.mp3&#34;&gt;Entrevista con Christian Ramírez(Audio)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Adicionalmente, dejamos las urls que se comentaron durante la charla:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.xqual.com/&#34;&gt;http://www.xqual.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.testlink.org/&#34;&gt;http://blog.testlink.org/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Recuerden que Testing es &#34;ejercitar su software&#34;...&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

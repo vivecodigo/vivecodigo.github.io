@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Spring on ViveCodigo.org</title>
+        <link>https://vivecodigo.org/tags/spring/</link>
+        <description>Recent content in Spring on ViveCodigo.org</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>es-mx</language>
+        <copyright>MakingDevs</copyright>
+        <lastBuildDate>Thu, 08 Mar 2012 16:03:38 -0500</lastBuildDate><atom:link href="https://vivecodigo.org/tags/spring/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Resumen del SpringIO 2012</title>
+        <link>https://vivecodigo.org/blog/2012/03/08/resumen-del-springio-2012/</link>
+        <pubDate>Thu, 08 Mar 2012 16:03:38 -0500</pubDate>
+        
+        <guid>https://vivecodigo.org/blog/2012/03/08/resumen-del-springio-2012/</guid>
+        <description>&lt;img src="https://vivecodigo.org/images/covers/2015-08-15-resumen-del-springio-2012.svg" alt="Featured image of post Resumen del SpringIO 2012" /&gt;&lt;p&gt;Tuvimos la oportunidad de estar en el #SpringIO 2012 junto con otros desarrolladores muy destacados en el ecosistema Spring, Groovy y Grails.&lt;/p&gt;
+&lt;p&gt;Aquí el video y toda la información desde el blog de &lt;a href=&#34;http://blog.synergyj.com&#34;&gt;SynergyJ.com&lt;/a&gt;&lt;/p&gt;
+&lt;iframe src=&#34;https://player.vimeo.com/video/38128211?title=0&amp;amp;byline=0&amp;amp;portrait=0&#34; height=&#34;225&#34; width=&#34;400&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+&lt;p&gt;Que lo disfruten como nosotros&amp;hellip;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Podcast 0 de la temporada 0</title>
+        <link>https://vivecodigo.org/blog/2011/04/21/podcast-0-de-la-temporada-0/</link>
+        <pubDate>Thu, 21 Apr 2011 19:45:03 -0500</pubDate>
+        
+        <guid>https://vivecodigo.org/blog/2011/04/21/podcast-0-de-la-temporada-0/</guid>
+        <description>&lt;img src="https://vivecodigo.org/images/covers/2015-08-15-podcast-0-de-la-temporada-0.svg" alt="Featured image of post Podcast 0 de la temporada 0" /&gt;&lt;p&gt;En esta primera emisión les damos la más cordial bienvenida a este proyecto&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Las notas que comentamos durante el podcast son las siguientes:&lt;/p&gt;
+&lt;div&gt;
+&lt;ul id=&#34;internal-source-marker_0.6223568611312658&#34;&gt;
+  &lt;li&gt;Ceylon JVM Language
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&#34;http://www.infoq.com/news/2011/04/ceylon&#34;&gt;http://www.infoq.com/news/2011/04/ceylon&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;http://devstonez.wordpress.com/2011/04/13/introducing-the-ceylon-project-gavin-king-presentation-at-qcon-beijing-2011/&#34;&gt;http://devstonez.wordpress.com/2011/04/13/introducing-the-ceylon-project-gavin-king-presentation-at-qcon-beijing-2011/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+  &lt;li&gt;Cloud Foundry for Spring Developers
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&#34;http://blog.springsource.com/2011/04/12/cloud-foundry-for-spring-developers/&#34;&gt;http://blog.springsource.com/2011/04/12/cloud-foundry-for-spring-developers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;http://blog.springsource.com/2011/04/12/launching-cloud-foundry/&#34;&gt;http://blog.springsource.com/2011/04/12/launching-cloud-foundry/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;!-- more --&gt;
+Y el tema principal es acerca del uso de un par de plugins de &lt;strong&gt;jquery&lt;/strong&gt;:
+&lt;ul&gt;
+  &lt;li&gt;Plugins de graficación
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&#34;http://sixrevisions.com/javascript/20-fresh-javascript-data-visualization-libraries/&#34;&gt;http://sixrevisions.com/javascript/20-fresh-javascript-data-visualization-libraries/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+  &lt;li&gt;Los mejores 10 plugins del 2010
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&#34;http://www.newsticker88.com/10-best-jquery-plugins-of-2010/1945/&#34;&gt;http://www.newsticker88.com/10-best-jquery-plugins-of-2010/1945/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+Se pueden suscribir al &lt;strong&gt;&lt;a href=&#34;http://vivecodigo.org/feed.xml&#34;&gt;feed&lt;/a&gt;&lt;/strong&gt; o descargarlo directamente desde &lt;strong&gt;&lt;a href=&#34;http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x00_low.mov&#34;&gt;aquí&lt;/a&gt;&lt;/strong&gt;...
+&lt;p&gt;&lt;strong&gt;Esperemos que sea de su agrado&amp;hellip;&lt;/strong&gt;&lt;/p&gt;
+&lt;iframe src=&#34;https://player.vimeo.com/video/22732462&#34; width=&#34;540&#34; height=&#34;304&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+&lt;strong&gt;
+&lt;/strong&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

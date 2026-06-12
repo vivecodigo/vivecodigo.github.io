@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Infrastructure on ViveCodigo.org</title>
+        <link>https://vivecodigo.org/tags/infrastructure/</link>
+        <description>Recent content in Infrastructure on ViveCodigo.org</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>es-mx</language>
+        <copyright>MakingDevs</copyright>
+        <lastBuildDate>Tue, 07 Jul 2015 09:09:53 -0500</lastBuildDate><atom:link href="https://vivecodigo.org/tags/infrastructure/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>ViveCodigo – Amazon Web Services con Fernando Maza Bizarro @Fer_Maza_B</title>
+        <link>https://vivecodigo.org/blog/2015/07/07/vivecodigo-amazon-web-services-con-fernando-maza-bizarro-@fer_maza_b/</link>
+        <pubDate>Tue, 07 Jul 2015 09:09:53 -0500</pubDate>
+        
+        <guid>https://vivecodigo.org/blog/2015/07/07/vivecodigo-amazon-web-services-con-fernando-maza-bizarro-@fer_maza_b/</guid>
+        <description>&lt;img src="https://vivecodigo.org/images/covers/2015-08-15-vivecodigo-amazon-web-services-con-fernando-maza-bizarro-at-fer-maza-b.svg" alt="Featured image of post ViveCodigo – Amazon Web Services con Fernando Maza Bizarro @Fer_Maza_B" /&gt;&lt;p&gt;Nuevamente sean bienvenidos a otra emisión de su podcast favorito vivecodigo.org.&lt;/p&gt;
+&lt;p&gt;Esta vez contamos con la presencia de nuestro amigo Manuel Fernando Maza Bizarro - @Fer_Maza_B ingeniero en sistemas. quien nos platica de un tema muy interesante que es Amazon Web Services.&lt;/p&gt;
+&lt;p&gt;Amazon Web Services (AWS abreviado) es una colección de servicios de computación en la nube (también llamados servicios web) que en conjunto forman una plataforma de computación en la nube, ofrecidas a través de Internet por Amazon.com&lt;/p&gt;
+&lt;p&gt;Maza nos habla de los servicios mas recurridos he importantes de esta herramienta, desde una bereve historia de lo que es amazon pasando por diseño de nuestra ifrecstructura con este servicio o hacer un calculo de nuestras necesidades a nivel de servicios en la nube. Sin duda un tema muy interesante.&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;alignleft size-thumbnail wp-image-537&#34; src=&#34;https://vivecodigo.org/images/uno.jpg&#34; alt=&#34;uno&#34; width=&#34;150&#34; height=&#34;150&#34; /&gt;&lt;img class=&#34;alignleft size-thumbnail wp-image-535&#34; src=&#34;https://vivecodigo.org/images/dos.jpg&#34; alt=&#34;dos&#34; width=&#34;150&#34; height=&#34;150&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Les hacemos la cordial invitación a que se suscriban al &lt;a href=&#34;http://vivecodigo.org/feed.xml&#34;&gt;feed&lt;/a&gt;&amp;quot; &amp;ldquo;del Videocast de ViveCodigo.org o encontrarnos en iTunes como: &lt;a href=&#34;https://itunes.apple.com/ca/podcast/vivecodigo.org-videocast/id685052596&#34;&gt;ViveCodigo.org - VideoCast&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;O si lo prefieren al &lt;a href=&#34;http://media.vivecodigo.org.s3.amazonaws.com/podcast-audio/feed.xml&#34;&gt;feed&lt;/a&gt; del podcast de audio o en iTunes como:&lt;a href=&#34;https://itunes.apple.com/mz/podcast/vivecodigo.org-podcast/id722889939&#34;&gt;ViveCodigo.org - Podcast&lt;/a&gt;.&lt;/p&gt;
+&lt;!--more--&gt;¡Espero lo disfruten! y apreciamos mucho cualquier comentario que nos puedan dejar, pronto mas capítulos.
+&lt;iframe src=&#34;https://player.vimeo.com/video/132557815&#34; width=&#34;720&#34; height=&#34;405&#34; frameborder=&#34;0&#34; allowfullscreen=&#34;allowfullscreen&#34;&gt;&lt;/iframe&gt;
+&lt;iframe src=&#34;https://player.vimeo.com/video/132551768&#34; width=&#34;720&#34; height=&#34;405&#34; frameborder=&#34;0&#34; allowfullscreen=&#34;allowfullscreen&#34;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href=&#34;http://media.vivecodigo.org.s3.amazonaws.com/podcast-audio/files/ViveCodigo_Amazon_Web_Service_a.mp3&#34;&gt;&lt;img class=&#34;aligncenter&#34; src=&#34;https://vivecodigo.org/images/download.gif&#34; alt=&#34;download&#34; width=&#34;50&#34; height=&#34;50&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;ViveCodigo_Amazon_Web_Service_a.mp3&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;&lt;a href=&#34;http://media.vivecodigo.org.s3.amazonaws.com/podcast-audio/files/ViveCodigo_Amazon_Web_Service_b.mp3&#34;&gt;&lt;img class=&#34;aligncenter&#34; src=&#34;https://vivecodigo.org/images/download.gif&#34; alt=&#34;download&#34; width=&#34;50&#34; height=&#34;50&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;ViveCodigo_Amazon_Web_Service_b.mp3&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;Descarga el archivo mp3 del audio del Podcast o escuchalo aquí mismo.&lt;/p&gt;
+&lt;audio controls=&#34;controls&#34;&gt;&lt;source src=&#34;http://media.vivecodigo.org.s3.amazonaws.com/podcast-audio/files/ViveCodigo_Amazon_Web_Service_a.mp3&#34; type=&#34;audio/mpeg&#34; /&gt;&lt;/audio&gt; ViveCodigo_Amazon_Web_Service_a.mp3
+&lt;audio controls=&#34;controls&#34;&gt;&lt;source src=&#34;http://media.vivecodigo.org.s3.amazonaws.com/podcast-audio/files/ViveCodigo_Amazon_Web_Service_b.mp3&#34; type=&#34;audio/mpeg&#34; /&gt;&lt;/audio&gt; ViveCodigo_Amazon_Web_Service_b.mp3</description>
+        </item>
+        
+    </channel>
+</rss>

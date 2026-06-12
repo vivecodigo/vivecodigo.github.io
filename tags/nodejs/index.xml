@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Nodejs on ViveCodigo.org</title>
+        <link>https://vivecodigo.org/tags/nodejs/</link>
+        <description>Recent content in Nodejs on ViveCodigo.org</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>es-mx</language>
+        <copyright>MakingDevs</copyright>
+        <lastBuildDate>Fri, 15 Jul 2011 20:07:27 -0500</lastBuildDate><atom:link href="https://vivecodigo.org/tags/nodejs/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Podcast 6 de la temporada 0</title>
+        <link>https://vivecodigo.org/blog/2011/07/15/podcast-6-de-la-temporada-0/</link>
+        <pubDate>Fri, 15 Jul 2011 20:07:27 -0500</pubDate>
+        
+        <guid>https://vivecodigo.org/blog/2011/07/15/podcast-6-de-la-temporada-0/</guid>
+        <description>&lt;img src="https://vivecodigo.org/images/covers/2015-08-15-podcast-6-de-la-temporada-0.svg" alt="Featured image of post Podcast 6 de la temporada 0" /&gt;&lt;p&gt;Hola a toda la comunidad!
+En esta ocasión nos complace presentarles a Daniel Zavala(@Siedrix) que nos estará hablando de Node.JS un framework Javascript para desarrollo del lado servidor. A través de la entrevista, el aclara muchos puntos acerca del modelo de programación, y profundiza en la gran utilidad que tiene el usar este tipo de herramientas, además, nos comparte su experiencia en el conjunto de tecnologías que podemos encontrar para usar Javascript y nos platica acerca de su experiencia en México como desarrollador especialista en el tema.&lt;/p&gt;
+&lt;iframe src=&#34;https://player.vimeo.com/video/26493350?color=ff9933&#34; height=&#34;281&#34; width=&#34;500&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+&lt;!-- more --&gt;
+&lt;p&gt;En el screencast nos muestra un poco del lenguaje para desarrollar sobre Node.JS y nos hace una demo para la lectura de archivos simultáneos de forma asíncrona.&lt;/p&gt;
+&lt;iframe src=&#34;https://player.vimeo.com/video/26496629?title=0&amp;amp;byline=0&amp;amp;portrait=0&amp;amp;color=ff9933&#34; height=&#34;281&#34; width=&#34;500&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+&lt;p&gt;Si sólo quieres escuchar el audio de la entrevista, lo puedes hacer desde aquí:
+&lt;object width=&#34;400&#34; height=&#34;27&#34; classid=&#34;clsid:d27cdb6e-ae6d-11cf-96b8-444553540000&#34; codebase=&#34;http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0&#34;&gt;&lt;param name=&#34;src&#34; value=&#34;http://www.google.com/reader/ui/3523697345-audio-player.swf&#34; /&gt;&lt;param name=&#34;quality&#34; value=&#34;best&#34; /&gt;&lt;param name=&#34;flashvars&#34; value=&#34;audioUrl=http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x06_a.mp3&#34; /&gt;&lt;embed width=&#34;400&#34; height=&#34;27&#34; type=&#34;application/x-shockwave-flash&#34; src=&#34;http://www.google.com/reader/ui/3523697345-audio-player.swf&#34; quality=&#34;best&#34; flashvars=&#34;audioUrl=http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x06_a.mp3&#34; /&gt;&lt;/object&gt;&lt;/p&gt;
+&lt;p&gt;Adicionalmente, les dejamos los archivos para su descarga.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&#34;http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x06_a.mov&#34;&gt;Entrevista con Daniel Zavala(@Siedrix)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x06_b.mov&#34;&gt;Screencast de NodeJS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x06_a.mp3&#34;&gt;Audio de la entrevista&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+Y les enlistamos el conjunto de URL&#39;s que nos proporciono Daniel durante a charla:
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&#34;http://nodejs.org/&#34;&gt;Node.JS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;http://www.javascriptkata.com/2010/10/28/ready-js-prepare-your-javascript-for-production/&#34;&gt;http://www.javascriptkata.com/2010/10/28/ready-js-prepare-your-javascript-for-production/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;http://redistogo.com/&#34;&gt;http://redistogo.com/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;http://learnboost.github.com/cluster/&#34;&gt;http://learnboost.github.com/cluster/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://www.dotcloud.com/pricing/&#34;&gt;https://www.dotcloud.com/pricing/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;http://acko.net/blog/on-termkit&#34;&gt;http://acko.net/blog/on-termkit&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;http://www.phantomjs.org/&#34;&gt;http://www.phantomjs.org/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;http://api.jquery.com/delegate/&#34;&gt;http://api.jquery.com/delegate/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://github.com/jakesgordon/javascript-state-machine/blob/master/state-machine.js&#34;&gt;https://github.com/jakesgordon/javascript-state-machine/blob/master/state-machine.js&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;http://microjs.com/&#34;&gt;http://microjs.com/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;http://documentcloud.github.com/underscore/&#34;&gt;http://documentcloud.github.com/underscore/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;http://javascript.crockford.com/&#34;&gt;http://javascript.crockford.com/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+Que lo disfruten tanto como nosotros.
+&lt;p&gt;Saludos.&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
